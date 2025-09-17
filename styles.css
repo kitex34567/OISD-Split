@@ -1,0 +1,244 @@
+body {
+  font-family: 'Montserrat', Arial, sans-serif;
+  margin: 0;
+  background: #f9fafc;
+  color: #222;
+}
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1em;
+}
+header {
+  background: #101820;
+  color: #fff;
+  padding: 0.5em 0;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.03);
+}
+.nav-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo {
+  font-size: 1.8em;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+.logo span {
+  color: #fdb827;
+}
+nav a {
+  color: #fff;
+  margin-left: 1.5em;
+  text-decoration: none;
+  font-size: 1.05em;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+nav a:hover {
+  color: #fdb827;
+}
+#hero {
+  background: linear-gradient(90deg, #fdb827 0%, #101820 100%);
+  color: #fff;
+  padding: 3em 0 2em 0;
+}
+.hero-content {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2em;
+}
+.hero-text {
+  flex: 1 1 300px;
+}
+.hero-text h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+}
+.hero-text p {
+  font-size: 1.15em;
+  margin-bottom: 1.5em;
+}
+.btn-primary {
+  background: #101820;
+  color: #fdb827;
+  padding: 0.8em 2em;
+  border: none;
+  border-radius: 30px;
+  font-size: 1.05em;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.btn-primary:hover {
+  background: #fdb827;
+  color: #101820;
+}
+.hero-image img {
+  width: 350px;
+  border-radius: 20px;
+  box-shadow: 0 4px 20px rgba(16,24,32,0.18);
+}
+#leistungen {
+  background: #fff;
+  padding: 2.5em 0;
+}
+#leistungen h2 {
+  text-align: center;
+  margin-bottom: 2em;
+  color: #101820;
+}
+.services-grid {
+  display: flex;
+  gap: 2em;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.service-card {
+  background: #f9fafc;
+  border-radius: 14px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+  padding: 1.5em 1em;
+  text-align: center;
+  width: 300px;
+  transition: transform 0.2s;
+}
+.service-card:hover {
+  transform: translateY(-5px) scale(1.03);
+  box-shadow: 0 4px 20px rgba(16,24,32,0.16);
+}
+.service-card img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 1em;
+  height: 180px;
+  object-fit: cover;
+}
+.service-card h3 {
+  color: #fdb827;
+  margin-bottom: 0.5em;
+}
+.service-card p {
+  font-size: 1em;
+  color: #444;
+}
+#galerie {
+  background: #f9fafc;
+  padding: 2.5em 0;
+}
+#galerie h2 {
+  text-align: center;
+  margin-bottom: 2em;
+  color: #101820;
+}
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5em;
+}
+.gallery-grid img {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+  height: 180px;
+  object-fit: cover;
+}
+#kontakt {
+  background: #fff;
+  padding: 2.5em 0;
+}
+.contact-section {
+  max-width: 700px;
+  margin: 0 auto;
+}
+#kontakt h2 {
+  text-align: center;
+  margin-bottom: 1.5em;
+  color: #101820;
+}
+form {
+  background: #f9fafc;
+  border-radius: 12px;
+  padding: 2em;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+  margin-bottom: 1.5em;
+}
+.form-group {
+  margin-bottom: 1.2em;
+}
+label {
+  display: block;
+  margin-bottom: 0.5em;
+  color: #101820;
+  font-weight: 500;
+}
+input, textarea {
+  width: 100%;
+  padding: 0.7em;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 1em;
+  font-family: inherit;
+  resize: vertical;
+}
+textarea {
+  min-height: 120px;
+}
+.contact-info {
+  text-align: center;
+  color: #444;
+  font-size: 1.05em;
+}
+footer {
+  background: #101820;
+  color: #fff;
+  padding: 1.2em 0;
+  font-size: 0.95em;
+}
+.footer-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+footer a {
+  color: #fdb827;
+  text-decoration: none;
+  margin: 0 0.5em;
+}
+footer a:hover {
+  text-decoration: underline;
+}
+/* Responsive Design */
+@media (max-width: 900px) {
+  .hero-content, .services-grid, .footer-flex {
+    flex-direction: column;
+    align-items: center;
+  }
+  .service-card {
+    width: 90%;
+    margin-bottom: 1em;
+  }
+  .hero-image img {
+    width: 100%;
+    max-width: 350px;
+  }
+}
+@media (max-width: 600px) {
+  .container {
+    padding: 0 0.6em;
+  }
+  .hero-text h1 {
+    font-size: 1.5em;
+  }
+  .gallery-grid img, .service-card img {
+    height: 120px;
+  }
+  form {
+    padding: 1em;
+  }
+}
