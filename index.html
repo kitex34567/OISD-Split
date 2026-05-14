@@ -1,103 +1,68 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>DROHNE360 – Luftbildaufnahmen & Inspektion</title>
-  <link rel="stylesheet" href="styles.css">
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  <title>OISD EDL – Palo Alto / Prisma SSE</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
+    h1   { color: #1a1a2e; }
+    table{ border-collapse: collapse; width: 100%; }
+    th,td{ border: 1px solid #ccc; padding: .5rem .75rem; text-align: left; }
+    th   { background: #f0f0f0; }
+    a    { color: #0066cc; }
+    code { background: #f5f5f5; padding: .1rem .3rem; border-radius: 3px; }
+    .meta{ color: #555; font-size: .9rem; margin-bottom: 1.5rem; }
+  </style>
 </head>
 <body>
-  <header>
-    <div class="container nav-flex">
-      <div class="logo">DROHNE<span>360</span></div>
-      <nav>
-        <a href="#leistungen">Leistungen</a>
-        <a href="#galerie">Galerie</a>
-        <a href="#kontakt">Kontakt</a>
-      </nav>
-    </div>
-  </header>
-  <section id="hero">
-    <div class="container hero-content">
-      <div class="hero-text">
-        <h1>Professionelle Drohnenaufnahmen<br>für Immobilien, Gebäude & Events</h1>
-        <p>Beeindruckende Luftbilder und Videos für Inspektionen, Präsentationen und Veranstaltungen. Modernste Technik für höchste Qualität.</p>
-        <a href="#kontakt" class="btn-primary">Jetzt Anfrage stellen</a>
-      </div>
-      <div class="hero-image">
-        <img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=800&q=80" alt="Drohnenaufnahme" />
-      </div>
-    </div>
-  </section>
-
-  <section id="leistungen">
-    <div class="container">
-      <h2>Unsere Leistungen</h2>
-      <div class="services-grid">
-        <div class="service-card">
-          <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80" alt="Gebäudeinspektion">
-          <h3>Gebäudeinspektion</h3>
-          <p>Effiziente Überprüfung von Dach, Fassade und schwer zugänglichen Bereichen. Ideal für Immobilienbesitzer und Hausverwaltungen.</p>
-        </div>
-        <div class="service-card">
-          <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80" alt="Immobilienpräsentation">
-          <h3>Immobilienpräsentation</h3>
-          <p>Hochwertige Fotos & Videos für Makler, Hoteliers und Vermieter. Ihre Immobilie aus der besten Perspektive!</p>
-        </div>
-        <div class="service-card">
-          <img src="https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=400&q=80" alt="Eventaufnahmen">
-          <h3>Eventaufnahmen</h3>
-          <p>Unvergessliche Luftbilder von Festen, Hochzeiten und Konzerten. Halten Sie Ihre Veranstaltung spektakulär fest.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section id="galerie">
-    <div class="container">
-      <h2>Galerie</h2>
-      <div class="gallery-grid">
-        <img src="https://images.unsplash.com/photo-1468421870903-4df1664ac249?auto=format&fit=crop&w=400&q=80" alt="Galerie 1">
-        <img src="https://images.unsplash.com/photo-1465101178521-c1a4c4e7a251?auto=format&fit=crop&w=400&q=80" alt="Galerie 2">
-        <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80" alt="Galerie 3">
-        <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80" alt="Galerie 4">
-      </div>
-    </div>
-  </section>
-
-  <section id="kontakt">
-    <div class="container contact-section">
-      <h2>Kontakt aufnehmen</h2>
-      <form>
-        <div class="form-group">
-          <label for="name">Name*</label>
-          <input type="text" id="name" name="name" required>
-        </div>
-        <div class="form-group">
-          <label for="email">E-Mail*</label>
-          <input type="email" id="email" name="email" required>
-        </div>
-        <div class="form-group">
-          <label for="anfrage">Ihre Anfrage*</label>
-          <textarea id="anfrage" name="anfrage" required></textarea>
-        </div>
-        <button type="submit" class="btn-primary">Absenden</button>
-      </form>
-      <div class="contact-info">
-        <p><strong>E-Mail:</strong> info@drohne360.de</p>
-        <p><strong>Telefon:</strong> 01234 / 567890</p>
-      </div>
-    </div>
-  </section>
-
-  <footer>
-    <div class="container footer-flex">
-      <div>&copy; 2025 DROHNE360 – Luftbildaufnahmen & Inspektion</div>
-      <div>
-        <a href="#impressum">Impressum</a> | <a href="#datenschutz">Datenschutz</a>
-      </div>
-    </div>
-  </footer>
+  <h1>OISD Big Blocklist – EDL Files</h1>
+  <p class="meta">
+    Source: <a href="https://big.oisd.nl/domainswild">https://big.oisd.nl/domainswild</a><br>
+    Last updated: <strong>2026-05-14T12:02:16Z</strong>
+  </p>
+  <table>
+    <thead>
+      <tr><th>File</th><th>EDL URL (use in Palo Alto / Prisma SSE)</th></tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td>oisd_big_part1.txt</td>
+          <td><a href="https://kitex34567.github.io/test1/lists/oisd_big_part1.txt" target="_blank">https://kitex34567.github.io/test1/lists/oisd_big_part1.txt</a></td>
+        </tr>
+        <tr>
+          <td>oisd_big_part2.txt</td>
+          <td><a href="https://kitex34567.github.io/test1/lists/oisd_big_part2.txt" target="_blank">https://kitex34567.github.io/test1/lists/oisd_big_part2.txt</a></td>
+        </tr>
+        <tr>
+          <td>oisd_big_part3.txt</td>
+          <td><a href="https://kitex34567.github.io/test1/lists/oisd_big_part3.txt" target="_blank">https://kitex34567.github.io/test1/lists/oisd_big_part3.txt</a></td>
+        </tr>
+        <tr>
+          <td>oisd_big_part4.txt</td>
+          <td><a href="https://kitex34567.github.io/test1/lists/oisd_big_part4.txt" target="_blank">https://kitex34567.github.io/test1/lists/oisd_big_part4.txt</a></td>
+        </tr>
+        <tr>
+          <td>oisd_big_part5.txt</td>
+          <td><a href="https://kitex34567.github.io/test1/lists/oisd_big_part5.txt" target="_blank">https://kitex34567.github.io/test1/lists/oisd_big_part5.txt</a></td>
+        </tr>
+        <tr>
+          <td>oisd_big_part6.txt</td>
+          <td><a href="https://kitex34567.github.io/test1/lists/oisd_big_part6.txt" target="_blank">https://kitex34567.github.io/test1/lists/oisd_big_part6.txt</a></td>
+        </tr>
+        <tr>
+          <td>oisd_big_part7.txt</td>
+          <td><a href="https://kitex34567.github.io/test1/lists/oisd_big_part7.txt" target="_blank">https://kitex34567.github.io/test1/lists/oisd_big_part7.txt</a></td>
+        </tr>
+    </tbody>
+  </table>
+  <h2>How to use in Prisma SSE (Strata Cloud Manager)</h2>
+  <ol>
+    <li>Go to <em>Configuration → NGFW and Prisma Access → Objects → External Dynamic Lists → Add</em></li>
+    <li>Set <strong>Type</strong> to <code>Domain List</code></li>
+    <li>Paste one of the EDL URLs above as the <strong>Source</strong></li>
+    <li>Set <strong>Check for updates</strong> to <code>Daily</code></li>
+    <li>Repeat for each part file and reference all lists in your Security Policy</li>
+  </ol>
 </body>
 </html>
