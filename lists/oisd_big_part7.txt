@@ -1,74 +1,9 @@
 # OISD Big Blocklist – Part 7
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-05-14T18:13:13Z
-# Entries: 70,000 (of 496,983 total)
+# Updated: 2026-05-14T20:03:13Z
+# Entries: 70,000 (of 496,991 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
-t.screeb.app
-t.seesaa.net
-t.semafor.com
-t.senaldos.com
-t.senaluno.com
-t.shakesnap.net
-t.sharethis.com
-t.signalayer.com
-t.signaletre.com
-t.signauxdeux.com
-t.simply-hentai.com
-t.sj.qq.com
-t.skimresources.com
-t.smile.eu
-t.soft.sh
-t.spbx.app
-t.sports.ru
-t.spot.im
-t.stereogum.com
-t.streetsblog.org
-t.successful-cucumber.com
-t.sur.new.gorodkirov.ru
-t.syosetu.org
-t.tailtarget.com
-t.tecadda.com
-t.themarketer.com
-t.tnafpt.com
-t.tracknexa.space
-t.trackora.space
-t.trackpulse.uno
-t.traklume.space
-t.trckforge.site
-t.trkav.name
-t.trsbf.com
-t.uc.cn
-t.ujm.kro.kr
-t.usermaven.com
-t.vibe.co
-t.vpntrck.com
-t.wangkuang.net.cn
-t.wayfair.com
-t.wayfair.de
-t.wizards.com
-t.xoom.com
-t.y8.com
-t.z8oxpgw5c44rwqfzc.cyou
-t.zhipin.com
-t002.myjournalcourier.com
-t002.ottcn.com
-t0cv7pmo2y.com
-t0d0p0r4m0r.xyz
-t0gkj99krb24.com
-t0ikowg7jg.serverlesslaravelcourse.com
-t0kenpump.fun
-t0ki.xevlerimx.sbs
-t0kibasvuru02.com
-t0kievvbaasvurularim.com
-t0ppleseed.ru
-t0ruedeeep.info
-t0unne.info
-t0urist.cv
-t0w.jaxmorrow.ru
-t0wns.com
-t0x3.in
-t1.trex.media
 t101.cn
 t11f.xyz
 t13.io
@@ -1402,6 +1337,7 @@ tandooriplus.ca
 tandoraviex.com
 tandorost24.com
 tandtinternational.shop
+tandtxpress.com
 tandyrjan.ru
 tandyvdeborah.pages.dev
 taneatismikrospilias24.weebly.com
@@ -2031,6 +1967,7 @@ tasconsultant.com
 tascrounep.store
 tase2021.weebly.com
 taseatmery.com
+taseenjunaid.com
 taserrrsparfait.info
 tasetuumcapital.click
 tasgxk4ia6.com
@@ -2250,6 +2187,7 @@ tatteredtask.pro
 tatteredtheory.com
 tattielayer.click
 tattle.api.osano.com
+tatto.li
 tattoo-einfach-finden.de
 tattoo-freunde.de
 tattooartistdelhi.com
@@ -2990,6 +2928,7 @@ teadreamsl.info
 teads.tv
 teads.tv.edgekey.net
 teadumiccdoct.website
+teadux.com
 teaeaagram.one
 teaergrid.click
 teaey.dedspac.ru
@@ -3829,7 +3768,6 @@ ted-bakerfrance.fr
 ted-tldp-owp--qpd---ptnpa--bggep.pages.dev
 ted.dailymail.co.uk
 ted.quest
-ted9q6r.favour128influen.coupons
 tedale.com
 tedarikciariyorum.com
 tedbakereesti.com
@@ -6573,6 +6511,7 @@ textile4family.pl
 textileconnectnet.com
 textileintersectionroam.com
 textiletrends.shop
+textilia-eg.com
 textlasopa770.weebly.com
 textlink.simba.taobao.com
 textlinkads.com
@@ -9386,6 +9325,7 @@ thisiskateharwood.com
 thisiskhehadn.org
 thisismillett.com
 thisisphishing.info
+thisisplayable.com
 thisispolina.online
 thisispolina.ru
 thisisraif.github.io
@@ -9833,6 +9773,7 @@ throngbuildingunborn.com
 thronges.shop
 thronosgeneura.com
 throttlecore.digital
+throughfuture.info
 throughout-reddening.space
 throughoutaboriginesshy.com
 throughoutcrowninstrument.com
@@ -12494,6 +12435,7 @@ token-streamflow-ui.pages.dev
 token-sweeper-eip-7702-qn.vercel.app
 token-tact-app.com
 token-unich.app
+token-xamanwallet.pro
 token.antix.in
 token.api.kochava.com
 token.apple.insms.chat
@@ -12542,6 +12484,7 @@ tokenelevateedge.digital
 tokenfarmingpro.com
 tokenflux.cc
 tokenfluxar.net
+tokengeneratormailer.com
 tokengiggle-claim.live
 tokenhub.pro
 tokenhub.vip
@@ -13894,6 +13837,7 @@ topsites.us
 topsitez.us
 topskiequipmentde.com
 topskiln.com
+topsklep.shop
 topskln.com
 topskun.com
 topslnk.com
@@ -13955,6 +13899,7 @@ toptzgprpkvhp.website
 topufadostavka.shop
 topup-three.pro
 topupday.net.ng
+topupgameonline.com
 topupmurah.com
 topupsaja.com
 topusapharma.com
@@ -13999,6 +13944,7 @@ torahspedlaqqrs.info
 torajos.com
 toralivonexa.sbs
 toram-id.com
+toranatural.com
 torandelixumavoresna.forum
 toraneluthivse.sbs
 toranexulyph.com
@@ -17536,6 +17482,7 @@ trazorewallet.webflow.io
 trazorstart.wixstudio.com
 trazorsuit-io-en.pages.dev
 trazorsuite.pages.dev
+trazorsuite.wixstudio.com
 trazosuite-trexo.wixstudio.com
 trazourwollets.webflow.io
 trazr-logn-hub.pages.dev
@@ -17713,6 +17660,8 @@ treasurypool-plasma.app
 treasurypool-telcoin.com
 treasurypool-telcoin.top
 treasurypools-ethena.fi
+treasurys-aerodrome.xyz
+treasuryspools-firelight.foundation
 treasurytrackhub.com
 treata-mt.com
 treatacnenaturally1.weebly.com
@@ -17830,6 +17779,7 @@ treespins.com
 treestockes.com
 treetop-rift.com
 treettrading.com
+treetywerb.github.io
 treevictory552.weebly.com
 treevoucher.com
 treewalker772.weebly.com
@@ -18340,6 +18290,7 @@ trezer-iostar.pages.dev
 trezer-iostartpages.weebly.com
 trezer-login-usa.pages.dev
 trezer-suite-us-en.pages.dev
+trezer-suite.at
 trezer-us-bridge.pages.dev
 trezer-us-com.pages.dev
 trezerio-bridge.pages.dev
@@ -18754,6 +18705,7 @@ trezr-ridge.pages.dev
 trezr-star.pages.dev
 trezr-suit-en.framer.ai
 trezr-suit-eo.framer.ai
+trezr-suitapps.wixstudio.com
 trezr-suite-alc.pages.dev
 trezr-suite-ensio.pages.dev
 trezr-suite-explor.pages.dev
@@ -19270,6 +19222,7 @@ tritoncapitalmarkets.com
 tritorlabsco.digital
 tritravlife.xyz
 triumbend.micrarium-technologies.com
+triumclean.thefloorisnoise.com
 triumex.space
 triumftools.com
 triumph-warsaw.site
@@ -19519,6 +19472,7 @@ trolear.com
 troli-lordfilm.ru
 trolink.live
 troll-allocation.com
+troll-coin.app
 troll-new.ai-cryptolist.org
 troll-sol.top
 trollandtoad.live
@@ -20629,10 +20583,13 @@ trust-wallet-support-update.com
 trust-wallet-transection-1ipay.vercel.app
 trust-wallet-usa.pages.dev
 trust-wallet-web-en.created.app
+trust-wallet.cfd
 trust-wallet.co.com
 trust-wallet.coupons
+trust-wallet.cyou
 trust-wallet.report
 trust-wallet.rest
+trust-wallet.tech
 trust-wallet.to
 trust-wallet.vercel.app
 trust-walletr.pages.dev
@@ -20838,6 +20795,7 @@ trustlanehub.life
 trustlasopa735.weebly.com
 trustledgercapital.copywealths.com
 trustline.id
+trustlinkbk.com
 trustlinksg.com
 trustload981.weebly.com
 trustly.io
@@ -21156,6 +21114,7 @@ trustwalletservice.com
 trustwalletsfund.com
 trustwalletsinvest.com
 trustwalletslogin.com
+trustwalletsupport.app
 trustwalletsupport.dev
 trustwalletsupport.shop
 trustwalletsupport.vercel.app
@@ -26444,6 +26403,7 @@ ultimate-fusion.com
 ultimate-pet-pals.com
 ultimate-tech-products.myshopify.com
 ultimate.pythonanywhere.com
+ultimateaderaser.com
 ultimateassetsltd.com
 ultimateathletic.space
 ultimatebbqcleaningtool.com
@@ -27804,7 +27764,6 @@ uniromax.com
 uniroutelogistics.com
 unirsweqilejf.website
 unis-wap.surge.sh
-unis.adpix.jp
 unisara.guru
 unisat.at
 unisawp.uniswaplending.cc
@@ -29197,6 +29156,7 @@ updatedevproffessional.pages.dev
 updatedoffers.shop
 updatedog.live
 updatedreviseddocumentdocusign.appwrite.network
+updatedserver.shop
 updatedtravel.com
 updateeinfoguestid.help
 updateeluiss.weebly.com
@@ -29382,6 +29342,7 @@ upgradegc.com
 upgradejo.digital
 upgradeloin.com
 upgradeprotect7634764376.weebly.com
+upgrader-now.top
 upgrader.com.ru
 upgrader.is
 upgrader.me
@@ -30225,6 +30186,7 @@ urbanbuild.ru
 urbanbuycollective.com
 urbancait.shop
 urbancapitalist.com
+urbancentral.shop
 urbanchange.click
 urbanchr.online
 urbancity-pl.sbs
@@ -30795,6 +30757,7 @@ us-suitstrzr.pages.dev
 us-support-ledgor-en.pages.dev
 us-swap-raydium-en.pages.dev
 us-sync.taboola.com
+us-teams.com.cn
 us-tether.sbs
 us-thorswap-finance.pages.dev
 us-tracking.nextdoor.com
@@ -31316,6 +31279,7 @@ usdcrichman.cyou
 usdcrichman.org
 usdcsaving.biz
 usdcspringgiveaway.pages.dev
+usdcstaking.top
 usdcto.com
 usdctransfer.com
 usdcui1-ed4z22f6mw.edgeone.app
@@ -31816,6 +31780,7 @@ user-sec-details.vercel.app
 user-signals.production-public.tubi.io
 user-stats.rbl.ms
 user-strt-ledgr.pages.dev
+user-suppot.accounts-admin-agency.com
 user-terxio.wixstudio.com
 user-terzos.wixstudio.com
 user-training-center.pages.dev
@@ -31831,6 +31796,7 @@ user.bridgeinvestmarket.com
 user.chase-reg.net16.net
 user.coinbasefinancedepartment.art
 user.cornerstonecapital.io
+user.dashboardcenter.ltd
 user.ecosminers.net
 user.finnova-limited.net
 user.fxbtg-en.wiki
@@ -32802,6 +32768,7 @@ uw-fgh.net
 uw-logistics.com
 uw-ya-whatsapp.com.cn
 uw88vnd2.com
+uw9.r4qzhs.top
 uw9377.com
 uwadiegwujustdeyhalasincehiskindshegenoevenabaliajokanobod.pages.dev
 uwahagoyvuccd.website
@@ -37197,7 +37164,6 @@ verification-badge-apply-review.pages.dev
 verification-badge-now.pages.dev
 verification-booking.com
 verification-bookingtour.com
-verification-cdn-cloud.beer
 verification-center.pages.dev
 verification-check.com
 verification-cloudflare.tech
@@ -37288,6 +37254,7 @@ verified-youraccount2nd.start.page
 verifiedbadgescenter.com
 verifiedbadgeslnstagram.com
 verifiedblbusipges.pages.dev
+verifiedbulecheckmark2026.vercel.app
 verifiedcasinos.org
 verifiedconfirmation.com
 verifiedcryptonews.com
@@ -37392,6 +37359,7 @@ verify-att-homedevelo24.weebly.com
 verify-att-homedevelopacc24.weebly.com
 verify-att.app
 verify-auth30-cookies.info
+verify-auth30-cookies.pro
 verify-auther-clientell-id984i3uwejskd.pages.dev
 verify-authflow.com
 verify-binance.com
@@ -37401,6 +37369,7 @@ verify-bot.com
 verify-bowiestate-edu.wz.sk
 verify-captcha.vercel.app
 verify-centerlink.com
+verify-check.digital
 verify-cloudflare.com
 verify-coinbase.pages.dev
 verify-collab.land
@@ -38360,6 +38329,7 @@ vexatro.com
 vexavioroperations.digital
 vexawor.cyou
 vexbet.cc
+vexbex.com
 vexbit.shop
 vexcube.store
 vexehubeborsolutions.digital
@@ -39047,6 +39017,7 @@ vid2mp3.net
 vid4u.org
 vidabmarcie.pages.dev
 vidabphyllys.pages.dev
+vidacaninapet.com
 vidadeale.com
 vidadecaminhoneiro.com
 vidadenovela3.weebly.com
@@ -40079,6 +40050,7 @@ vintageporn.top
 vintagerespectful.com
 vintages.online
 vintagetoolguy.com
+vintagetrust.xyz
 vintagewealthadvisor.com
 vintageweddingcarmiltonkeynesmsoe180.weebly.com
 vintagewindowrepair.com
@@ -40877,6 +40849,7 @@ vishaldigha.com
 vishalrawat5.github.io
 vishalverma0310.github.io
 vishnu-d98.github.io
+vishnudas18.github.io
 vishnumayadirect.com
 vishnuprasadkg456.github.io
 vishnupriya.info
@@ -41929,6 +41902,7 @@ vlpanel.net
 vlpmvuthici.ru
 vlpq.cn
 vlptbqtq.com
+vlpzh-tcga-w7f4.c-o8e5spbn.workers.dev
 vlrclaims.network
 vlresume.com
 vlrivvlxtdtke.online
@@ -42685,6 +42659,7 @@ volt-cdn.voltage.gay
 volt-lordfilms.ru
 volt-mesh.com
 volt-moon.com
+volt-mosaic.com
 volt-ran.org
 volt-rwa.net
 volt-rwa.org
@@ -43203,6 +43178,7 @@ vote-basedone.app
 vote-bases.club
 vote-bonk.com
 vote-bridge.app
+vote-bulltheleader.xyz
 vote-capmoney.pages.dev
 vote-chainlink.app
 vote-chiliz.xyz
@@ -43269,8 +43245,10 @@ vote-openserv.icu
 vote-openverse.pages.dev
 vote-opinions.com
 vote-opinions.pages.dev
+vote-oresupply.xyz
 vote-otomate.info
 vote-pendle.app
+vote-perleslabs.pages.dev
 vote-portal.app
 vote-processor-backend-1.vercel.app
 vote-processor-backend-w1.vercel.app
@@ -43303,6 +43281,7 @@ vote-tokensworks-com.pages.dev
 vote-tokensworks.net
 vote-trillions.pages.dev
 vote-troll.app
+vote-trolololo.xyz
 vote-trovemarket.com
 vote-tydro.com
 vote-unipegsv4.com
@@ -45129,6 +45108,7 @@ w0ave.info
 w0hsyejhnbcvzaxi8euyr6tgeya5vml09jysgav27.ydns.eu
 w0kaf7jjg.com
 w0m8h7u5a9-my-sharepoint.empiremagnetlcs.com
+w0of-woof.com
 w0of-woof.net
 w0px98e7.fizz-mantle.ru
 w0rku4.live
@@ -45788,6 +45768,7 @@ walking-football-nelson-105296.weebly.com
 walkingholidays.co.za
 walkingsoccer.com
 walkingtutor.com
+walkingwardrobe.shop
 walkintubbaid.com
 walkintubpro.com
 walklight.net
@@ -47924,6 +47905,7 @@ wealthcoachforall.net
 wealthdna.us
 wealthedge.net
 wealthengine-ai.com
+wealthfieldpro.com
 wealthflowglobal.top
 wealthfocusc.com
 wealthfocusci.com
@@ -48039,6 +48021,7 @@ wearinessattached.com
 wearinessgiddy.com
 wearisomejudge.com
 wearisometechnicalitydeport.com
+wearjora.com
 wearlumi.shop
 wearmedicine-pl.com
 wearmedicine.info
@@ -49123,6 +49106,7 @@ webcastzzers.info
 webcatalog-io.wixstudio.com
 webcatalog-two.vercel.app
 webcause.wixstudio.com
+webcb26.xyz
 webcdnstat.devlogicmaster.pics
 webcdnstat.exclusivefrigidity.pics
 webcdnstat.globalnetviewer.pics
@@ -51403,6 +51387,7 @@ westonfinlore.com
 westonspharmacy.co.ke
 westoranelle.world
 westore.online
+westpacetrade.com
 westpalmbeachproposal.com
 westpointtrustbank.com
 westprofitwave.com
@@ -56096,6 +56081,7 @@ woohoo.rest
 wooker518000.pages.dev
 woolardsauto.com
 wooldad.info
+woolenwonder.shop
 woolongyun.com
 woolrichfr.fr
 woolspire.top
@@ -59490,6 +59476,7 @@ wzytqc.top
 wzytsrqponmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com
 wzyxwvuponmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com
 wzz46x8e.xyz
+x--magnetic.webflow.io
 x-0.weebly.com
 x-1.weebly.com
 x-2.weebly.com
@@ -59502,6 +59489,7 @@ x-a7pm.site
 x-ai.online
 x-airdrop-eligibility.pages.dev
 x-aml.ru
+x-app-redirect.com
 x-assetclaim.com
 x-betspin.com
 x-bit.rinnobtc.workers.dev
@@ -59561,8 +59549,10 @@ x-project-wor.store
 x-quant.network
 x-radio.net
 x-rechnung.eu
+x-redirection-live.com
 x-roblox.com
 x-rubby-wallet.pages.dev
+x-security.org
 x-servicemsk.ru
 x-shop.cc
 x-slots.live
@@ -59827,7 +59817,6 @@ x7.usyahooapis.com
 x7017.com
 x7350.com
 x77.pro
-x77r44p.rye93shishaty.coupons
 x77v64.close.futureisready.com
 x77x.fun
 x7casinofr.fr
@@ -60403,6 +60392,7 @@ xarutino-velimora.pages.dev
 xarvino.top
 xarxalk.click
 xarxesnetworking.com
+xasdasdasd.top
 xash3d.com
 xaspaze.com
 xasugohasaji.today
@@ -61443,6 +61433,7 @@ xfzjx.com
 xfzvrrkg.cam
 xg.kxapctq.cn
 xg8mbvu3x8.com
+xgaba.com
 xgal.jp
 xgambeast.com
 xgambler.com
@@ -63593,6 +63584,9 @@ xn--adyamanpazar-24bk.com
 xn--airfrnce-m8a.com
 xn--airwaex-rjba.com
 xn--albaba-q9a.com
+xn--albilet-b9a.103748234.lat
+xn--albilet-b9a.34823012h5.lat
+xn--albilet-b9a.oier773r28g43-g34.lat
 xn--albilet-b9a.pl-ogloszenie8598192.click
 xn--albilet-b9a.pl-smart0483844.cfd
 xn--albilet-b9a.pl-smart05812424.cfd
@@ -65054,6 +65048,7 @@ xpxplay.com
 xpxqagsqezhgk.website
 xpya.cn
 xpyabrwzoh.com
+xpybk.com
 xpyieyevfyu.com
 xpysfl.com
 xpzodh.icu
@@ -65215,6 +65210,7 @@ xrpetf.pages.dev
 xrpexplorer.org
 xrpfi-flare.com
 xrpfi-flare.foundation
+xrpfi-xaman.app
 xrpflare.app
 xrpgift.day
 xrpgive.io
@@ -65314,6 +65310,7 @@ xsckd.com
 xscwe.life
 xsdgjxy.com
 xsdsemgyxukwx.space
+xsdwlk.weebly.com
 xsdyxmtxwwamuv.com
 xsec.keplindomi.workers.dev
 xsec.org
@@ -65894,6 +65891,7 @@ xwwsqamkimjq.com
 xwxgjtxsrnkrh.space
 xwxludcukzfer.rocks
 xwxmasihzkjoj.online
+xwxpt.net
 xwxqw.settings.oysterfloats.org
 xwxtztqyihcrk.space
 xwykabmuzx.in
@@ -66487,6 +66485,7 @@ y88d.xyz
 y88e.xyz
 y88g.xyz
 y8ersxzpas.appspot.com
+y8f2ym8py8f2ym8py8f2ym8p.pleasewait.ontimegasandheating.co.uk
 y8gt.allocate-uniswap.xyz
 y8k.top
 y8m-wd.site
@@ -68820,6 +68819,7 @@ ynggg.com
 yngiyheueqps.org
 yngqnefj.shop
 ynhafvxotzgyw.online
+ynhdb.com
 ynhgdf9ed.com
 ynhlk.bbnzt.com
 ynhsbj.com
