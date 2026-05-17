@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-05-17T11:14:52Z
-# Entries: 70,000 (of 402,341 total)
+# Updated: 2026-05-17T21:01:38Z
+# Entries: 70,000 (of 402,607 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -224,7 +224,9 @@
 01234n.com
 0124498474f7c13ac9a2-6b191446002b31342189d56cabcf5227.r11.cf2.rackcdn.com
 012678.xyz
+01289523rt.shop
 0133be5b.liftmyresume.com
+01384921634.shop
 013d86aa75.acd8bc90e4.com
 0140.ee
 0141design.co.uk
@@ -415,6 +417,7 @@
 0511zfhl.com
 0512px.net
 0512s.com
+0523892h-23.lat
 05288q.com
 0532a9.r.axf8.net
 0538ly.cn
@@ -751,6 +754,7 @@
 0gfoundations.pages.dev
 0glabs.network-app.cloud
 0gt5ef0t5f040ef0ggt54ed0f0r40r0t6504e0fghnyn654nn.weebly.com
+0gtutd.yandex-file.lat
 0gw7e6s3wrao9y3q.pro
 0h9yewgei.com
 0hacks.com
@@ -3058,6 +3062,7 @@
 1sexsex.com
 1sh.co
 1sharpsolution.com
+1sj4u9.file-online.lat
 1smart.nu
 1sms.de
 1soles.com
@@ -4210,6 +4215,7 @@
 25a9ff8c.sibforms.com
 25dcb60e.flyjasper.ca
 25degreesbangkok.com
+25gju2hlz58bmryiooubhrm.rest
 25hjdc.com
 25inifilie.firebaseapp.com
 25inifilie.web.app
@@ -4452,6 +4458,7 @@
 2b3a5c69.liftmyresume.com
 2b588952.liftmyresume.com
 2b737030.tfdyhd-0sfyshjusuiishs.pages.dev
+2b7f1jfa.cloud-forge.digital
 2b8c5d.close.futureisready.com
 2b8fa02c00.com
 2b91f59493.com
@@ -4582,6 +4589,7 @@
 2hlcovn7n.com
 2hot2handlebbqkc.com
 2hpb1i5th.de
+2i.wf3zxy.cfd
 2i0lliongn.com
 2i30i8h6i.de
 2i4.mobi
@@ -6080,6 +6088,7 @@
 43223-coinbase.com
 43242.com
 432436476601676104.weebly.com
+432874128gorp230912.lat
 4332.ws
 4332sitesgoogle53comviewvoiceconnect53homeauthuser2.weebly.com
 43335.weebly.com
@@ -6532,6 +6541,7 @@
 4fzfc1irq.com
 4g0b1inr.de
 4game.club
+4getd0km.script-matrix.digital
 4gmvwd.close.futureisready.com
 4gram.com
 4gt3.weebly.com
@@ -7740,6 +7750,7 @@
 5pehn9.pulty.multiversemechanics.info
 5pgchtxmas.meilitiaodongxinxi.xyz
 5pi13h3q.de
+5pt4yq.file-online.lat
 5pub.com
 5qh3mq0gexai.icu
 5qw7-wvha-uyc7.wakajeje-aol-com-s-account.workers.dev
@@ -8847,6 +8858,7 @@
 7076611218.pages.dev
 707974322527550706.weebly.com
 708.jiejie51-f1512.cc
+7083xwn.top
 7084725.click
 708573454448187385.weebly.com
 708ec1c33c.b4a03471a7.com
@@ -9019,6 +9031,7 @@
 74354675478236.weebly.com
 74364kjhuirtyurtuyghrghjfhbfkgreguwebhjrkhgj478674.s3.us-east-1.amazonaws.com
 743677-coinbase.com
+743802198x2.cfd
 743982084780.weebly.com
 743fdf5467.com
 745609650435.weebly.com
@@ -9881,6 +9894,7 @@
 842e61e68b.com
 84302764.xyz
 843653-coinbase.com
+8437239sdsa.click
 843845455199742151.weebly.com
 8438749304.weebly.com
 84422.com
@@ -9905,6 +9919,7 @@
 847903-coinbase.com
 847h7f51.de
 8481919-coinbase.com
+849102g90o.cyou
 84920433.duckdns.org
 849324-coinbase.com
 84998041.xyz
@@ -10786,6 +10801,7 @@
 925.lt
 92506321.weebly.com
 9251711-dot-oaao-274308.uc.r.appspot.com
+925389h451.shop
 925713.com
 9260375109817.click
 9260425109728.click
@@ -12872,6 +12888,7 @@ abai.eco.br
 abakanalko24.shop
 abakarovtour.ru
 abaloneking.com
+abandoned-asylum-expedition.garden
 abandonglare.8m.com
 abantatvkiralama.com
 abantesabogados.com
@@ -13453,6 +13470,7 @@ abortos.com
 abossbarber.com
 abostonloft.com
 abotarek98198.ddns.net
+abotlrfnhwbzi.online
 aboun.programerjs.com
 aboundinheritancecocktail.com
 aboundplausibleeloquent.com
@@ -13791,6 +13809,7 @@ abyiqoplieers.cyou
 abyss-event.com
 abyss52.org
 abyssal-echo.com
+abyssal-kraken-trench.garden
 abyssfar.com
 abysslight.com
 abyssofmetal.blogspot.com
@@ -23560,6 +23579,8 @@ aidugu.com
 aie.changee.ai
 aiebilet.103748234.lat
 aiebilet.34823012h5.lat
+aiebilet.9017348916743.lat
+aiebilet.ofert34592512-509.lat
 aiebilet.oier773r28g43-g34.lat
 aiebilet.pl-ogloszenie8598192.click
 aiebilet.pl-smart0483844.cfd
@@ -25626,6 +25647,7 @@ alcertram50.pages.dev
 alcertram58.pages.dev
 alch.treas.jp
 alchclaim.top
+alchemical-formula-scroll.garden
 alchemicaluniverse.com
 alchemistenergysolutions.com
 alchemyccinc.com
@@ -25724,6 +25746,7 @@ aldi.demlora.shop
 aldi.helvado.shop
 aldi.hervado.shop
 aldi.ilanor.shop
+aldi.lanmora.shop
 aldi.marreto.shop
 aldi.molnera.shop
 aldi.morveto.shop
@@ -25832,8 +25855,11 @@ alebilet.89437.me
 alebilet.937016.click
 alebilet.973627.click
 alebilet.98364.me
+alebilet.id213.pl
 alebilet.id56.pl
+alebilet.ido389144.top
 alebilet.inne-kategorie-671.club
+alebilet.ofert34592512-509.lat
 alebilet.oferta-22324813.click
 alebilet.oferta-82615561.click
 alebilet.oferta39472549.shop
@@ -25847,6 +25873,7 @@ alebilet.ofertapjxth395725.shop
 alebilet.oier773r28g43-g34.lat
 alebilet.pl-7534048.shop
 alebilet.pl-859421.icu
+alebilet.pl-oferta3154fsx5.shop
 alebilet.pl-ogloszenie8598192.click
 alebilet.pl-smart0483844.cfd
 alebilet.pl-smart05812424.cfd
@@ -26851,7 +26878,9 @@ alldomainservice4534.weebly.com
 alle-here.web.app
 alleasycalculators.com
 allebilet.103748234.lat
+allebilet.342879r2g312o.lat
 allebilet.34823012h5.lat
+allebilet.ofert34592512-509.lat
 allebilet.oier773r28g43-g34.lat
 allebilet.pl-ogloszenie8598192.click
 allebilet.pl-smart0483844.cfd
@@ -26878,13 +26907,14 @@ allegro-appassionato.org
 allegro-fitness.fitness-intro.de
 allegro-lokalnie.039183d1-1.click
 allegro-lokalnie.103748234.lat
+allegro-lokalnie.342879r2g312o.lat
 allegro-lokalnie.34823012h5.lat
 allegro-lokalnie.5252393f29f3929d29d2.biz
+allegro-lokalnie.9017348916743.lat
 allegro-lokalnie.9g394g34.click
 allegro-lokalnie.ogl-298586.org
 allegro-lokalnie.pl-72623.click
 allegro-lokalnie.pl-ogloszenie8598192.click
-allegro-lokalnie.smart-502393528120.lat
 allegro-pl-login.comxa.com
 allegro-reinigung.de
 allegro-sale.shop
@@ -26913,6 +26943,7 @@ allegro.1521.click
 allegro.1524.click
 allegro.17834.me
 allegro.23985.click
+allegro.342879r2g312o.lat
 allegro.34t873784.click
 allegro.373773.click
 allegro.425372.click
@@ -26938,22 +26969,27 @@ allegro.883257.click
 allegro.8877342.click
 allegro.89437.me
 allegro.8t238g823.rest
+allegro.9017348916743.lat
 allegro.93535-53099.click
 allegro.937016.click
 allegro.973627.click
 allegro.98364.me
 allegro.hit.gemius.pl
+allegro.ido389144.top
 allegro.inne-kategorie-671.club
 allegro.iof0e189281.biz
 allegro.ktep0494-4.click
 allegro.kupn7319204g-4.sbs
 allegro.kux813t2932g.club
 allegro.ofer93201.club
+allegro.ofert34592512-509.lat
 allegro.oferta-22324813.click
 allegro.oferta-82615561.click
 allegro.oferta5080146pl.click
 allegro.oferta828331pl.click
 allegro.oier773r28g43-g34.lat
+allegro.pl-03585-oferta.shop
+allegro.pl-04931-oferta.shop
 allegro.pl-6435523432.shop
 allegro.pl-oferta09599223423.sbs
 allegro.pl-ogloszenie8598192.click
@@ -26974,7 +27010,9 @@ allegro03.vip
 allegro05.vip
 allegrodeals.com
 allegrollokalne.pl-384572.shop
+allegrolokainie.342879r2g312o.lat
 allegrolokainie.34823012h5.lat
+allegrolokainie.ofert34592512-509.lat
 allegrolokainie.pl-ogloszenie8598192.click
 allegrolokainie.pl-smart0483844.cfd
 allegrolokainie.pl-smart05812424.cfd
@@ -27048,12 +27086,14 @@ allegrolokalnie.29y.lat
 allegrolokalnie.317c.lat
 allegrolokalnie.3242351.pl
 allegrolokalnie.3242352.pl
+allegrolokalnie.342879r2g312o.lat
 allegrolokalnie.34w3f4qr4r.click
 allegrolokalnie.373773.click
 allegrolokalnie.384743928263044720269.click
 allegrolokalnie.419.lol
 allegrolokalnie.425372.click
 allegrolokalnie.441048723.click
+allegrolokalnie.45834.top
 allegrolokalnie.45j5ewer3.click
 allegrolokalnie.4cvsjrttrijj.sbs
 allegrolokalnie.520470.click
@@ -27099,6 +27139,7 @@ allegrolokalnie.883257.click
 allegrolokalnie.8877342.click
 allegrolokalnie.894129019041.click
 allegrolokalnie.89437.me
+allegrolokalnie.9017348916743.lat
 allegrolokalnie.9125125.click
 allegrolokalnie.937016.click
 allegrolokalnie.95h.rest
@@ -27112,6 +27153,11 @@ allegrolokalnie.eu-ogloszenie-nr-30291203-kup.online
 allegrolokalnie.eu-ogloszenie-priv-039212-kup.online
 allegrolokalnie.eu-page-number-291233-super.shop
 allegrolokalnie.hgngh98nyj6h95.live
+allegrolokalnie.ido389144.top
+allegrolokalnie.ido485679.top
+allegrolokalnie.ido487654.top
+allegrolokalnie.ido489144.top
+allegrolokalnie.ido489588.top
 allegrolokalnie.ido789122.org
 allegrolokalnie.ij0943ji9rjom32.shop
 allegrolokalnie.inne-kategorie-671.club
@@ -27156,6 +27202,7 @@ allegrolokalnie.oferta2384591.click
 allegrolokalnie.oferta2640733.click
 allegrolokalnie.oferta29442659.shop
 allegrolokalnie.oferta31783225.rest
+allegrolokalnie.oferta3488158.lat
 allegrolokalnie.oferta372829428.cfd
 allegrolokalnie.oferta3862904.click
 allegrolokalnie.oferta39472494.shop
@@ -27181,6 +27228,7 @@ allegrolokalnie.oferta8487121.click
 allegrolokalnie.oferta85687317.shop
 allegrolokalnie.oferta873712121.click
 allegrolokalnie.oferta87587821.click
+allegrolokalnie.oferta9227949.lat
 allegrolokalnie.oferta92742745.shop
 allegrolokalnie.ofertaknxo233846.shop
 allegrolokalnie.ofertakxipn20339485.shop
@@ -27195,8 +27243,10 @@ allegrolokalnie.ogloszenie-18314962-dla-ciebie.click
 allegrolokalnie.ogloszenie15168402-dla-ciebie.click
 allegrolokalnie.ogloszenie15418402-dla-ciebie.click
 allegrolokalnie.okazje-na-lato-2026-3we4gnj.sbs
+allegrolokalnie.okazje-na-lato-2026-45rgkv.sbs
 allegrolokalnie.okazje-na-lato-2026-n3rn.sbs
 allegrolokalnie.okazje-na-lato-2026-o45hg.sbs
+allegrolokalnie.okazje-na-lato-2026-p45ogk.sbs
 allegrolokalnie.osmyb2049254.shop
 allegrolokalnie.p1297383xv91.biz
 allegrolokalnie.p173638vk182.biz
@@ -27206,6 +27256,8 @@ allegrolokalnie.p934gas5fhn344.click
 allegrolokalnie.pi-49120.rest
 allegrolokalnie.pi867i9i7609.click
 allegrolokalnie.pl-0051294-oferta.shop
+allegrolokalnie.pl-03585-oferta.shop
+allegrolokalnie.pl-04931-oferta.shop
 allegrolokalnie.pl-0495692.shop
 allegrolokalnie.pl-08432-oferta.shop
 allegrolokalnie.pl-093108.rest
@@ -27912,6 +27964,7 @@ alobet859.com
 alobotapp.ru
 alocalvibe.com
 alocoob.com
+alodifleet.cyou
 aloe-serdce-dorama.ru
 aloe-serdce-doramalive.ru
 aloe-serdtse-doramadrama.ru
@@ -42110,8 +42163,10 @@ auiz.top
 aujantwo.com
 aujastmvehxqmlbb.com
 aujdredakio.com
+aukcj82180-43h4.shop
 aukcja-8fh2lf46844gf12vfv9.org
 aukcja-8fh2lf46864gf12vfv9.org
+aukcje729917.lat
 aukgiecbioahe.website
 aukjylvsljien.site
 auksirtauns.net
@@ -44859,6 +44914,7 @@ aztreesservicesllc.com
 aztumqassickf.space
 aztwrmsgn4.com
 azu0jytzgm.com
+azuarxvhpsibt.online
 azuki-110716005.vercel.app
 azuki-elementals-waitlist.pages.dev
 azukielemental.pages.dev
@@ -45309,6 +45365,7 @@ ba.p3-binance.com
 ba.z5-binance.com
 ba482e63.liftmyresume.com
 ba4b6a4e-006e-422c-933e-f1579f7804b8-00-1mjqsvn63diwj.kirk.replit.dev
+ba5ufc2h.logic-sphere.digital
 ba61261c39.com
 ba6174e1cd.com
 ba69a24a2a.com
@@ -49668,6 +49725,7 @@ bbxcavrbbwxpynpqx.firebaseapp.com
 bbxcavrbbwxpynpqx.web.app
 bbxecblihp.com
 bbxkqbbqwzojv.space
+bbxmn.com
 bbxqxbn.com
 bbxsmanajfdwgow.com
 bby6tetrack.info
@@ -51899,6 +51957,7 @@ berserkchanger.com
 berserkhydrant.com
 bershka-fr.fr
 bershkafrance.fr
+bersillyraserins.cyou
 bersinarkembali.com
 berska.fr
 bersoenchi.shop
@@ -54381,6 +54440,7 @@ bigtrout.solvote.trade
 bigtroutcoin.com
 bigtroutcoin.run
 bigtroutsolana.com
+bigvoicecom.com
 bigw66.com
 bigwavee.weebly.com
 bigwigpainting.com.au
@@ -58702,6 +58762,7 @@ bm.ebacdn.com
 bm.h576.com
 bm2hs.codesandbox.io
 bm3xyw6am.com
+bm5unauv.xyz
 bm8.live
 bma-autohaus.com
 bmabamlk.com
@@ -60789,6 +60850,7 @@ botanicalhedonist.com
 botanicalprocessingengine.garden
 botanicalrecipes.com
 botanicalresourceengine.garden
+botanicalresourceplatform.garden
 botanicalworkflow.garden
 botanyreadersettlement.com
 botanyspiritualmaxim.com
@@ -60824,7 +60886,6 @@ bothererune.com
 botherlaying.com
 bothers.com
 botherwhilebananas.com
-bothexc.rebusdreams.com
 bothgiggle.com
 bothnationaldomainzones.com
 bothoorgoamsab.net
@@ -60864,6 +60925,7 @@ botrenium.net
 botrytisdefttrocked.info
 bots-aml.com
 bots-collabland.pages.dev
+bots-unical-resource-platform.garden
 bots.lease
 botsalesforce.com
 botsarea.com
@@ -63975,6 +64037,7 @@ bstlecmmueh67834.weebly.com
 bstn8n.ru
 bstn8n.store
 bstockai.com
+bstopg.odilehomes.com
 bstream.channelcom.tech
 bstream.kzhi.tech
 bstrminer.com
@@ -64834,6 +64897,7 @@ budgetwanderer46d.info
 budglenistergn0j0.pages.dev
 budhartech.com
 budi.sgjava.workers.dev
+budine-luceno.info
 budl.cn
 budli6.sbs
 budmar-nasielsk.pl
@@ -69269,6 +69333,7 @@ capricious-chosen.com
 capriciouscorn.com
 capricourier.org
 caprimelime.com
+caprisalipedslhota.cyou
 caprivijusticeactionnetwork.com
 caprizecaprizedogcollar.com
 caprizecaprizeflagfur.com
@@ -69923,7 +69988,6 @@ carmoneydrive.com
 carmotquidder.cfd
 carmusicl.info
 carnart.com
-carnationreso.slaughtertonesrecords.com
 carnationvdive.best
 carnavalensenada.mx
 carnavalesco.com.br
@@ -69940,67 +70004,3 @@ carnivorouswordsroute.com
 carnley.com
 carnostori.pro
 carnovalog.com
-carnuvalt.com
-caroalcocer.com
-carobcyprus.com
-carobhomes.com
-carobra.xyz
-carobvillas.com
-carolbschultz.com
-carolchaussures.fr
-carolco.cylenvora.com
-carolcoaching.com
-carolcornils.com
-carolebouchy.shop
-carolebsapphire.pages.dev
-caroleknisely2.weebly.com
-carolepujol.shop
-carolezerbib.shop
-carolina-isabel-on-live.com
-carolinacovidtesting.com
-carolinafiredawgs.com
-carolinainthetrenches.org
-carolinaj.com
-carolinasmith.com
-caroline-bell.com
-carolinefairbanks.com
-carolinemcnutt.com
-carolinewilliamstherapy.com
-carollewis.network
-carolroth.com
-carolsilva.shop
-carolstarks001.wixstudio.com
-carolswanson.shop
-carolwest0.weebly.com
-carolyngrattan.shop
-carolynmaccormack.com
-carolynreinhart.com
-carolynspreciousmemories.com
-carolyntiffany1983.silverpamp.com
-carolynwright.shop
-caroma.cc
-caronblatrina.pages.dev
-caroncar.ru
-carondelet1.weebly.com
-caroprotection.help
-carotoni12334.weebly.com
-carottesandco.fr
-carouselacres.net
-carouselfm.com
-carouselrealty.net
-carp.amespacios.com
-carp.spotonevent.no
-carpathianjerky.vip
-carpatree.shop
-carpediem3.weebly.com
-carpediemmykonos.com
-carpenterexplorerdemolition.com
-carpenterfootwearappellation.com
-carpenterfrostshell.com
-carpenterhood.com
-carpenteroutwitindictment.com
-carpenterslocal505.weebly.com
-carpentersubmerge.com
-carpenterthrilling.com
-carpeomniatraining.com
-carperspiration.com
