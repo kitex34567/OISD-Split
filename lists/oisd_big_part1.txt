@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-05-16T20:57:42Z
-# Entries: 70,000 (of 402,351 total)
+# Updated: 2026-05-17T04:02:41Z
+# Entries: 70,000 (of 402,163 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -1446,7 +1446,6 @@
 12.sub-97-177-25.myvzw.com
 1200555.com
 1200koine.com
-12048763.xyz
 120774624807230806.weebly.com
 1208344341.rsc.cdn77.org
 12090cd892.com
@@ -1824,7 +1823,6 @@
 146754-coinbase.com
 147040e2fd1fa7e1736343b5d3bd6c9650779f8124960d83bca2c91cf1.pages.dev
 147174680449415800.weebly.com
-14798230.xyz
 1481uu.top
 148222508622893466.weebly.com
 1483bandcamp2eu.click
@@ -2418,7 +2416,6 @@
 19233-coinbase.com
 1925f430b45d33d520--9b6382-b387--081d75f8.pages.dev
 19271.click
-19273048.xyz
 1927784483.s3.amazonaws.com
 1927ajhsjz-96387.pages.dev
 192836-coinbase.com
@@ -3027,7 +3024,6 @@
 1qingdao.com
 1qkssfop4l.com
 1qocqk1fho.com
-1qwr8vn.cfd
 1r3r3434fg.icu
 1r4g65b63.de
 1raabbe3wkd.pages.dev
@@ -3148,7 +3144,6 @@
 1vd2esrss.com
 1vfcuonline.weebly.com
 1vin777.com
-1vkr8na.top
 1vt.pages.dev
 1w21.am.coinbase.cm
 1w2m.com
@@ -3959,7 +3954,6 @@
 240211461271744.weebly.com
 240318pg1.pages.dev
 240702-a2s.pages.dev
-24081937.xyz
 240961985746419283.weebly.com
 241.sub-70-198-113.myvzw.com
 241.sub-70-212-28.myvzw.com
@@ -4332,7 +4326,6 @@
 280wldc.com
 2811a831e2.7d2f96eee0.com
 281849408853532262.weebly.com
-28193745.xyz
 281m73.hbg.hebdenbridgedental.co.uk
 282.pages.dev
 2822.v.fwmrm.net
@@ -4611,7 +4604,6 @@
 2kmp.nl
 2kmp.online
 2kn40j226.de
-2kn9mva.top
 2kr.cc
 2kra34.cc
 2krak.cc
@@ -4685,6 +4677,7 @@
 2o7.com
 2offers.xyz
 2ok7k2.close.futureisready.com
+2ol471ks.kernel-lattice.digital
 2om93s33n.de
 2omfz9ygz2.com
 2options.go2cloud.org
@@ -4720,7 +4713,6 @@
 2re6rpip2.de
 2rhlubiwm4.46464tk.com
 2rich4bitches.com
-2rk9qxa.top
 2rlgdkf7s.de
 2rmifan7n.de
 2rp.info
@@ -4765,7 +4757,6 @@
 2ts-engineering.by
 2ts55ek00.de
 2tuggd33rgcg.github.io
-2tw8qpm.cfd
 2twosix.com
 2u1h56851n.top
 2unblocksites.com
@@ -4774,7 +4765,6 @@
 2vb.ru
 2vcb9onxjm.com
 2vmcuhbg.top
-2vpx8wm.top
 2vqgtxw.cn
 2vv.cc
 2w90.co.cc
@@ -5171,7 +5161,6 @@
 346347-coinbase.com
 347211961600526262.weebly.com
 3472456-coinbase.com
-34782901.xyz
 347859894035898888.click
 3485823-coinbase.com
 3489kxphyr083c1q.fantom.neriobazzano.it
@@ -5357,7 +5346,6 @@
 368323283370894791.weebly.com
 368travel.com
 369087-coinbase.com
-36918574.xyz
 3692022.com
 369253391542088254.weebly.com
 369678.cn
@@ -5721,6 +5709,7 @@
 3gsoftfile.tcdn.qq.com
 3gupload.112.2o7.net
 3gviettel.vn
+3h4f2h8rziloe3.cfd
 3hads4i5hm.com
 3hdmedia.com
 3henterprise.com
@@ -5740,7 +5729,6 @@
 3it-bandung.com
 3ivision.ai
 3iynb949cfrurtvhvm6gf59.cfd
-3j.mediasync.blog
 3j0pw4ed7uac-a.akamaihd.net
 3j1fiw14n9.com
 3j5kb46jkbkj553kjb6kj45b4j87b98kj9.pages.dev
@@ -5836,8 +5824,6 @@
 3qfe1gfa.de
 3qmh.com
 3qtdjf4830.com
-3qv7xkn.top
-3qwr8xn.top
 3qx0pnhyzi.com
 3r1kwxcd.top
 3rack.com
@@ -5876,14 +5862,12 @@
 3ton-8l7.pages.dev
 3tuhabe.info
 3twentycoin.com
-3tx8qvn.top
 3u3ymbqj.xyz
 3u77.com
 3u8483.cc
 3utools.fr
 3uuu47.top
 3uuu69.top
-3v7qzna.cfd
 3vcs32.4.fourcrossesinn.com
 3verify.github.io
 3vetz.com
@@ -5891,6 +5875,7 @@
 3vig.com
 3vinc.com
 3vnofjidlv.com
+3w32k3ih.signal-harbor.digital
 3w90.co.cc
 3we4.weebly.com
 3weekdiet.com
@@ -5900,7 +5885,6 @@
 3wjxx2.close.futureisready.com
 3wp2t3.close.futureisready.com
 3wr110.net
-3wr9qkt.top
 3wtuan.com
 3x-teens.net
 3x1ry6we9.com
@@ -6132,6 +6116,7 @@
 43a0e1ae69.com
 43a484d17964425-19399f252046b349e67-0eb802399f0-9f0.pages.dev
 43d62c1c-fd02-4156-a94b-92a17ed205b0-00-1rgmk1gjsd1n2.janeway.replit.dev
+43df81ab37.com
 43e40a32.ngrok.io
 43e6.shop
 43eksc8w59.com
@@ -6576,7 +6561,6 @@
 4kkaxgfdw7l1yvv4t9v.com
 4klm.com
 4kmovies.xyz
-4kn9wva.top
 4kqz7kqt2.life
 4kxczstxil.com
 4l5bbkug99.com
@@ -6680,7 +6664,6 @@
 4v3.weebly.com
 4v6a7i3dkz.com
 4vp.xyz
-4vp1xqn.cfd
 4w3ol467n.com
 4w54d7rjg.com
 4w90.co.cc
@@ -7026,7 +7009,6 @@
 539072132229464460.weebly.com
 5394aeb3d4.com
 539556908488705155.weebly.com
-53981726.xyz
 539832gemini.com
 53c2dtzsj7t1.top
 53d82deb.adsl.enternet.hu
@@ -7411,7 +7393,6 @@
 56q8.cn
 56rt2692.de
 56yk.com
-57.dmca-notify.ink
 57.sub-75-193-209.myvzw.com
 57078392.xyz
 570footballcamp.com
@@ -7419,7 +7400,6 @@
 571277724537503774.weebly.com
 5726.bapi.adsafeprotected.com
 572848-coinbase.com
-57286139.xyz
 572e434b-2b07-4367-a8d9-7590bf770708-00-2cd9jdm6tcu78.riker.replit.dev
 5731773-dot-oaao-274308.uc.r.appspot.com
 57348923845985-43893489389347458.pages.dev
@@ -7521,10 +7501,8 @@
 590578zugbr8.com
 5905a0.com
 590653170521840006.weebly.com
-59137482.xyz
 591860.playcode.io
 592045-coinbase.com
-59230187.xyz
 592cc92d.race-bxj.pages.dev
 59306-coinbase.com
 59344511.weebly.com
@@ -7717,6 +7695,7 @@
 5jrd5y.close.futureisready.com
 5jtx.com
 5k1cyldc9.com
+5k5qmxm2pgqxtlejrj3.rest
 5k6jzg.gow.englishwoodlands.co.uk
 5k71-k-t51u8q91otp3.xyz
 5k7xi5io-appleid.pages.dev
@@ -7738,7 +7717,6 @@
 5mgrgsc.cn
 5milebuzz.com
 5min.win
-5mk9vpq.cfd
 5mm.zxfw5.cn
 5mn041cdz.com
 5mn7cf73.xyz
@@ -7752,7 +7730,6 @@
 5nn0ag.reichll.click
 5nt.d00.mytemp.website
 5nt1gx7o57.com
-5o.dmca-notify.top
 5o8aj5nt.de
 5o8ng6.shet.eveshamairporttransfers.co.uk
 5ok.org
@@ -7767,10 +7744,8 @@
 5pi13h3q.de
 5pub.com
 5qh3mq0gexai.icu
-5qmn2tp.top
 5qw7-wvha-uyc7.wakajeje-aol-com-s-account.workers.dev
 5qwg.com
-5qz1wka.top
 5qzone.net
 5r656tirf6i5di56tfity.pages.dev
 5raaa3leeek.ddns.net
@@ -7970,7 +7945,6 @@
 618.lol
 618016739859985155.weebly.com
 618199.com
-61854027.xyz
 61856843.euro-maconnerie.fr
 618742-coinbase.com
 618942391198968892.weebly.com
@@ -8135,7 +8109,6 @@
 647800.ds.nac.net
 64786087.xyz
 6478684.weebly.com
-64820371.xyz
 648287442.weebly.com
 648358-coinbase.com
 6484943.weebly.com
@@ -8459,7 +8432,6 @@
 67365pt.com
 673763.weebly.com
 673890333211.weebly.com
-67410293.xyz
 674118-coinbase.com
 674ec528.liftmyresume.com
 675093429378322893.weebly.com
@@ -8501,11 +8473,9 @@
 68287zubo85737.com
 682a5845.b-cdn.net
 682dde34.liftmyresume.com
-68392047.xyz
 683998931415449975.weebly.com
 6840122afa.com
 684117844878364315.weebly.com
-68420591.xyz
 6844762e.click.convertkit-mail2.com
 684939878648437.pages.dev
 685277643802424046.weebly.com
@@ -8755,7 +8725,6 @@
 6mct3a.pulty.multiversemechanics.info
 6mdf9teiz.com
 6mmlive.vip
-6mp2qzn.top
 6n528aywi9.com
 6na66nbabab6b66bb0an60na6n6n06na60050nqqopqpqmqnqprne.pages.dev
 6nglkt9.azhhr.cn
@@ -8868,7 +8837,6 @@
 7045904-dot-oaao-274308.uc.r.appspot.com
 705120412102895443.weebly.com
 705411999839325276.weebly.com
-70549218.xyz
 7054company.github.io
 705sport.com
 7060.la
@@ -8953,7 +8921,6 @@
 7246.bapi.adsafeprotected.com
 7246d.com
 7246f.shop
-72498135.xyz
 724acil.com
 7250.bapi.adsafeprotected.com
 7250xdj0x.com
@@ -9019,7 +8986,6 @@
 736623coinbase.com
 73670.newsroom.pwndrunk.com
 73670.research.pwndrunk.com
-73684925.xyz
 737041784260770711.weebly.com
 737152437148753053.weebly.com
 73727-coinbase.com
@@ -9069,7 +9035,6 @@
 747063177942805613.weebly.com
 747805082860979494.weebly.com
 748293322.weebly.com
-74839021.xyz
 748392.vu
 74847854944.weebly.com
 74852222.weebly.com
@@ -9490,6 +9455,7 @@
 7d44c6ba4d.com
 7d44dd166d3427dcfdf0ce7cb5df0cfdceb3a5c76d9117c48bcb7248f1.pages.dev
 7d6958cb00.com
+7d6e366acd.com
 7d71h9d9710371jd9912j.us
 7d75a41f.flyjasper.ca
 7d77f23c90.com
@@ -9508,7 +9474,6 @@
 7dot.cn
 7drop.top
 7duloxetine24.weebly.com
-7e.dmca-strike.casa
 7e0b518a.liftmyresume.com
 7e1fdba1adaba38b3123850f.workers.dev
 7e37cac9.diabetes-bewegung.de
@@ -9574,7 +9539,6 @@
 7kkccx.pulty.multiversemechanics.info
 7kprtners.com
 7kptyw.close.futureisready.com
-7l.dmca-notify.casa
 7lavkpncj.com
 7leaf-clover.net
 7lim.com
@@ -9639,7 +9603,6 @@
 7spurcore.com
 7strqfn56s.com
 7sultans.com
-7t.dmca-strike.team
 7t9dw.codesandbox.io
 7thskysoftware.com
 7thvictory.net
@@ -10010,7 +9973,6 @@
 8633333.com
 86374coinbase.com
 863vn.com
-86421037.xyz
 864560952701918503.weebly.com
 86472123.euro-maconnerie.fr
 864756590714102-dot-charming-sky-2700.appspot.com
@@ -10018,7 +9980,6 @@
 864be80c.pinit.eth.limo
 864feb57ruary.com
 864g.com
-86520371.xyz
 8657guest-booking.com
 865pro.com
 866152525231263833.weebly.com
@@ -10466,6 +10427,7 @@
 8us88.com
 8v08mjri7.com
 8vdzn1me.workers.dev
+8vkg7hik3orp62zu.rest
 8vulkanvegas.com
 8w6hovz0d2.com
 8widgetindustries.com
@@ -10984,7 +10946,6 @@
 950211939309182316.weebly.com
 950320192315614566.weebly.com
 9505.com
-95071328.xyz
 9515212.click
 9519.net
 951e650740.weebly.com
@@ -11423,6 +11384,7 @@
 9fcoh811c.com
 9fe84e92a1.com
 9fia93.duckdns.org
+9flq9e2q5bgjn5u9m2.cfd
 9fum.ifeng.com
 9gau3j8x7.com
 9ge9rc85r.com
@@ -13740,6 +13702,7 @@ abticket.fr
 abtlclmout.duckdns.org
 abtracker.adultbouncer.com
 abtrcker.com
+abtrusecrooked.cyou
 abtsgfncqtxda.site
 abtshield.com
 abttechnologia.com
@@ -13837,6 +13800,7 @@ abysslight.com
 abyssofmetal.blogspot.com
 abyssos.eu
 abyssvioli.pro
+abysuto.pro
 abytest.com
 abytommy2021.weebly.com
 abyy.duckdns.org
@@ -22720,6 +22684,7 @@ ageoftechnology56.store
 agfasjfhveoqf.online
 agfkvqruxx.com
 agfmwgopktnc.com
+aggadahsdiffusiaable.info
 agganheah.pro
 aggavkeyst.digital
 aggbuildingdevelopment.com
@@ -23136,6 +23101,7 @@ ahcoin.gemini-pro.com
 ahcts-booking-injector.cybersec-defense.workers.dev
 ahcyzs8888.com
 ahdacibarrett.com
+ahdaratlegalservices.com
 ahdianity.jumpingcrab.com
 aheadday.com
 aheadgrow.com
@@ -23894,6 +23860,7 @@ aiosq.store
 aiotrack.info
 aioweb.ru
 aioz--sushi.xyz
+aip-profit.pro
 aipartnercloud.com
 aipartnerhelp.org
 aipeak.ru
@@ -26360,6 +26327,7 @@ aliceastarita.info
 aliceblue-wasp-214350.hostingersite.com
 alicebrandstudio.com
 alicebrowndiv1.weebly.com
+alicechauffeuringoxford.com
 aliceclarkplatts.com
 alicedroege.com
 aliceharleymedium.com
@@ -26468,6 +26436,7 @@ alimama.alicdn.com
 alime-pic.oss-cn-hangzhou.aliyuncs.com
 alimelog.taobao.com
 alimen.webcindario.com
+alimenteeconfessionals.info
 alimentiumconnectwebapi.azurewebsites.net
 alimentscheznous.com
 alimonylaterdevious.com
@@ -27556,6 +27525,7 @@ allnaturalplanet.net
 allnaturalplanet.org
 allne1974.weebly.com
 allnestinfinite.com
+allnetgo.site
 allnewhost.com
 allnews.chestertelegraph.org
 allnode-rectify.pages.dev
@@ -30041,6 +30011,7 @@ ammakitchen.in
 ammapp.cc
 ammarashfak.com
 ammardecal.pro
+ammatscacc.cyou
 ammbitwisevip.com
 ammdminister.info
 ammdx.com
@@ -31347,6 +31318,7 @@ ancient-guidance.jp
 ancient-heart-b20b.suericisrknvzozadjerxa.workers.dev
 ancient-hollow-cxq.pages.dev
 ancient-horizon-mist-beacon-signal-portal.pages.dev
+ancient-parchment-archive.garden
 ancient-pipe.com
 ancient-ri6575653343343535ver-7772.daniela-scheibenpflug.workers.dev
 ancient-ridge-beacon-signal-vault.pages.dev
@@ -40237,6 +40209,7 @@ asyn.cn
 async-px-eu.dynamicyield.com
 async-px.dynamicyield.com
 asynchronous-message-routing-framework.wiki
+asynchronouswatering-system.garden
 asynchub332-knyj.blogspot.com
 asyncpipelinehub.wiki
 asyncprabh.github.io
@@ -42249,6 +42222,7 @@ aurealoneweb.com
 aureaswap.com
 aureateroute.com
 aureclimited.org
+aurekh.com
 aurelbo.irish
 aurelia-krakow.com
 aureliadive.store
@@ -49715,7 +49689,6 @@ bc406dd9.flyjasper.ca
 bc48fa9adc.com
 bc4de0755f.com
 bc5dd64e394d2e1cfbfe3ab334cac14487475f9d9cca94d99abdfe9088.pages.dev
-bc6.ehubarena.info
 bc6dc48b743dc5d01.clicknplay.to
 bc6kfa.com
 bca-integral-cy.top
@@ -50032,6 +50005,7 @@ bdelkjdmtfkjy.website
 bdenwifhatsolana-xyz.pages.dev
 bderwdfdolgsw.online
 bdeshjabo.com
+bdevicev.tommyleonardjr.com
 bdfpbimg.ifengimg.com
 bdfscwkd.com
 bdfxohpay.com
@@ -51884,6 +51858,7 @@ berruekici.com
 berryaseglennis.pages.dev
 berrybenkaofficialjob.com
 berrybrassorbit.top
+berrybroa.click
 berryen.com
 berryessa.stats.live-video.net
 berryhillfarmgwent.com
@@ -58171,6 +58146,7 @@ bloomingyourlifestyle.com
 bloomiver.com
 bloommaldi.pro
 bloommedia1.com
+bloommonitoringengine.garden
 bloompadds.com
 bloomsbasket.com
 bloomscapeuk.com
@@ -58244,7 +58220,6 @@ bloxlink-bot.app
 bloxlink.bot
 bloxlink.co
 bloxlink.online
-bloxlink.tech
 bloxlink.web.id
 bloxplay.com
 bloxredeemcom.pages.dev
@@ -59621,6 +59596,7 @@ boldvibex.info
 boldweak.click
 bolebi.com
 boledc.uno
+boleslawiec-plstore.shop
 boletesf.irish
 bolexroids.com
 bolfjdwccuhy.com
@@ -59723,7 +59699,6 @@ bonadiby.vh81.hosterby.com
 bonafidechef.com
 bonafides.club
 bonailspatra.gr
-bonangmastedotter.cfd
 bonarmudro.pro
 boncondominiumnambaebisu.com
 boncondonambanipponbashi.com
@@ -60779,9 +60754,12 @@ botadmin.space
 botak77slot.com
 botan-it-getwork-flow.garden
 botanical-research-archive.wildfern.ru
+botanicalautomationengine.garden
 botanicalbundle.com
 botanicalhedonist.com
+botanicalprocessingengine.garden
 botanicalrecipes.com
+botanicalresourceengine.garden
 botanicalworkflow.garden
 botanyreadersettlement.com
 botanyspiritualmaxim.com
@@ -61486,7 +61464,6 @@ bradesco.atualizarmodulo.com
 bradesco.atualizarnetempresas.digital
 bradesco.atualizarpj.com
 bradesco.auditoriatalao.com
-bradesco.autenticacaopj.site
 bradesco.bia-cliente.click
 bradesco.biacentral.click
 bradesco.biacentral.info
@@ -63370,6 +63347,7 @@ bronze-leather.com
 bronze-sudsy-parrot.glitch.me
 bronze-voyage.com
 bronzeandblack.com
+bronzebre.onlygoldenplots.com
 bronzecedarleaf.com
 bronzeentry.pro
 bronzefeathertech.info
@@ -67480,6 +67458,7 @@ cabletvviewing.com
 cabletvwebsites.com
 cablevision.112.2o7.net
 cabmengrouter.cfd
+cabmrefaktaj.in
 cabnb.online
 cabnet.se
 cabnnr.com
@@ -70004,3 +69983,24 @@ carpici.clicknplay.to
 carplay-android-autoradio.fr
 carplay-autoradio.fr
 carplayfrance.fr
+carplaystores.fr
+carplusfrance.fr
+carpoolqueen.com
+carpprediction.com
+carprise.shop
+carprlce.ru
+carpuslarrups.com
+carquotespro.com
+carreaublanc.com
+carrecospo.pro
+carreeycarmelle-9fv.pages.dev
+carreeyhermina.pages.dev
+carrefornewyears4.pages.dev
+carrefour-auth.fr
+carrefour-backtoschool28.pages.dev
+carrefour-banque-espace-client.fr
+carrefour-conexion.fr
+carrefour-distribution.fr
+carrefour-enbacktoschool4.pages.dev
+carrefour-enbacktoschool7.pages.dev
+carrefour-webgestiones.com
