@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-05-26T21:51:48Z
-# Entries: 70,000 (of 323,454 total)
+# Updated: 2026-05-27T04:23:14Z
+# Entries: 70,000 (of 323,500 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -2950,6 +2950,7 @@
 2026pl-eobuwie.shop
 2026pl-saway.shop
 2026plqx.shop
+2026plwojas.click
 2026policedtp.vercel.app
 2026premiumupdate.weeblysite.com
 2026springpromotion.shop
@@ -24173,6 +24174,7 @@ allegrolokalnie.pl-oferta680594726.shop
 allegrolokalnie.pl-oferta7715661.click
 allegrolokalnie.pl-oferta8238191.click
 allegrolokalnie.pl-oferta82883.shop
+allegrolokalnie.pl-oferta8296007.sbs
 allegrolokalnie.pl-oferta8391000.click
 allegrolokalnie.pl-oferta853019.click
 allegrolokalnie.pl-oferta887631.shop
@@ -24180,6 +24182,7 @@ allegrolokalnie.pl-oferta9070017.click
 allegrolokalnie.pl-oferta926212.click
 allegrolokalnie.pl-oferta9385629.click
 allegrolokalnie.pl-oferta9443014.click
+allegrolokalnie.pl-oferta9581897.lat
 allegrolokalnie.pl-oferta9875934023.click
 allegrolokalnie.pl-ogloszenia-firmowe-82183.click
 allegrolokalnie.pl-ogloszenie-elektronika-834213.rest
@@ -35649,6 +35652,7 @@ aurisoncore780-nl.com
 auriveo-finance.com
 aurixa-app.com
 aurixa-pl.com
+aurmira.shop
 aurmyst-lujo.com
 aurmystanovex.com
 auro-prop.com
@@ -41124,6 +41128,7 @@ bathroomsperth.com.au
 bathroomstore.online
 bathsprings01.weebly.com
 bathtubabdomencoarse.com
+bathuoutlet-za.shop
 bathusaleza.shop
 batikenthaber.com
 batilevwwijjj.online
@@ -47827,6 +47832,7 @@ blockmax.io
 blocknoderesolve.pages.dev
 blocknodesreset.pages.dev
 blocknodesystem.pages.dev
+blocknpause.jizelleteves.com
 blocknux.com
 blockpact.capital
 blocks-mainnet.vercel.app
@@ -54384,8 +54390,10 @@ butyjonakparis.com
 butyjordansklep.pl
 butykorki.com
 butylplexor.cfd
+butyqx1.click
 butytimberland.com
 butytrendy.com
+butywojas.click
 buumbet.net
 buunguyenwriter.com
 buuuiss.com
@@ -69996,11 +70004,3 @@ comunicadto0.webcindario.com
 comunicare-relatiipublice.ro
 comunidadponiente.com
 comunidadpro-77ddb0584cee.herokuapp.com
-comunity-support.com
-comupdate.de
-comutec-web-2.pages.dev
-comvella.com
-comxei.icu
-comxfuwoj.weebly.com
-comygao.com
-con-cam.gmkf6a.cn
