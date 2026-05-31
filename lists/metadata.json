@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-30T21:07:45Z",
+  "updated": "2026-05-31T04:26:06Z",
   "source": "https://big.oisd.nl/domainswild",
-  "total_entries": 375669,
-  "num_parts": 6,
+  "total_entries": 495932,
+  "num_parts": 8,
   "chunk_size": 70000,
   "parts": [
     "oisd_big_part1.txt",
@@ -10,6 +10,8 @@
     "oisd_big_part3.txt",
     "oisd_big_part4.txt",
     "oisd_big_part5.txt",
-    "oisd_big_part6.txt"
+    "oisd_big_part6.txt",
+    "oisd_big_part7.txt",
+    "oisd_big_part8.txt"
   ]
 }
