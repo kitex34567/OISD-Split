@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 7
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-06-01T22:34:25Z
-# Entries: 70,000 (of 504,780 total)
+# Updated: 2026-06-02T04:44:11Z
+# Entries: 70,000 (of 504,779 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 subjectivepoint.com
@@ -53052,7 +53052,6 @@ watchwebcamthesex.com
 watchworks.shop
 watchwrestling.plus
 watchwrestling9.com
-watchxxx.top
 watchy.fun
 watchyoutube.servehttp.com
 watchzfflow.top
@@ -70004,3 +70003,4 @@ xn--iclud-481b.com
 xn--ieknoktas-p3ab01g.online
 xn--ietu27cyvxbma.cn
 xn--ig2b43pfxdttbs96a.com
+xn--ij2bj3bu52b75a.xn--oi2b61z32a.xn--3e0b707e

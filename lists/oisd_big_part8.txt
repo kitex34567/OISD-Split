@@ -1,10 +1,9 @@
 # OISD Big Blocklist – Part 8
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-06-01T22:34:25Z
-# Entries: 14,780 (of 504,780 total)
+# Updated: 2026-06-02T04:44:11Z
+# Entries: 14,779 (of 504,779 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
-xn--ij2bj3bu52b75a.xn--oi2b61z32a.xn--3e0b707e
 xn--illumine-h1a.com
 xn--ilz26o.com
 xn--im-1z5cr40w.top

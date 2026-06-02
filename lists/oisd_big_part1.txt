@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-06-01T22:34:25Z
-# Entries: 70,000 (of 504,780 total)
+# Updated: 2026-06-02T04:44:11Z
+# Entries: 70,000 (of 504,779 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
