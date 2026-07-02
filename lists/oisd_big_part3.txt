@@ -1,9 +1,58 @@
 # OISD Big Blocklist – Part 3
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-07-02T04:05:37Z
-# Entries: 70,000 (of 326,358 total)
+# Updated: 2026-07-02T12:13:04Z
+# Entries: 70,000 (of 326,476 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
+id-ce18923-celsius.network
+id-ce28123-celsius.network
+id-chao.pages.dev
+id-claimbonus-danakagettt.pages.dev
+id-claimbonussnya.pages.dev
+id-exchange-cc.top
+id-exchange-cc.work
+id-exchange.work
+id-exchangekk.top
+id-exchangekk.work
+id-findmy.app
+id-fr.info
+id-handel-mobile-de.aklawfirm.net
+id-help.info
+id-icloud.com
+id-ionos.awamer.net
+id-location.com
+id-login-surveillance-monitoring.pages.dev
+id-login.info
+id-lux.com
+id-metamask.app
+id-mortgage.net
+id-msp.newsbreak.com
+id-review-case-10004285.firebaseapp.com
+id-review-case-10004285.web.app
+id-role.com
+id-s1.com
+id-sign.in
+id-spectrum-net-login-index.framer.ai
+id-spectrum-net-login.framer.ai
+id-spectrum-net-login.framer.website
+id-spectrum-net4-0.framer.website
+id-third-appstore.vivoglobal.com
+id-uk.info
+id-univ-amu.fr
+id-v.com
+id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com
+id-ward.com
+id.biznes-treningi-dlya-rukovodit.ru
+id.crwdcntrl.net
+id.cxense.com
+id.datings-reload.workers.dev
+id.google.de
+id.innityserve.net
+id.jiathis.com
+id.managehosting-aruba.info
+id.mba
+id.mybidprojectreview.live
+id.nbcuni.com
 id.sharedid.org
 id.testiroval.ru
 id.uptimebuildview.space
@@ -3283,6 +3332,7 @@ inein.mx
 inergoliertifs.com
 inersia-singapore.com
 inerthankclamp.com
+inertprote.cyou
 inervadores.life
 inerymblet.shop
 inesbemogene.pages.dev
@@ -4001,6 +4051,7 @@ ingineeringstroy.ru
 inglenook-repair.com
 inglesparaturismoyhoteleria.com
 ingoinc.com
+ingolattic.cyou
 ingomi.com
 ingopa.com
 ingotru.com
@@ -4451,6 +4502,7 @@ inpolst.al2k1s.sbs
 inpolst.fiu27kka7.cfd
 inpolst.oa21osd3.cfd
 inpolst.skilqoipost.shop
+inpolst.sl3kf2.click
 inpolst.zl39t2.cyou
 inposet.top
 inpost-pl.bond
@@ -8384,7 +8436,6 @@ j2cpjr7qipjtjiip.rest
 j2fu64j4e.com
 j2jtq0hpb.com
 j2lroqu7.kgyniewjoxgngfw8n.cyou
-j2rfzlmu.enf90.net
 j2vasolutions.com
 j300.dailynews.com
 j33xvvanl.com
@@ -9030,6 +9081,7 @@ jarmetofilu.info
 jarnivoq.shop
 jarno-kirnberger.de
 jaroprosivo-cz.fyi
+jarovdisam.cyou
 jarredazar6mu1l.pages.dev
 jarrellappliancegallery.com
 jarru.net
@@ -9827,6 +9879,7 @@ jenssoering.com
 jenstratton.shop
 jenstrumental.com
 jenteuplide.yolasite.com
+jentoravix.pro
 jenurival-poxilatre.pages.dev
 jenya-pro.online
 jenyadenizeri.com
@@ -12170,6 +12223,7 @@ joyfulxx.com
 joyindi.com
 joylessfuture.org
 joylink.bio
+joylteqrina.info
 joymee.com
 joynagarsmoa.com
 joynamictutors.com
@@ -12274,7 +12328,6 @@ jpnxzshopdata.authorizeddns.org
 jpoetix.com
 jpojrkwzofpxn.space
 jpomu.info
-jpopdwg.vip1xbet.net
 jpoqotqyjhqqz.space
 jpoux.gmgassicura.it
 jpower.realtor
@@ -12986,6 +13039,7 @@ juhktkdeby.com
 juhogay.com
 juhuige.com
 jui5.weebly.com
+juialopadiidadoaia.site
 juiceapac.com
 juicebard.com
 juiceblocks.com
@@ -13011,6 +13065,7 @@ juileec.ru
 juileec.store
 juillet2015.weebly.com
 juilletfrancais2012.weebly.com
+juioapidodidaodaia.site
 juiomweasdtyuber.weebly.com
 juioohu.pages.dev
 juiooisdfosifofs.site
@@ -16539,6 +16594,7 @@ kexiafrxgqhwro.com
 kexjclytx.com
 kexmobeves.pro
 kexojito.com
+kexon.shop
 kexoncqnunjhn.online
 kexubgz.com
 kexycmxrvipfh.space
@@ -17840,6 +17896,7 @@ kivarolla.shop
 kivaruo.com
 kivcoinlogix.gitbook.io
 kivento.shop
+kivex.shop
 kivkmopakxkwo.online
 kivo.fun
 kivomarel-tunaropix.pages.dev
@@ -19153,6 +19210,7 @@ konthongkam.com
 konti-bot.store
 konto-auth.ct.ws
 konto-bezpieczenstwo.com
+konto-dostep.vercel.app
 konto-freigabe.de
 konto-mitid.firebaseapp.com
 konto-mitid.web.app
@@ -19271,6 +19329,7 @@ koravi.shop
 korbatech.com
 kordelservers.xyz
 kordevixaq.info
+kordo.shop
 kordonbalikpisiricisigaziemir.com
 kore.pages.dev
 korea-massage.net
@@ -20704,6 +20763,7 @@ kuurort175.weebly.com
 kuurvymodelingagency.com
 kuusikkotie4.weebly.com
 kuuzio.com
+kuvalahsapcnc.com
 kuveyturk.cc
 kuvingsbrasil.com
 kuvirixa.com
@@ -27116,6 +27176,7 @@ liraluck.fr
 liraluckcasino.fr
 liramovex-tufinarto.pages.dev
 lirane-guide.com
+lirashome.com
 liraspiin.fr
 liraspin-casino.fr
 liraspin-france.fr
@@ -31392,8 +31453,10 @@ lopfait.com
 lopfly.com
 lopgiv.com
 lopkjmbntyu56ersdazct.weebly.com
+loplaodadiadldak.site
 loplilopampandestris.firebaseapp.com
 loplilopampandestris.web.app
+loporeddo.site
 loporty.shop
 lopostone.com
 lopp-e8780.firebaseapp.com
@@ -31921,6 +31984,7 @@ lovelydrum.com
 lovelyla22.weebly.com
 lovelysearch.com
 lovelysmiley.com
+lovelyvole.autos
 lovematch.net
 lovemayday.3890276.workers.dev
 lovemelo.net
@@ -33891,6 +33955,7 @@ lytgbkybd.com
 lyticaframeofm.com
 lytics.fileditch.com
 lytlehouse3.weebly.com
+lytrona-sync.com
 lyua.cn
 lyubertsyalko24.shop
 lyubimaya-voennaya-forma-dorama.ru
@@ -38504,7 +38569,6 @@ mclean.lato.cloud.360safe.com
 mcleroy-algebra1.weebly.com
 mclick.mobi
 mclick.simba.taobao.com
-mclmgjkp4him3t.rest
 mcmaniac.com
 mcmedical.ru
 mcmpb.ru
@@ -46107,6 +46171,7 @@ monogranika.com
 monoguurammersobtrusion.info
 monohas.pages.dev
 monohush.com
+monokilok.site
 monoleeogyaguish.info
 monolithindia.com
 monolithix-patrol.pages.dev
@@ -47721,7 +47786,6 @@ msgkxtqtodoji.rocks
 msgoin.com
 msgose.com
 msgpbwbfradny.website
-msgrouppolicy.vg
 msgsafe.net
 msgv6.qy.net
 msgyciiekssnb.space
@@ -48688,7 +48752,6 @@ musubi-net.com
 musuredujkpo.com
 musylioamusa.pages.dev
 mut2021.weebly.com
-mutagebarytaabush.qpon
 mutcheng.net
 mutcoup.firebaseapp.com
 mutcoup.web.app
@@ -51564,6 +51627,7 @@ namp-prime.fr
 nampaktak.com
 namsabah2016.weebly.com
 namsaisupply.com
+namsanaopoodiaok.site
 namshi-uae.online
 namthai.com
 namtrinhstudio.com
@@ -51838,6 +51902,7 @@ nasaladphrao48.com
 nasalfeudalanxious.com
 nasalhoney.com
 nasamikikaidusidoda.site
+nasauiaodoidsaddd.site
 nascdn-js.life
 nasdacoin.io
 nasdaq.122.2o7.net
@@ -56022,6 +56087,7 @@ niasbrutal69.duckdns.org
 niasnotes.com
 niaumxovmqpur.online
 niazswnaokgco.com
+nibapee.pro
 nibebie.com
 nibesruthytiqq.com
 nibezarivuh.org
@@ -57481,6 +57547,7 @@ nodlemagazin.me
 nodloss777.pages.dev
 nodntchkyhhrg.website
 nodoloismaum.com
+nodribalyem.pro
 nodstic.com
 nodthunderthis.com
 nodu1718.odns.fr
@@ -59975,7 +60042,6 @@ nx2jt4p4r.com
 nx2ucbzw1.com
 nx4kjj.casa
 nx5h2z.gow.englishwoodlands.co.uk
-nx6wlhi7y7imki.rest
 nx7.hdxxxclips.com
 nxammcghvgoin.website
 nxatc.com
@@ -61728,6 +61794,7 @@ offer56414.click
 offercase.com
 offerclick.help
 offerdanced.com
+offerdora.shop
 offerent.com
 offereof.shop
 offerforge.com
@@ -62181,6 +62248,7 @@ ogfhroqi.com
 ogfhuleifmtvd.site
 ogfna.net
 ogfokbopmhpe.in
+ogfoodandbeverageindustry.com
 ogfortnite.com
 oggi.capitalsociety.org
 oghfcghsr.com
@@ -62514,6 +62582,7 @@ ohmyspinsonline.fr
 ohmyzino.fr
 ohndsplu.com
 ohnnb8.jik.thetreecentre.com
+ohobuke.pro
 ohobzewgfqy.ca6a8b74-32ac-45ea-84f0-fb607b8789ab.click
 ohomihlorwmjh.space
 ohooblbmkxp.com
@@ -69935,72 +70004,3 @@ pappatango.com
 pappelforum.com
 pappusup.info
 paprikapl.b-cdn.net
-papso.pages.dev
-paptakeplan.info
-papwwwppl.fr
-papyal.s3rv.me
-paqadenplstartformtodayfreegogo.com
-paqoxae.com
-paquet-facture.info
-paquetretour.com
-paquets-pro.com
-paqxspfbapsai.site
-par-sg-connect.fr
-par-zo.net
-par222.weebly.com
-para-9ex.pages.dev
-paraaipetri.ru
-parabab.store
-parablastup.pro
-parabolumpublishing.org
-paraboobs.xyz
-parabootfr.fr
-parabootparis.fr
-parabranup.info
-parabrisa.com
-parabrisasfavasil.cl
-parachutewallet.com
-parachutiste.com
-paracube.ru
-paradefast.com
-paraderascaldefinitely.com
-paradigmgroup.co.ug
-paradise-angel.com
-paradise-play.com
-paradise1972.com
-paradiseflowers123.weebly.com
-paradiseisd2.weebly.com
-paradiseneedlessboiled.com
-paradiseromford.com
-paradiseshop.pl
-paradiseteneriferentals.com
-paradisexx.work
-paradiso-training.de
-paradizeconstruction.com
-parado.pl
-paradombay.ru
-paradox924x.pages.dev
-paraf-card.com
-parafinadomicilio.cl
-paragiposikalnya.cyou
-paragoninvestmentgroup.co.uk
-paragonix-ai.com
-paragonix-earn-de.com
-paragooseofficial.fr
-paragooseofficiel.fr
-paragraphs.top
-parahayali.com
-paraipetri.ru
-paraisodobebe.com
-paraisodosorriso.com.br
-parajiujitsu-gb.com
-parakarta.com
-parakeet.jorenvanhocht.be
-parakeet.kenleyar.ai
-parakeet.phantomphone.net
-parakeet.quotetweet.com
-paralaxcraft.store
-paralegalsplus.com
-paralidya.com
-parallax.askmediagroup.com
-parallaxconsultancy.com
