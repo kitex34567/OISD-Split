@@ -1,9 +1,53 @@
 # OISD Big Blocklist – Part 2
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-07-14T11:35:56Z
-# Entries: 70,000 (of 517,177 total)
+# Updated: 2026-07-14T21:05:09Z
+# Entries: 70,000 (of 517,539 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
+bafybeiaasobpnqcv2dcneok5cynmrzh3wx3o2gdveal2uqsnzgh3y6tkfe.ipfs.dweb.link
+bafybeiaewblu3asohn4t2sxkjjxfezv6xrfymia7aect2xiy2guavitauu.ipfs.cf-ipfs.com
+bafybeialhrwzqxqwwecyjmub6gn4ehoajt64dcpsaxtu6b5ier4zowx3de.ipfs.dweb.link
+bafybeiamo2yli2vn6dvjshqwwvj3armjgxlo7ftkclqthmz5bvcdvitmui.ipfs.dweb.link
+bafybeiaodrjjso3zykdolzdh3w5yneolq5rp3d7jli5mey2fki762zt5oq.ipfs.inbrowser.link
+bafybeiaou2cziurggbjjf22e3bvdywp4ihviscnrqwcm5zn6ppbmrittgq.ipfs.inbrowser.link
+bafybeiaq5pqhvhu6nyuftch27nbebo6ppqg7nrnxuh2isgoggyqgk4eoxy.ipfs.dweb.link
+bafybeiasac6j6vrtn7xnsqfksowgqfqgwteeiydmf6d46mtm5amdexy2h4.ipfs.dweb.link
+bafybeiaszvdnnob336ofawin4wcb2lpt7kjt76ejo3xtkzani4vifom4oi.ipfs.dweb.link
+bafybeiaus6ftks7oxi26q7aqbcbea6btn37oadipitadxrqegkt2xufb64.ipfs.dweb.link
+bafybeiawvbxwvvxt5ua3jkio2njx2m4jgkfihoiorfx4detu2pjlqj3o7a.ipfs.dweb.link
+bafybeiaxjrlto3yzomskqf2m46rcdtfrbdoenkft5z3zevrputjfyzbj7u.ipfs.dweb.link
+bafybeiaxsg4ycyozdyjqnanmxfyro5ttylpjli4yyxlnju5br2vxujggra.ipfs.dweb.link
+bafybeiaxtu5mpc3vkx5ujripufxannqemuhdwjshqg7kxq62a4dc2fs4o4.ipfs.inbrowser.link
+bafybeiaynlkvzpw5c3tfhkh7hq5wsqbfce7cvue6wfpa2nozxon5fbdfru.ipfs.dweb.link
+bafybeib3akl4qjotpnzpkesju3uiam22cztrmy7u6wsy46s7oteorniege.ipfs.dweb.link
+bafybeib3luzjqeg3vtc6itizc72ppqqkndo6hkzmkldbaqhv34lcfydyee.ipfs.dweb.link
+bafybeib43dvjrbjsgjiqbl5gl732xm2cx3lktjdd4sifjla4ccl5wpp7zq.ipfs.dweb.link
+bafybeiba5t7gefttnj6v45j2sxtjn5mi5rmgrkpvn47h2psozuu6sqc5wm.ipfs.inbrowser.link
+bafybeibb3wv3ybyv4xiobvobpdrfiqd7bm3iecwrmw6gykseyv2c2esfga.ipfs.dweb.link
+bafybeibednalgwbl72zf6kml3rrbyabnk2k2nxm6j3szad2lemlagypcda.ipfs.dweb.link
+bafybeibg2sqrediz2r6imlnc5ernhfktohbgohc6n3ydyrwdwpclvokl4a.ipfs.dweb.link
+bafybeibh6u74fuvyazqu2q7y6pginkxprjurxchgfshwigrs5y77qcbj6i.ipfs.dweb.link
+bafybeibiru73a22lhi25q3w3fqjiyn3wrod5bsaqlzrkgj6nz6lqciqr3a.ipfs.dweb.link
+bafybeibmh5wtv6u6htshlkgwj5tm32caaubrmvziyd4k6kirzwee4uckty.ipfs.dweb.link
+bafybeibnkcf3t5gnn73ws6mzy3ntctlha4dzc6wkkhrzypck6uzdth37pm.ipfs.dweb.link
+bafybeibpl4pwq2pyhxhmlfjti5qnglejcs774zzxwimmjpbxxlsp4cdvti.ipfs.dweb.link
+bafybeibt7gvufsgdp3colbyw7ax6k6zl7hra6uebf3bfwhjmop5h76geki.ipfs.dweb.link
+bafybeibuwfhwff3k2elnn7kglo2tdxiy2awbn7z26qyqyaqrwwoffjukpi.ipfs.dweb.link
+bafybeibvvbflijdby3l6phhxeu7wj5vaxksq3nqj7owl7c5huhzxgp2pq4.ipfs.dweb.link
+bafybeibzkqukq26eelwvcna2gnl2nhxhlbrizj6s7rupo7bqimxp7chice.ipfs.dweb.link
+bafybeic4mbmpp4hb4vfl3mmhh7ystqtrj3k7gy7vdnbcjrbeyw5ltztf6e.ipfs.inbrowser.link
+bafybeic4ybpbrififtqmz52nxjpqe7b4zf7qiyo26uea7ci3x3evanbmkm.ipfs.inbrowser.link
+bafybeic5pj75wlunhbefubarshm6iiwwv7og5scsfcuqnwnhhn3iz63ksm.ipfs.dweb.link
+bafybeic6ujdeqtljqaa2wubcp77fhlyrzhonzoq73ot6o6nnfklwoys3yi.ipfs.dweb.link
+bafybeic6ujdeqtljqaa2wubcp77fhlyrzhonzoq73ot6o6nnfklwoys3yi.ipfs.inbrowser.link
+bafybeicakljrcne7ikzpdmshde2j5kof5arq2ywfu3j7vzutwmub32mgrq.ipfs.dweb.link
+bafybeicdaibqcinsl5c2zhd7jgycr5pefqe3bann36wpwwqi2gmjnbzb6u.ipfs.dweb.link
+bafybeicdrslhyo5dhmt6rev4amygie7aeflhimxqffk4x6bxgrbrl3odx.pages.dev
+bafybeicfjkr76rofzypucrumplmzctiuhv2rjijj3mpgklctwxujmklrva.ipfs.dweb.link
+bafybeicfsjqt2pnwapccceao2fub67f4p65xuttwb4vrolcmk4jjywvi2e.pinmeapi.com
+bafybeicfybvesabd6yjeplicsaeif375q42weprnddkzraqdv74sxduyba.ipfs.dweb.link
+bafybeiclh4rdjgenba3udk2t6t7k6mg2xhf5z6vspwffh4vtbgqqrfwbwe.ipfs.dweb.link
+bafybeicmrlmjwy6zjv3ctp3ktp26tu2ahtsnqepaj5gjrbsydbbq3avm7u.ipfs.dweb.link
 bafybeicscheq46bkhy3btg3u4sqltfujfkjmouv2z6h2pxvp3nbfjyggry.ipfs.dweb.link
 bafybeictihwjrxpmvmzzsfyss67ifszryfbhvluo3m7ksk25ffjlazvxfu.ipfs.dweb.link
 bafybeicwf6n5g4pf3gfaluw7cqwcjyf6m66fuiexxadvkxnwprql5ezuqm.ipfs.inbrowser.link
@@ -5163,6 +5207,7 @@ bego88.com
 begob.matsuro.ru
 begokeonmanagement.digital
 begolbatan.com
+begoldappo.cyou
 begonaoidausek.com
 begonia.ltd
 begonilopez.com
@@ -9540,6 +9585,7 @@ bierspurist.shop
 bierto.shop
 bietdoipokemonicefr.firebaseapp.com
 biethcoin.com
+biethyt.com
 biettainhimua2.wixsite.com
 biettaitihonvietnam2021.weebly.com
 bieydionson.com
@@ -10823,6 +10869,7 @@ bionbymestika.net
 bionergylayer.click
 bionicgai.xyz
 bionictrack.xyz
+bionjump.site
 bionote.business
 bionsevo.firebaseapp.com
 biontechvaccines.org
@@ -11710,6 +11757,7 @@ bitradex-polska.com
 bitradex-polska.org
 bitradex.ai
 bitradexpolska-pl.com
+bitradexpolska.live
 bitradexpolska.net
 bitradexsystem.click
 bitraex.com
@@ -14394,6 +14442,7 @@ blwakademi.com
 blwoodnewuk.site
 blwzd.com
 blxclaim.net
+blxjanwclsztb.space
 blxrbn.com
 blxxt.com
 bly.to
@@ -15697,6 +15746,7 @@ bondfondif.com
 bondfordcredit.com
 bondi333.com
 bondia.online
+bondingcahoot.qpon
 bondistreetfashion.site
 bondjade.suruta.com
 bondlasopa465.weebly.com
@@ -20276,6 +20326,7 @@ brimontavek.info
 brimorae.digital
 brimsbitcoin.xyz
 brimtymgybox.pro
+brimzok.shop
 brinabtabitha.pages.dev
 brinato.com
 brinavolthaqe.com
@@ -22369,6 +22420,7 @@ buddhasweg.biz
 buddhatlone.homes
 buddhismwithoutboundaries.com
 buddhist-hhckla.com
+buddhpearled.com
 buddiesbuddies.com
 buddingscholarsonline.com
 buddle.matsuro.ru
@@ -28023,6 +28075,7 @@ cantcomewithahoe55.weebly.com
 cantdogssocyyiopathic.info
 cante.de
 canteenrevertreed.com
+canterburyofficesupplies.co.uk
 cantfind.com
 canthilayer.click
 canthologistics.com
@@ -29732,6 +29785,7 @@ cartlug.com
 cartmagic.net
 cartmagicblog.com
 cartnero.shop
+cartnexa.shop
 cartniffy.com
 cartnow.click
 cartnplace.com
@@ -33158,6 +33212,7 @@ caspero1.fr
 caspiandagestan.ru
 caspianstack.click
 caspianvicente70.weebly.com
+caspianwilder.itemsdetail.workers.dev
 caspianwoodworking.com
 caspionlog.appspot.com
 caspirovena.com
@@ -35573,6 +35628,7 @@ ce84720.tw1.ru
 ce8z1d.close.futureisready.com
 ce980b1eb6948f14.com
 ce9qb0h4v.com
+cea-ci.com
 cea-credits.ch
 cea.abc6040927.workers.dev
 cea1d0ed6097a305.com
@@ -36887,6 +36943,7 @@ cephalothorax.pro
 cepheus.now
 cephoupharauts.net
 cepifeweyoispartners.click
+cepik-gov.pl
 cepiyi.net
 cepm51dm.top
 cepnoktasi.com
@@ -39007,6 +39064,7 @@ chavezseguiracontigo.com
 chavoads.com
 chavosh.org
 chavsgowild.com
+chawerbacca.cyou
 chawiazenco.click
 chawsu.com
 chawton.info
@@ -40202,6 +40260,7 @@ chilipiper.com
 chilkatvo.click
 chill-coffee.store
 chill-grill.shop
+chillatrac.cyou
 chillbazi.com
 chillchill65.weebly.com
 chilldecojones.com
@@ -40383,6 +40442,7 @@ chingoin.com
 chingovernment.com
 chininhasted.com
 chinitech.com
+chink.chunk-corp.shop
 chinking-jelly.click
 chinkotemple.github.io
 chinmayagangotri.com
@@ -41495,6 +41555,7 @@ cicenia.watch
 cicero-fern.click
 ciceroneshield.click
 cicffrance.fr
+cichaprzystandzisiaj.site
 cichawroclawica.info
 cicheunery.com
 cichodaje.pl
@@ -41920,6 +41981,7 @@ cipuxie.com
 cipxqizwtu.fit
 ciqala.pro
 ciqier.com
+ciqspgbfhksno.space
 ciqtracking.com
 ciragansarayi.com
 ciralent.info
@@ -46127,6 +46189,7 @@ clusterlock.xyz
 clusterpick.cam
 clusterseal.xyz
 clustertracker.xyz
+clustriq.vip
 clutchautoinsurance.com
 clutchcorner.shop
 clutchlilts.com
@@ -46962,7 +47025,6 @@ coachleach123.weebly.com
 coachlori.life
 coachoutlet-sg.shop
 coachoutlet4btbill23.weebly.com
-coachoutletfrance.fr
 coachpractice.fr
 coachsaudi.com
 coachtinkleundress.com
@@ -47586,6 +47648,7 @@ codytapia.shop
 codzcuagowz.com
 codziennaharmoniadzialan.site
 codziennaprzestrzendlawszystkichww.site
+codziennaprzestrzendobrychpomyslow.site
 codziennasciezkadorozwoju.site
 codzienneaktualnoscipolska.site
 codziennecentruminformacji.site
@@ -47602,9 +47665,11 @@ codziennyimpulsdozmianw.site
 codziennykrokdoprzoduw.site
 codziennyportalpl.top
 codziennyprogramwsparcia.site
+codziennyprzewodnikponowychpomyslach.site
 codziennyraportpolski.top
 codziennystart.site
 codziennystrefainformacji.site
+codziennywyborprostychmozliwosci.site
 coe-partners.com
 coebasale.com
 coed.online
@@ -50988,6 +51053,7 @@ cones-dore.web.app
 conevalley.net
 conexaobrseguros.com.br
 conexaodigital.online
+conexiondigitalmundo.com
 conexionmundotech.com
 conexionseguros.info
 conexipapall.fr
@@ -55242,6 +55308,7 @@ corvessantcapital.com
 corvette-express.com
 corvexa.cfd
 corvexia.digital
+corvexiacentralgroup.site
 corvexinalo.com
 corvianthes.com
 corvianu.sa.com
@@ -56902,6 +56969,7 @@ cozygroom.ru
 cozyharbor.eu
 cozyhillside.com
 cozyhome.online
+cozyhubs.shop
 cozyledger.org
 cozyluxevacation.com
 cozymeta.xyz
@@ -56966,7 +57034,6 @@ cpagettistream6.com
 cpagovpl.ph
 cpagrip.com
 cpainmotion.com
-cpajump.centenr.com
 cpalead.com
 cpall.ch
 cpam-angouleme.fr
@@ -57388,6 +57455,7 @@ cqctmo.info
 cqd.casino
 cqddswpwncsxrqfcdxffyvvetxjbdc.s3.us-west-1.amazonaws.com
 cqdprod.com
+cqdpswriockbo.website
 cqeaec.boats
 cqeorasldxsbw.store
 cqewx3gw86.top
@@ -65797,6 +65865,7 @@ dadakiokredasewo.com
 dadalae.com
 dadalytics.it
 dadamo.cz
+dadap62ub.cfd
 dadasnakliyat.online
 dadasotomotiverbaa-dot-sahibinden-dotcom.gateway.web.tr
 dadatenergy374.weebly.com
@@ -65884,6 +65953,7 @@ daemonycoreco.click
 daeoryptpu.com
 daeporgaming303.weebly.com
 daereweyuty655.weebly.com
+daerhogoocclude.qpon
 daeschools.net
 daetaxprep.com
 daewewuodspk.weebly.com
@@ -68957,7 +69027,6 @@ daylebmirabel.pages.dev
 daylehjkkarena.pages.dev
 daylightmotleytaught.com
 daylights-strafing.click
-daylogs.com
 daylyperson.pages.dev
 dayma-lawyer.online
 daymark-pl.com
@@ -69935,72 +70004,3 @@ deadgirl.net
 deadlady.net
 deadlinescreechvisit.com
 deadlockk.cloud
-deadlyfeasible.com
-deadlysacredchigger.shop
-deadlyyourcontest.click
-deadmailq3.weebly.com
-deadmantalking2.weebly.com
-deadmessages.com
-deadpoolhunter2.weebly.com
-deadpoolrich.in
-deadpools-lordfilm.ru
-deadrizeai.digital
-deadseapremium.com
-deadvertise.com
-deadz.io
-deaepic.com
-deaf.xyz
-deafeningphone.com
-deafergrid.click
-deafluent.com
-deafnitrogen.com
-deafscrypto.xyz
-deafspace1013.weebly.com
-deafwoodhearing.com
-deagentai.info
-deagroup-ks.com
-deailedger.com
-deal-aktion.de
-deal-auswahl.de
-deal-basis.de
-deal-bonus.de
-deal-choice.de
-deal-defeat.com
-deal-direct.de
-deal-feld.de
-deal-focus.de
-deal-fokus.de
-deal-fund.de
-deal-kiste.de
-deal-kompass.de
-deal-ledger.com
-deal-lounge.de
-deal-marke.de
-deal-plan.de
-deal-plus.de
-deal-pulse.de
-deal-quelle.de
-deal-select.de
-deal-source.de
-deal-total.de
-deal-traders.com
-deal-trend.de
-deal-welt.de
-deal.zi-systech.com
-deal24.shop
-dealaday.com
-dealaggressively.com
-dealannonce.com
-dealbackup.xyz
-dealbagg.com
-dealbill.xyz
-dealbiz.ru
-dealbluezbwf.pro
-dealbreak.xyz
-dealcarry.xyz
-dealcentral.it.com
-dealchocolate.com
-dealclick.shop
-dealcontrol.xyz
-dealcornerpl.shop
-dealctr.com
