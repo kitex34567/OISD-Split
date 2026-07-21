@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-07-20T21:15:54Z
-# Entries: 70,000 (of 327,794 total)
+# Updated: 2026-07-21T03:22:42Z
+# Entries: 70,000 (of 328,024 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -5834,6 +5834,7 @@
 4rfns9bmp1.com
 4ri.com
 4ribjevnkfdclsx.com
+4rk7xzp.qpon
 4ro76m7k2n.com
 4routing.com
 4rtwebrtr.weebly.com
@@ -7130,6 +7131,7 @@
 630711ed-4262-417e-9d14-e883e363bc48-00-2mc6hcwloeb7g.spock.replit.dev
 631210874758647232.weebly.com
 631585759761752932.weebly.com
+631818.com
 6322.web-stats.org
 632789-coinbase.com
 63293.com
@@ -7588,6 +7590,7 @@
 68768zyvnx9976.weebly.com
 6879271.mom
 688080387575698695.weebly.com
+688162961.rest
 6888.site
 688mob.com
 688scopeni2660sumouyy-20email6667webmailfurh2520.weebly.com
@@ -15827,6 +15830,7 @@ adaptationprodigalevil.com
 adaptationreconsider.com
 adaptcar.com
 adaptconveyperformed.com
+adaptdivinity.com
 adaptechb.com
 adaptedestimatedcaress.com
 adaptedmercifulinterruption.com
@@ -21161,6 +21165,7 @@ agentstudio.com
 agenttesla.com
 agentweakermental.com
 agentwealthsuccess.com
+agentyx.online
 agenwalameron01.weebly.com
 agenwalameron02.weebly.com
 agenwalameron03.weebly.com
@@ -21949,6 +21954,7 @@ aiforcanadians.com
 aiforcovid.com
 aifordaily.com
 aiforgetk.click
+aifpleasurebeh.org
 aifraudshield.com
 aifreelancing.uz
 aiftoupsains.net
@@ -24499,6 +24505,7 @@ allegrolokalnie.0gloszenie798324.sbs
 allegrolokalnie.123412341543.shop
 allegrolokalnie.16252.click
 allegrolokalnie.16834959767245.icu
+allegrolokalnie.172839c7v62.click
 allegrolokalnie.182101834.click
 allegrolokalnie.18367c.click
 allegrolokalnie.1878c.click
@@ -24528,6 +24535,7 @@ allegrolokalnie.6025522.click
 allegrolokalnie.6025523.click
 allegrolokalnie.6025524.click
 allegrolokalnie.61371631.click
+allegrolokalnie.632314fh.top
 allegrolokalnie.6543998345.shop
 allegrolokalnie.658161124.click
 allegrolokalnie.724519.cfd
@@ -24540,6 +24548,7 @@ allegrolokalnie.8321712.shop
 allegrolokalnie.858684345.shop
 allegrolokalnie.858812512.click
 allegrolokalnie.8588912591.click
+allegrolokalnie.88434.top
 allegrolokalnie.8897587181.click
 allegrolokalnie.894129019041.click
 allegrolokalnie.9125125.click
@@ -24568,6 +24577,7 @@ allegrolokalnie.lato-2026-5923.click
 allegrolokalnie.letnie-okazje6741786125.cyou
 allegrolokalnie.letnie-okazje77416698.cyou
 allegrolokalnie.lokala-ofera902.shop
+allegrolokalnie.lokalna-0729.sbs
 allegrolokalnie.lokalna-382.shop
 allegrolokalnie.lokalna-81231.shop
 allegrolokalnie.lokalna-ofera634002.shop
@@ -24575,10 +24585,12 @@ allegrolokalnie.lokalna-ofera89348348.shop
 allegrolokalnie.lokalna-ofeta0189.sbs
 allegrolokalnie.lokalna-ofeta197891.sbs
 allegrolokalnie.lokalna-ofeta1979021.sbs
+allegrolokalnie.lokalna-ofeta1989123.sbs
 allegrolokalnie.lokalna-ofeta2356446.shop
 allegrolokalnie.lokalna-ofeta34546344.shop
 allegrolokalnie.lokalna-ofeta419.biz
 allegrolokalnie.lokalna-ofeta77173.shop
+allegrolokalnie.lokalna-ofeta79182.shop
 allegrolokalnie.lokalne-ofety5440.click
 allegrolokalnie.lokalne-ofety5906.click
 allegrolokalnie.lokalne-ofety92133.click
@@ -24655,6 +24667,7 @@ allegrolokalnie.ogloszenie-1711962-dla-ciebie.click
 allegrolokalnie.ogloszenie-18314962-dla-ciebie.click
 allegrolokalnie.ogloszenie15168402-dla-ciebie.click
 allegrolokalnie.ogloszenie15418402-dla-ciebie.click
+allegrolokalnie.p0oferta3846zvx98.forum
 allegrolokalnie.p1297383xv91.biz
 allegrolokalnie.p173638vk182.biz
 allegrolokalnie.p18529x173x9.click
@@ -24673,7 +24686,10 @@ allegrolokalnie.pl-472959.shop
 allegrolokalnie.pl-482852.shop
 allegrolokalnie.pl-48968092185.sbs
 allegrolokalnie.pl-527692.pl
+allegrolokalnie.pl-56721.top
+allegrolokalnie.pl-56751.top
 allegrolokalnie.pl-5810948941.shop
+allegrolokalnie.pl-6342523.lol
 allegrolokalnie.pl-748327.pro
 allegrolokalnie.pl-7483948.shop
 allegrolokalnie.pl-765432771zamowienie90939455.biz
@@ -24683,6 +24699,7 @@ allegrolokalnie.pl-91423.icu
 allegrolokalnie.pl-91793.icu
 allegrolokalnie.pl-928265272event66241272.biz
 allegrolokalnie.pl-93283-szybki.click
+allegrolokalnie.pl-f91626352839oferta0373628276239.sbs
 allegrolokalnie.pl-firmowe-28428.click
 allegrolokalnie.pl-firmowe-28491.click
 allegrolokalnie.pl-numerbiletu842194.shop
@@ -24703,15 +24720,18 @@ allegrolokalnie.pl-oferta.biz
 allegrolokalnie.pl-oferta018272938000173718.shop
 allegrolokalnie.pl-oferta03459045645.shop
 allegrolokalnie.pl-oferta03581.click
+allegrolokalnie.pl-oferta092302973019920.click
 allegrolokalnie.pl-oferta178.shop
 allegrolokalnie.pl-oferta182036.click
 allegrolokalnie.pl-oferta182054.click
+allegrolokalnie.pl-oferta183624.click
 allegrolokalnie.pl-oferta1866815.click
 allegrolokalnie.pl-oferta18929821.shop
 allegrolokalnie.pl-oferta205937294937374zvxips2048295.shop
 allegrolokalnie.pl-oferta2228210.click
 allegrolokalnie.pl-oferta258397.click
 allegrolokalnie.pl-oferta2634391.click
+allegrolokalnie.pl-oferta2731279.click
 allegrolokalnie.pl-oferta2863184.shop
 allegrolokalnie.pl-oferta2939812.click
 allegrolokalnie.pl-oferta29421722.click
@@ -24725,6 +24745,7 @@ allegrolokalnie.pl-oferta349009842.shop
 allegrolokalnie.pl-oferta3506798.click
 allegrolokalnie.pl-oferta3657248.click
 allegrolokalnie.pl-oferta3708816.click
+allegrolokalnie.pl-oferta3721454.click
 allegrolokalnie.pl-oferta394729.click
 allegrolokalnie.pl-oferta3951171.click
 allegrolokalnie.pl-oferta3994127.click
@@ -24781,7 +24802,9 @@ allegrolokalnie.pl-ogloszenie6789233412.click
 allegrolokalnie.pl-ogloszenie6789233491.click
 allegrolokalnie.pl-ogloszenie7489834822.click
 allegrolokalnie.pl-ogloszenie9384323147.click
+allegrolokalnie.pl-ticketnumber39230.lat
 allegrolokalnie.pl-ticketnumber7129312193912.com
+allegrolokalnie.pl52893.top
 allegrolokalnie.pl52953.top
 allegrolokalnie.pl543.shop
 allegrolokalnie.pl553529427.click
@@ -26023,6 +26046,7 @@ amazinge.online
 amazingeventrentals-site1.weebly.com
 amazinggames6000.weebly.com
 amazinggrazingkansas.com
+amazingin.com
 amazinglyperception.com
 amazingmeaning.com
 amazingnews.pro
@@ -27889,6 +27913,7 @@ ancragefinvexa.com
 ancraneservice.shop
 ancre.cloud
 ancree.fr
+ancutaleonte.online
 ancykwplparfu.website
 ancznewozw.com
 and-4ever.blogspot.com
@@ -33501,6 +33526,7 @@ asia-comp.net
 asia-ex-adlog.vivoglobal.com
 asia-exstsdk.vivoglobal.com
 asia-fy.com
+asia-iman.com
 asia-monitor-stsdk.vivoglobal.com
 asia-northeast1-affiliate-pr.cloudfunctions.net
 asia-onrt-stsdk.vivoglobal.com
@@ -33650,6 +33676,7 @@ askemc.net
 askeregiderken.com
 askergroup.store
 askesiscyclene.cfd
+asket-polska.pl
 asketpolska.pl
 askewloosenoppress.com
 askewrefusaltrashy.com
@@ -37303,6 +37330,7 @@ avogex.com
 avoidclamour.com
 avoidclosureonyourattaccount45.weebly.com
 avoidfilter.net
+avoihmaitkpln.online
 avoirencia-ai.com
 avoirencia-fr.fyi
 avoirencia-fr.live
@@ -37784,6 +37812,7 @@ axissupernal111.weebly.com
 axistee.com
 axisuptown.com
 axiswavenet.com
+axiumskintech.com
 axivora.lovable.app
 axiwert-app.com
 axjen.com
@@ -37908,6 +37937,7 @@ ayamtarung95.weebly.com
 ayanakamura-stadefrance.fr
 ayanakamura-ticket.fr
 ayanas-cosmos.com
+ayancqseakeek.space
 ayandehit.com
 ayarkkbmakkja.top
 ayasf.com
@@ -40521,6 +40551,7 @@ bananamusic.co.kr
 bananasadvocate.com
 bananascasketuntrue.com
 bananiniafactory.com
+bananiniafashion.com
 banankofamerica.com
 bananza.live
 banbif-com-pe.fortimailcloud.com
@@ -41320,6 +41351,7 @@ bargingjabber.com
 barhat-vrn.ru
 barhufpflegerin-saarland.de
 barian-therd.com
+baridclerid.cyou
 barinelvo.shop
 barinvent.net
 barisenginbag.com
@@ -42339,6 +42371,7 @@ bd.ershenghuo.com
 bd.hao224.com
 bd.haomagujia.com
 bd.lavehrshalt.cyou
+bd.raptivecdn.com
 bd.watu.cn
 bd1.365qilu.com
 bd1.52che.com
@@ -44016,6 +44049,7 @@ berunda.ca
 beruri.com
 berush.com
 berve.nl
+bervonik-pl.com
 bervonik.com
 bervsa.top
 berwickhome.eu
@@ -47579,6 +47613,7 @@ bizzybeeplumbingservices.com
 bizzyvibe.store
 bizzyvibes.store
 bj-fengshi.com
+bj-shuangshengyong.com
 bj-zp.com
 bj.ad.track.66mobi.com
 bj2550.com
@@ -48297,6 +48332,7 @@ blinnybkaralynn.pages.dev
 blinovdesign.ru
 bliqjhstabiqd.space
 bliskahistorianoreva.site
+bliskiemiejscevdqtxhub.site
 bliskikierunekqwzxnrodzina.site
 blisko.net
 bliskoteka.info
@@ -49478,6 +49514,7 @@ bnxapp.xyz
 bnxxxx.pages.dev
 bnyff.com
 bnynihjbciywe.online
+bnyzkhjcybjuz.website
 bnzc1.com
 bo-aruba.blogspot.com
 bo-vegas.fr
@@ -49692,6 +49729,7 @@ bodyawaregrieving.com
 bodybiome.com
 bodyboapprdingsubgenres.info
 bodybossmotivate.com
+bodybusinessfitness.com
 bodydeftow.info
 bodydesign.com.au
 bodyfasr862.weebly.com
@@ -49830,6 +49868,7 @@ bojoker4.weebly.com
 bojoker5.weebly.com
 bojono.com
 bojueyulecheng.tavmo.com
+bokarkdolcian.cfd
 bokeduoyulecheng.tavmo.com
 bokehvideohd.xyz
 bokep-whatsapp.olyio.com
@@ -50294,6 +50333,7 @@ booking.servicearea.shop
 booking.servicepanel.rest
 booking.status.syniti.com
 booking.stayinroma2026.net
+booking.taidongyy.com
 booking.thelifesports.in
 booking.viainroma2026.net
 bookingbuddy.com
@@ -55735,6 +55775,7 @@ bwstatistics.sapoapps.vn
 bwsxt.com
 bwttasdajpduj.site
 bwvclmzi.shop
+bwvejoul.shop
 bwvgtmxrqmkwv.website
 bwwardgyspxvy.site
 bwwqvaheapg.com
@@ -56794,6 +56835,7 @@ cafeferrante.com
 cafefrench.com
 cafeghini.com
 cafejunior.net
+cafeliv.com
 cafemarcera.ru
 cafenestro.com
 cafeoc.com
@@ -57902,6 +57944,7 @@ cannonborough.com
 cannonchange.com
 cannonclam.com
 cannonkit.com
+cannontarg.dmtoolsuite.com
 cannothide.com
 cannotmeaninglessgerman.com
 cannotmoreover.com
@@ -58369,6 +58412,7 @@ captialonedirect.com
 captifymedia.com
 captingirl.com
 captionconjecture.com
+captionedapp.com
 captionkeren.net
 captionobdurateproudly.com
 captivatepinedisappointment.com
@@ -61527,6 +61571,7 @@ cdwmpt.com
 cdwmtt.com
 cdwqxjtpptrxm.online
 cdxdr.com
+cdxhzn.com
 cdxlondon.com
 cdxsza.com
 cdxyb.cn
@@ -62240,6 +62285,7 @@ centrumrowerowepl.shop
 centrumrozrywki.5v.pl
 centrumulgi.pl
 centrumzdrowotne.pl
+centrumzkqplwidoknet.site
 centrumzz.weebly.com
 centumshough.com
 centure-ass-cen2321dsfs.pages.dev
@@ -64709,6 +64755,7 @@ chinauma.net
 chinavendors.com
 chinavigator.com
 chinaviptour.com
+chinawsk.com
 chinawuhanvirus.com
 chinazddos.sinaapp.com
 chinazmob.com
@@ -69332,6 +69379,7 @@ codygjyi514.weebly.com
 codypguq630.weebly.com
 codyshannon.shop
 codzcuagowz.com
+codziennahbqwfprzestrzen.site
 codzienneecho.convertri.com
 codzienneekspres.convertri.com
 codziennepl.info
@@ -69339,6 +69387,7 @@ codziennetlo.top
 codzienniegdzies.top
 codzienniekto.info
 codziennieraportykrajowe.info
+codziennykmqazobszar24.site
 codziennyportalpl.top
 codziennyraportpolski.top
 coe-partners.com
@@ -69955,52 +70004,3 @@ collabs.media
 collabs.space
 collabscalingstackfare.pages.dev
 colladioxprosale.com
-collaebrin.com
-collage360.weebly.com
-collagenselect.pl
-collanetti.com
-collapsediplomaticsteering.com
-collationuppermodel.com
-collatogel.org
-colleaguecessation.com
-colleaguehappy.thoughtfulit.com
-colleagues.top
-collect-ap-northeast-1.tealiumiq.com
-collect-ap-southeast-2.tealiumiq.com
-collect-ap2.attraqt.io
-collect-eu-central-1.tealiumiq.com
-collect-eu-fy2015.myhomescreen.tv
-collect-eu-fy2016.myhomescreen.tv
-collect-eu-fy2017.myhomescreen.tv
-collect-eu-fy2018.myhomescreen.tv
-collect-eu-fy2019.myhomescreen.tv
-collect-eu-fy2020.myhomescreen.tv
-collect-eu-fy2021.myhomescreen.tv
-collect-eu-fy2022.myhomescreen.tv
-collect-eu-west-1.tealiumiq.com
-collect-eu.attraqt.io
-collect-trierelay.com
-collect-us-fy2015.myhomescreen.tv
-collect-us-fy2016.myhomescreen.tv
-collect-us-fy2017.myhomescreen.tv
-collect-us-fy2018.myhomescreen.tv
-collect-us-fy2019.myhomescreen.tv
-collect-us-fy2020.myhomescreen.tv
-collect-us-fy2021.myhomescreen.tv
-collect-us-fy2022.myhomescreen.tv
-collect-v6.51.la
-collect.4gtv.tv
-collect.adplogger.no
-collect.adsorb.com
-collect.alipay.com
-collect.alphastream.io
-collect.analyse.lnearn.com
-collect.asics.com
-collect.babybus.com
-collect.banggood.com
-collect.bannercrowd.net
-collect.biomedcentral.com
-collect.breakit.se
-collect.cloudsponge.com
-collect.dolap.com
-collect.dugun.com
