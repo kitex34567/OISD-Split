@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-07-23T21:11:09Z
-# Entries: 70,000 (of 332,275 total)
+# Updated: 2026-07-24T03:22:17Z
+# Entries: 70,000 (of 332,402 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -5891,6 +5891,7 @@
 4uxl.go2cloud.org
 4v3.weebly.com
 4v6a7i3dkz.com
+4vev.com
 4vibrecdslnmxk.com
 4vp.xyz
 4w3ol467n.com
@@ -7127,6 +7128,8 @@
 623762.com
 623fhi-3d9u3-3f93-3f030fi3.weebly.com
 623xs2182x90.click
+6252131902.cfd
+625241233.cfd
 625804504649036080.weebly.com
 626351898-reviewpage.pages.dev
 6264431.click
@@ -11958,6 +11961,7 @@ abovemyselfsadness.com
 abovenormtwist.com
 aboveredirect.top
 aboverlangerung.com
+aboverseasedu.com
 abovetrack.com
 abovideo-regularisation.com
 abovo.com
@@ -13183,6 +13187,7 @@ acountverifmeta.start.page
 acourseinmiracles1.weebly.com
 acourseinpresence.com
 acoustic-veil-digit.glitch.me
+acousticaden.com
 acousticcellars.com
 acousticfatima.com
 acoustoopticmodulator.com
@@ -24646,9 +24651,9 @@ allegrolokalnie.6025522.click
 allegrolokalnie.6025523.click
 allegrolokalnie.6025524.click
 allegrolokalnie.61371631.click
-allegrolokalnie.625241233.cfd
 allegrolokalnie.632314fh.top
 allegrolokalnie.632354fr.top
+allegrolokalnie.63573632.xyz
 allegrolokalnie.6543998345.shop
 allegrolokalnie.658161124.click
 allegrolokalnie.724519.cfd
@@ -24659,12 +24664,15 @@ allegrolokalnie.757185151.click
 allegrolokalnie.7686.click
 allegrolokalnie.801736741.surf
 allegrolokalnie.8321712.shop
+allegrolokalnie.854378.lat
 allegrolokalnie.858684345.shop
 allegrolokalnie.858812512.click
 allegrolokalnie.8588912591.click
+allegrolokalnie.86743.top
 allegrolokalnie.88434.top
 allegrolokalnie.8897587181.click
 allegrolokalnie.894129019041.click
+allegrolokalnie.89643.top
 allegrolokalnie.898112543.cfd
 allegrolokalnie.9125125.click
 allegrolokalnie.9235867253.lol
@@ -24695,9 +24703,11 @@ allegrolokalnie.kzulbt3950165.shop
 allegrolokalnie.l23arg45el4.click
 allegrolokalnie.lato-2026-55932.click
 allegrolokalnie.lato-2026-5923.click
+allegrolokalnie.letnie-okazje33754615.cyou
 allegrolokalnie.letnie-okazje6741786125.cyou
 allegrolokalnie.letnie-okazje77416698.cyou
 allegrolokalnie.letnie-okazje877641645.cyou
+allegrolokalnie.letnie-okazje97746164.cyou
 allegrolokalnie.lokala-ofera902.shop
 allegrolokalnie.lokalna--ofeta2891021.sbs
 allegrolokalnie.lokalna-0729.sbs
@@ -24745,6 +24755,7 @@ allegrolokalnie.oferta2305925494037493058.click
 allegrolokalnie.oferta23436279.shop
 allegrolokalnie.oferta27198703.shop
 allegrolokalnie.oferta274cx399.shop
+allegrolokalnie.oferta28472zve388.forum
 allegrolokalnie.oferta29473749zvcu304038482947489.shop
 allegrolokalnie.oferta294827495728zvsh3958.shop
 allegrolokalnie.oferta294852694.click
@@ -24828,6 +24839,8 @@ allegrolokalnie.pl-56751.top
 allegrolokalnie.pl-5745326.click
 allegrolokalnie.pl-5810948941.shop
 allegrolokalnie.pl-6342523.lol
+allegrolokalnie.pl-682186982.click
+allegrolokalnie.pl-7382196.click
 allegrolokalnie.pl-748327.pro
 allegrolokalnie.pl-7483948.shop
 allegrolokalnie.pl-765432771zamowienie90939455.biz
@@ -24861,13 +24874,16 @@ allegrolokalnie.pl-oferta018272938000173718.shop
 allegrolokalnie.pl-oferta03459045645.shop
 allegrolokalnie.pl-oferta03581.click
 allegrolokalnie.pl-oferta092302973019920.click
+allegrolokalnie.pl-oferta12048892123.shop
 allegrolokalnie.pl-oferta178.shop
+allegrolokalnie.pl-oferta181644.click
 allegrolokalnie.pl-oferta182036.click
 allegrolokalnie.pl-oferta182054.click
 allegrolokalnie.pl-oferta183624.click
 allegrolokalnie.pl-oferta1866815.click
 allegrolokalnie.pl-oferta18929821.shop
 allegrolokalnie.pl-oferta205937294937374zvxips2048295.shop
+allegrolokalnie.pl-oferta2193799.click
 allegrolokalnie.pl-oferta2228210.click
 allegrolokalnie.pl-oferta23921814.com
 allegrolokalnie.pl-oferta258397.click
@@ -24887,6 +24903,7 @@ allegrolokalnie.pl-oferta3506798.click
 allegrolokalnie.pl-oferta3657248.click
 allegrolokalnie.pl-oferta3708816.click
 allegrolokalnie.pl-oferta3721454.click
+allegrolokalnie.pl-oferta372454.click
 allegrolokalnie.pl-oferta394729.click
 allegrolokalnie.pl-oferta3951171.click
 allegrolokalnie.pl-oferta3994127.click
@@ -24907,7 +24924,9 @@ allegrolokalnie.pl-oferta65529.shop
 allegrolokalnie.pl-oferta658.shop
 allegrolokalnie.pl-oferta680594726.shop
 allegrolokalnie.pl-oferta684938.shop
+allegrolokalnie.pl-oferta73491263.click
 allegrolokalnie.pl-oferta7715661.click
+allegrolokalnie.pl-oferta817287832.icu
 allegrolokalnie.pl-oferta8192309.shop
 allegrolokalnie.pl-oferta8238191.click
 allegrolokalnie.pl-oferta82883.shop
@@ -24926,6 +24945,7 @@ allegrolokalnie.pl-oferta9443014.click
 allegrolokalnie.pl-oferta9875934023.click
 allegrolokalnie.pl-oferta9937211.shop
 allegrolokalnie.pl-ofertan5noi4gq.click
+allegrolokalnie.pl-ofertan6ni2gq.shop
 allegrolokalnie.pl-ogloszenia-firmowe-82183.click
 allegrolokalnie.pl-ogloszenie2423509.biz
 allegrolokalnie.pl-ogloszenie28573.click
@@ -24952,6 +24972,7 @@ allegrolokalnie.pl543.shop
 allegrolokalnie.pl553529427.click
 allegrolokalnie.pl655383454.click
 allegrolokalnie.pl78043.pro
+allegrolokalnie.pl84353.top
 allegrolokalnie.pl87621.top
 allegrolokalnie.pl89233.top
 allegrolokalnie.pls3mfrmnfaj21xk.sbs
@@ -36464,6 +36485,7 @@ aurixiontrust.pro
 aurixplatform.com
 aurixplatform.live
 aurmarkstead-ai.com
+aurmarkstead.com
 auro-prop.com
 auro-vancebtc.live
 aurogaincode-it.com
@@ -39268,6 +39290,7 @@ badarmunir.com
 badartgame.com
 badashengyulecheng.tavmo.com
 badassfootwear.com
+badasspups.com
 badbadger.com
 badbotik.store
 badbunny.foo
@@ -47770,6 +47793,7 @@ bitprime-core.live
 bitprime-coreai.live
 bitprimecore-app.com
 bitprimecoreai.live
+bitprimecoretrade.com
 bitprimeinvest.digital
 bitpromemservice.pages.dev
 bitpux.com
@@ -48050,6 +48074,7 @@ bizzibeans.net
 bizzion-sparkplatform.com
 bizzo-casino.fr
 bizzocasino.fr
+bizzpays.com
 bizzybeeplumbingservices.com
 bizzyvibe.store
 bizzyvibes.store
@@ -48554,6 +48579,7 @@ blankpagetravels.com
 blanksolderreed.com
 blanksparheim.live
 blankworld.net
+blantove.click
 blaow.pro
 blarcamxooysi.store
 blarepointingbaptism.com
@@ -48740,6 +48766,7 @@ bleua.ecefibwja.xyz
 bleuhey.ng
 blevesearch.net
 blewroof.com
+blexur.click
 bleyd-lordfillm.ru
 blfhl.life
 blfranco.com
@@ -51553,6 +51580,7 @@ bourbonoutline.com
 bourbonsnacks.com
 bourbonstreetdistillery.com
 bourcapiteve-fr.live
+bourcapiteve.com
 bourcapiteve.live
 bourcapitevebot-ai.live
 bourcapitevebot.live
@@ -54730,6 +54758,7 @@ btcnexivolt-fr.fyi
 btcnexivolt760-es.fyi
 btcnexivolt760-fr.fyi
 btcnivalis.shop
+btcnodalispro.com
 btco.w3spaces.com
 btcocrezone.com
 btcoincloudmine.com
@@ -55673,6 +55702,7 @@ burgersalt.com
 burgersbucks.com
 burgerscapra.shop
 burgershirt.com
+burgervorteilkitrade.de
 burghccsbluntness.info
 burghdogs.com
 burglarawfully.com
@@ -59229,6 +59259,7 @@ cardiffkidslife.co.uk
 cardigancabin.shop
 cardiganpalmreconcile.com
 cardinal-975.pages.dev
+cardinal-coat.shop
 cardinal.businessfirstonline.co.uk
 cardinal.genx.be
 cardinal.krisenchat.de
@@ -61917,6 +61948,7 @@ cdn.fclas.com
 cdn.fds-ssl.api.xiaomi.com
 cdn.fedsy.xyz
 cdn.fegivja.com
+cdn.file6.goodid.com
 cdn.flashtalking.com
 cdn.formfacade.com
 cdn.ftwpcn.com
@@ -61986,6 +62018,7 @@ cdn.nejxdoy.com
 cdn.neon.click
 cdn.netsoft2012.com
 cdn.nhuy70844.workers.dev
+cdn.novoline.top
 cdn.nsuky.com
 cdn.oas-c17.adnxs.com
 cdn.oas-c18.adnxs.com
@@ -65744,6 +65777,7 @@ chorelift.com
 choreo.cloud
 choreot.com
 choribitrowane.qpon
+choridetes.cyou
 chorme-exodos-us.wixstudio.com
 chornyy-ognennyy-drakon-doramadrama.ru
 chortiexhibit.net
@@ -69970,37 +70004,3 @@ code-deployer-08c.pages.dev
 code-deployer.pages.dev
 code-dispatcher-68c.pages.dev
 code-dispatcher-9jf.pages.dev
-code-driller-asz.pages.dev
-code-enhancer-1vi.pages.dev
-code-estimator-2gf.pages.dev
-code-estimator.pages.dev
-code-evaluator-84n.pages.dev
-code-evaluator.pages.dev
-code-inc.com
-code-review-process-center.pages.dev
-code-teachers.com
-code.acstat.com
-code.ainsyndication.com
-code.alpin.de
-code.bergsteigen.com
-code.cdjsblm.com
-code.ditiezu.net
-code.geonamebase.com
-code.gillespiemg.com
-code.jquerys.xyz
-code.r5hsid.ru
-code.usergram.info
-code.wenbanzhu.com
-code.zisvd.com
-code222.com
-code542.weebly.com
-code6789.com
-codeacrossdarknet.digital
-codeacrossquantyxionmesh.com
-codeartlove.com
-codebrig.com
-codebuilders.se
-codeburst588u.info
-codecbsplay.com
-codecerification.beer
-codecontractor.net
