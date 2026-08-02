@@ -1,55 +1,9 @@
 # OISD Big Blocklist – Part 5
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-08-01T21:01:40Z
-# Entries: 70,000 (of 430,006 total)
+# Updated: 2026-08-02T03:32:07Z
+# Entries: 70,000 (of 429,951 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
-personal-unlock-mailapp.165-245-182-1.cpanel.site
-personal-unlock-verify-app.157-245-156-249.cpanel.site
-personal-verify-mailapp.165-245-182-1.cpanel.site
-personal-verify-mailapps.165-245-182-1.cpanel.site
-personal-verify-mailinfo.165-245-182-1.cpanel.site
-personal-verify-mailservice.165-245-182-1.cpanel.site
-personal-verifyinfo-mailapps.165-245-182-1.cpanel.site
-personal-website-e3480.firebaseapp.com
-personal-website-e3480.web.app
-personal1-onet-verify.174-138-26-139.cpanel.site
-personal10353-session-unlock.192-145-237-208.cpanel.site
-personal11376-info-verify-app.216-194-173-141.cpanel.site
-personal12109-session-unlock.192-145-237-208.cpanel.site
-personal12298-onet-verify.216-194-173-5.cpanel.site
-personal12352-info-verify-app.216-194-173-141.cpanel.site
-personal13245-session-unlock.192-145-237-208.cpanel.site
-personal17630-session-unlock.192-145-237-208.cpanel.site
-personal19722-session-unlock.192-145-237-208.cpanel.site
-personal19763-session-unlock.192-145-237-208.cpanel.site
-personal22115-session-unlock.192-145-237-208.cpanel.site
-personal22352-session-unlock.192-145-237-208.cpanel.site
-personal22451-session-unlock.192-145-237-208.cpanel.site
-personal22727-onet-verify.174-138-26-139.cpanel.site
-personal25389-onet-verify.50-6-248-160.cpanel.site
-personal25679-onet-verify.174-138-26-139.cpanel.site
-personal26404-session-unlock.192-145-237-208.cpanel.site
-personal2665-onet-verify.50-6-248-160.cpanel.site
-personal26965-personal-app.unlock.webperformanceapp.com
-personal27224-onet-verify.174-138-26-139.cpanel.site
-personal27452-onet-verify.174-138-26-139.cpanel.site
-personal28515-session-unlock.192-145-237-208.cpanel.site
-personal28608-onet-verify.174-138-26-139.cpanel.site
-personal28875-session-unlock.192-145-237-208.cpanel.site
-personal29074-session-unlock.192-145-237-208.cpanel.site
-personal30068-onet-verify.174-138-26-139.cpanel.site
-personal30257-info-verify-app.216-194-173-141.cpanel.site
-personal30643-session-unlock.192-145-237-208.cpanel.site
-personal31058-info-verify-app.216-194-173-141.cpanel.site
-personal31750-session-unlock.192-145-237-208.cpanel.site
-personal34080-info-verify-app.216-194-173-141.cpanel.site
-personal3418-session-unlock.192-145-237-208.cpanel.site
-personal34391-onet-verify.174-138-26-139.cpanel.site
-personal35505-session-unlock.192-145-237-208.cpanel.site
-personal36978-info-verify-app.216-194-173-141.cpanel.site
-personal37021-session-unlock.192-145-237-208.cpanel.site
-personal37549-session-unlock.192-145-237-208.cpanel.site
 personal37611-info-verify-app.216-194-173-141.cpanel.site
 personal37825-session-unlock.192-145-237-208.cpanel.site
 personal38749-session-unlock.192-145-237-208.cpanel.site
@@ -6224,6 +6178,7 @@ podatki-gov.web.app
 podatki.securesbill.com
 podatkigov.com
 podatkina.com
+podatkinf.com
 podatkl.com
 podatkli.com
 podatpl.com
@@ -8523,8 +8478,6 @@ portal-cryptorank.com
 portal-descuentoparati.com
 portal-descuentospostpagos.com
 portal-distribution.net
-portal-drops.club
-portal-drops.dev
 portal-e-devlet.com
 portal-eeseeyield.live
 portal-en-dfillaa-swap.pages.dev
@@ -9634,7 +9587,6 @@ powerclick.about.co.kr
 powercodetool.com
 powerdescribeweber.pages.dev
 powerdirectenergy.com
-poweredartwork.shop
 poweredbyliquidfire.mobi
 poweredcommunity.com
 poweredhelp.com
@@ -12711,7 +12663,6 @@ profi-learn.com
 profialabs.com
 profibaubedarf.com
 proficator.app
-proficator.com
 proficient.top
 proficredit.pl
 profifoto.at
@@ -22579,7 +22530,6 @@ qezodjntkbtah.site
 qezvoro-platform.com
 qezvoro.net
 qf.laoscript.org
-qf.podatkinf.com
 qf.stabledigitalworld.de
 qf.standingstonebooks.org
 qf4yua.club
@@ -27963,6 +27913,7 @@ ray-electric.store
 ray-lordfilm.ru
 ray-updates.live
 ray.goldenoakuk.com
+ray1.ma
 ray2jing.808.nuno.cn
 rayabeautyco.com
 rayabhari.com
@@ -29778,7 +29729,6 @@ red-exchange.com
 red-fiber.com
 red-glacier-01600b510.7.azurestaticapps.net
 red-hall-6fba.fwqda.workers.dev
-red-hat.shop
 red-haze-e730.adfcf.workers.dev
 red-just-fit.click
 red-kings.fr
@@ -33435,7 +33385,6 @@ reverendcheesydimly.com
 reverendfry.com
 reverents.xyz
 reverinth.pages.dev
-reverltr.finance
 reveroplanner.net
 reversache.com
 reverse-approval.com
@@ -34960,6 +34909,7 @@ rimafalmstead.net
 rimaholding.com
 rimao13.weebly.com
 rimasdelivery.net
+rimbrvagif.cyou
 rimee-web.github.io
 rimeethoxyl.com
 rimeti.world
@@ -35326,6 +35276,7 @@ riskstyle.shop
 rislay.online
 risnjmyxfqaep.website
 riso-presto.com
+risogsalta.cyou
 risorsa-portyrex.pro
 risorsaportyrex-it.fyi
 risparamma.rest
@@ -40622,7 +40573,6 @@ rw-94.weebly.com
 rw-yieldmo-com-1673518954.ap-southeast-1.elb.amazonaws.com
 rw-yieldmo-com-1857737650.us-west-2.elb.amazonaws.com
 rw.marchex.io
-rw.podatkinf.com
 rw56y62bgg.com
 rwa-ondo.com
 rwa.iopns.network
@@ -45581,7 +45531,6 @@ sclog.moviebox.baofeng.com
 scloluzwgfdvr.website
 sclub88.com
 sclvnnorxiotv.site
-sclz-ypqolgxx-ypqolgxx-sclz.jindunqst.com
 scm-hk.com
 scmcga.com
 scmdcnwdryjsic.net
@@ -51456,7 +51405,6 @@ sgs.us.com
 sgscentre-dz.com
 sgsealion.com
 sgsgsg-760.pages.dev
-sgskolkata.com
 sgsojdpfjsk2.xyz
 sgsoneeu.blob.core.windows.net
 sgstats.com
@@ -55101,6 +55049,7 @@ simmons0nlinebnkingtdspcv.pages.dev
 simmonsadela492.github.io
 simmonsgrove.org
 simmos0nlinebnkingcrc.pages.dev
+simobri.web
 simofi-der.firebaseapp.com
 simofi-der.web.app
 simognozqow.com
@@ -65087,6 +65036,7 @@ spainessential.com
 spainhubtrade.com
 spainsonmain.com
 spakct.de
+spalaunive.cyou
 spalemandarin.com
 spalloppruuessivenesses.info
 spam404bl.com
@@ -69130,7 +69080,6 @@ stakingrewards.plus
 stakings.eu.com
 stakingshock.com
 stakingsmile.com
-stakingsrewards.club
 stakingtest.info
 stako365.org
 stakusa.bet
@@ -70004,3 +69953,54 @@ startdownload.ghost.io
 startds-live.wixstudio.com
 startdsso-ledjarapps.wixstudio.com
 starte-ledgrr.pages.dev
+starte-live.wixstudio.com
+starte-trezcdn.wixstudio.com
+startechenc.com
+startechone.com
+started--ledgar.pages.dev
+started--ledgrecom.wixstudio.com
+started-aave-protocol-en.pages.dev
+started-aave-protocol.pages.dev
+started-advance.ghost.io
+started-aerodrome-finance.pages.dev
+started-app-live.pages.dev
+started-appen.zapier.app
+started-appslive.wixstudio.com
+started-atmicio.wixstudio.com
+started-atomiccs.wixstudio.com
+started-b--ridged.pages.dev
+started-bridge-eng.wixstudio.com
+started-bridge-trezr.wixstudio.com
+started-bridge-us.wixstudio.com
+started-coenbese-logen-tn.square.site
+started-connect.ghost.io
+started-cryptocem.wixstudio.com
+started-dekstop.wixstudio.com
+started-desktop-en.wixstudio.com
+started-desktop-live.wixstudio.com
+started-desktop-us.wixstudio.com
+started-desktop.framer.ai
+started-desktop.framer.media
+started-desktop.wixstudio.com
+started-desktopapp.wixstudio.com
+started-desktoplive.wixstudio.com
+started-dydaxx.wixstudio.com
+started-edger.wixstudio.com
+started-en-desktop.wixstudio.com
+started-en-ldger.created.app
+started-en-ledgre.wixstudio.com
+started-en-us.ghost.io
+started-eng-desktop-ledgre.pages.dev
+started-eng-exadus.wixstudio.com
+started-eng-ldge-com.pages.dev
+started-eng-traizor.pages.dev
+started-eng.wixstudio.com
+started-ensite.wixstudio.com
+started-explore.ghost.io
+started-extension.wixstudio.com
+started-extnsn-coinbase.square.site
+started-get.ghost.io
+started-hardwares.wixstudio.com
+started-iio-trexor.wixstudio.com
+started-io-apps.wixstudio.com
+started-io-trexor.wixstudio.com

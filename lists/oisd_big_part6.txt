@@ -1,60 +1,9 @@
 # OISD Big Blocklist – Part 6
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-08-01T21:01:40Z
-# Entries: 70,000 (of 430,006 total)
+# Updated: 2026-08-02T03:32:07Z
+# Entries: 70,000 (of 429,951 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
-starte-live.wixstudio.com
-starte-trezcdn.wixstudio.com
-startechenc.com
-startechone.com
-started--ledgar.pages.dev
-started--ledgrecom.wixstudio.com
-started-aave-protocol-en.pages.dev
-started-aave-protocol.pages.dev
-started-advance.ghost.io
-started-aerodrome-finance.pages.dev
-started-app-live.pages.dev
-started-appen.zapier.app
-started-appslive.wixstudio.com
-started-atmicio.wixstudio.com
-started-atomiccs.wixstudio.com
-started-b--ridged.pages.dev
-started-bridge-eng.wixstudio.com
-started-bridge-trezr.wixstudio.com
-started-bridge-us.wixstudio.com
-started-coenbese-logen-tn.square.site
-started-connect.ghost.io
-started-cryptocem.wixstudio.com
-started-dekstop.wixstudio.com
-started-desktop-en.wixstudio.com
-started-desktop-live.wixstudio.com
-started-desktop-us.wixstudio.com
-started-desktop.framer.ai
-started-desktop.framer.media
-started-desktop.wixstudio.com
-started-desktopapp.wixstudio.com
-started-desktoplive.wixstudio.com
-started-dydaxx.wixstudio.com
-started-edger.wixstudio.com
-started-en-desktop.wixstudio.com
-started-en-ldger.created.app
-started-en-ledgre.wixstudio.com
-started-en-us.ghost.io
-started-eng-desktop-ledgre.pages.dev
-started-eng-exadus.wixstudio.com
-started-eng-ldge-com.pages.dev
-started-eng-traizor.pages.dev
-started-eng.wixstudio.com
-started-ensite.wixstudio.com
-started-explore.ghost.io
-started-extension.wixstudio.com
-started-extnsn-coinbase.square.site
-started-get.ghost.io
-started-hardwares.wixstudio.com
-started-iio-trexor.wixstudio.com
-started-io-apps.wixstudio.com
-started-io-trexor.wixstudio.com
 started-io-trexors.zapier.app
 started-io-trexxer.wixstudio.com
 started-ioapp-trexor.wixstudio.com
@@ -4718,7 +4667,6 @@ stuwen-opulexpro.com
 stuwenopulex-nl.fyi
 stuwenopulex-nl.live
 stuwenopulextrade.com
-stvaults.net
 stvbiopr.net
 stvufegajgpzy.online
 stvzuyoseftdw.site
@@ -4809,7 +4757,6 @@ su-shi.bond
 su-shi.cc
 su-shi.cfd
 su-shi.dog
-su-shi.lat
 su-shi.mom
 su-shi.sbs
 su-shi.vip
@@ -7800,6 +7747,7 @@ susanpolk.shop
 susanprojectplan.weebly.com
 susans-words2.weebly.com
 susanscraftcorner.com
+susanskinner.com
 susansmith-test2.weebly.com
 susansthreads.com
 susantomeubel.com
@@ -7815,7 +7763,6 @@ suscripcion-pago-update.com
 suscripciondelacompra01.weebly.com
 suscripciones.webcindario.com
 susesireluxuryhotel.com
-susezzredeemvn.asia
 sushant69005.github.io
 sushantcse.github.io
 sushantdubey.com
@@ -15877,6 +15824,7 @@ teretnqksa.shop
 teretqazwsx.beer
 teretqazwsx.club
 teretqazwsx.fit
+teretqazwsx.help
 teretqazwsx.ink
 teretqazwsx.yoga
 teretwbzrk.help
@@ -21686,6 +21634,7 @@ timot-cvk.info
 timotheus.ua
 timothycopus.aimoo.com
 timothymaness.com
+timpatocch.cyou
 timphoto1.weebly.com
 timprattn8n.ru
 timpromos.com.br
@@ -28062,7 +28011,6 @@ trendvistaa.shop
 trendxaify.shop
 trendy-fashion1.weebly.com
 trendy-video-app.com
-trendy47.com
 trendyapparel.shop
 trendyartofliving.pl
 trendykits.shop
@@ -36046,6 +35994,7 @@ ulinkemnd.com
 ulinkknjjm.top
 ulinkuyebt.top
 ulisfrance.fr
+ulivighign.cyou
 ulixes.pl
 ulk8je1fv9.com
 ulka-gallery.yoyo.pl
@@ -36775,6 +36724,7 @@ unemployedam.com
 unemployedscarinterbase.com
 unendearingfluerqqics.info
 unenthusiasticallylightfurrl.info
+unepatuyer.cyou
 unequalbrake.com
 unequaledwinter.com
 unequalshares.com
@@ -37773,7 +37723,6 @@ unlsvvanp.cc
 unlswap-v3.re
 unlswap-v3.wf
 unlswap.at
-unlswap.financial
 unlswap.org-api-app-walletv2.com
 unlswap.org-dao-core.com
 unlswap.org-dapp-network.com
@@ -49468,7 +49417,6 @@ vkwaeo.com
 vkxqimsuyxhmj.site
 vkyggjudgnsnhkr.com
 vkynuspzupokz.website
-vkyoufoto.esy.es
 vkzkmfqcediaf.site
 vkzsgr.close.futureisready.com
 vl-srm.net
@@ -52584,7 +52532,6 @@ w6r46g0hb-dpv3acpgp8ta.edgeone.dev
 w6tpeo.fit
 w6xbr7hc.xyz
 w6xdba54n.com
-w7-management.net
 w70m-7qt-p4i-3w6ywy-id9ax2.pages.dev
 w716eb02n9.ru
 w740.newstimes.com
@@ -56250,7 +56197,6 @@ webcourries85.weebly.com
 webcreative.cc
 webcredits.ca
 webcryptovn.com
-webcstore.pw
 webctkkpn-3gla.vercel.app
 webd.gateforpayer.com
 webd.home.news.cn
@@ -56434,6 +56380,7 @@ weblogzimbra-35b601.webflow.io
 webloop-nest.pages.dev
 webloyalty.com
 weblozoom.us
+webls.net
 weblx.cc
 webma1lbellnetbell111.weebly.com
 webmaghome.com
@@ -56519,7 +56466,6 @@ webmail-venturecomm-net.weebly.com
 webmail-verification-acess.s3.eu-north-1.amazonaws.com
 webmail-vox-co.weebly.com
 webmail-westnet.weebly.com
-webmail.20-40-57-175.cprapid.com
 webmail.367450.com
 webmail.981009coinbase.com
 webmail.advisor-coinbase.support
@@ -60580,6 +60526,7 @@ wing4id.com
 wingacor108.online
 wingandbeef.com
 wingardtint.com
+wingbassis.cyou
 wingbastionty.pro
 wingbeat-rofalcon.com
 wingbet138.xyz
@@ -66652,7 +66599,6 @@ xenthrylos-plorvexis.pages.dev
 xentolamuri.info
 xentora-core390.pro
 xentoracore390-it.fyi
-xentrapop.top
 xentravo.info
 xentum.store
 xenuriva-dumirexa.pages.dev
@@ -70004,3 +69950,57 @@ xreg.online
 xrem1.weebly.com
 xrem10.weebly.com
 xrem2.weebly.com
+xrem3.weebly.com
+xrem4.weebly.com
+xrem5.weebly.com
+xremail.online
+xrevalidation.pages.dev
+xrevoke.com
+xrexes.com
+xrff-adguard.pro
+xrgqu.me
+xrhj-wahtsapp.com
+xriahrofno.com
+xrillaz.com
+xrivo.top
+xriwisjrek.in
+xrjvjz.com
+xrkbhl2cp.com
+xrldobjttlwsixfyxote.com
+xrledger.com
+xrllratggofic.online
+xrlpkpmgfbvnmen.top
+xrlrd.com
+xrmytc.com
+xrnrhowppgvxdhm.com
+xrnrplqcfmpxfg.com
+xrnrwallet.com
+xroadsfit.com
+xroll.pro
+xrolvadeno.shop
+xronize.com
+xrotlrpauwlaa.online
+xrp-26.money
+xrp-26.today
+xrp-alertdesktop.app
+xrp-apex.com
+xrp-as.us
+xrp-blockport.pages.dev
+xrp-bonus.github.io
+xrp-brad25.net
+xrp-bridge.com
+xrp-drop-com.pages.dev
+xrp-etf.ai-cryptolist.com
+xrp-flare-connection.org
+xrp-give.asia
+xrp-gives.com
+xrp-markets.io
+xrp-nodes.com
+xrp-passport.com
+xrp-peanut.ai-cryptolist.net
+xrp-pool.app
+xrp-price.us
+xrp-privateledger.com
+xrp-qr-code-generator.com
+xrp-rates.live
+xrp-rmtcore.com

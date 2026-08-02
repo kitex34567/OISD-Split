@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-08-01T21:01:40Z
-# Entries: 70,000 (of 430,006 total)
+# Updated: 2026-08-02T03:32:07Z
+# Entries: 70,000 (of 429,951 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -4637,6 +4637,7 @@
 2krn.sb
 2krn.us
 2krnmevk2at.com
+2ku3wk.skin
 2l6ddsmnm.de
 2ld8mx979a.com
 2leep.com
@@ -4697,6 +4698,7 @@
 2omfz9ygz2.com
 2options.go2cloud.org
 2orln75bry.com
+2osb.com
 2osq127yy.com
 2p1kreiqg.de
 2pan.ru
@@ -7780,6 +7782,7 @@
 5k6jzg.gow.englishwoodlands.co.uk
 5k7xi5io-appleid.pages.dev
 5kbm66kdabg.icu
+5kjire8u4e.skin
 5kjpa028wo.com
 5kmqy60r7.com
 5kov1f2o.xyz
@@ -11347,6 +11350,7 @@
 9ifashion.com
 9instatement.com
 9iqcc.com
+9iqjuyw7t.skin
 9itmr1lzaltn.com
 9j9gc694o4.com
 9japride.com
@@ -11933,7 +11937,6 @@ a11ybar.com
 a12420422337.cdn.optimizely.com
 a125375509.cdn.optimizely.com
 a12600010354.cdn.optimizely.com
-a1270050.xsph.ru
 a1294.w20.akamai.net
 a135.wftv.com
 a1388.m.akastream.net
@@ -25382,7 +25385,6 @@ airdropalert.digital
 airdropalert.group
 airdropalert.lol
 airdropalert.now
-airdropalert.us
 airdropalert.you
 airdropalerts.help
 airdropalerts.life
@@ -25456,12 +25458,9 @@ airdrops.cyou
 airdrops.discordwallets.com
 airdrops.website
 airdropsalert.bond
-airdropsalert.click
 airdropsalert.help
 airdropsalert.onl
 airdropsalert.sale
-airdropsalert.us
-airdropsalert.xyz
 airdropsalerts.cfd
 airdropsalerts.help
 airdropsalerts.monster
@@ -25489,15 +25488,8 @@ airdropxyzverse.io
 airdropy.org
 airdroq.top
 airdrpalert.cfd
-airdrpalert.click
 airdrpalert.icu
 airdrpalert.sbs
-airdrpsalert.cfd
-airdrpsalert.club
-airdrpsalert.life
-airdrpsalert.locker
-airdrpsalert.sbs
-airdrpsalerts.info
 airedrop-binance.com
 aireflex.online
 airemakehome.com
@@ -25589,8 +25581,6 @@ airpush.com
 airqlan-sa.com
 airranjeet21-spec.github.io
 airscope.media
-airsdropsalert.lol
-airsdropsalerts.sbs
 airsoftikinciel.com
 airsoftmania1.weebly.com
 airsol.cc
@@ -28274,6 +28264,7 @@ allegrolokalnie.pl-471752.shop
 allegrolokalnie.pl-4729483.shop
 allegrolokalnie.pl-472959.shop
 allegrolokalnie.pl-482852.shop
+allegrolokalnie.pl-482921.sbs
 allegrolokalnie.pl-4886781795.shop
 allegrolokalnie.pl-527692.pl
 allegrolokalnie.pl-54325.click
@@ -35499,7 +35490,6 @@ app-aerodrome-v2-finance.com
 app-aeve.click
 app-agialpha.xyz
 app-aim-bot.pages.dev
-app-airdropalert.lat
 app-airtm-sesion.com
 app-aitechio.xyz
 app-alchemy.com
@@ -38852,6 +38842,7 @@ archionedesign.com
 archipectrum.com
 archipelagokennelleadership.com
 archipelagosaidpre.com
+archisorge.cyou
 architchaturvedi24.github.io
 architech-vms.pages.dev
 architechtura.com
@@ -46377,6 +46368,7 @@ axonix-core365.click
 axonix-core365.live
 axonix.com
 axonme.cc
+axopedoute.cyou
 axora.st
 axoraone.ru
 axorawebnet.com
@@ -52908,17 +52900,9 @@ beefmeme-bvu.pages.dev
 beefree.vn
 beeftraditions.com
 beefy-earns-finance-yield-optimizer.com
-beefy-hub.lol
-beefy-hub.sbs
 beefy.airdropsalert.live
 beefy.airdrpsalerts.click
 beefy.com.mcnm.today
-beefyapps.cfd
-beefyhub.club
-beefyhubs.club
-beefyhubs.life
-beefyhubs.lol
-beefyhubs.sbs
 beegan-wllat-couinbse-ext.daftpage.com
 beegrenugoz.com
 beegroup.pro
@@ -56941,7 +56925,6 @@ bigrbmvjmorry.online
 bigred-2.com
 bigrourg.net
 bigrxirmc-1.weebly.com
-bigs.bikershop.biz
 bigsaleapple.com
 bigsaleshopee359.blogspot.com
 bigsaletuib.top
@@ -63032,7 +63015,6 @@ bonk-coin.ltd
 bonk-coin.net
 bonk-coin.rocks
 bonk-coin.space
-bonk-dashboard.live
 bonk-distribution.fun
 bonk-faucet.online
 bonk-foundation.com
@@ -69037,6 +69019,7 @@ buevafbtqeaaz.website
 buf.lemonde.fr
 bufallobuf.b-cdn.net
 bufasei.pro
+bufaspiena.cyou
 bufer.sbs
 buff-163.ru
 buff-balance.com
@@ -70004,3 +69987,20 @@ businesstipsss2.weebly.com
 businesstipsss3.weebly.com
 businesstransfersolutions.com
 businessuitecente3097210937123d1.pages.dev
+businessuniversum.news
+businessupdater.com
+businessveri-center.com
+businessveritas.com
+businessweekpoc.112.2o7.net
+businesswork.ddns.net
+buskerfestmiri.com
+busketball.com
+buslasopa553.weebly.com
+busmalaga.com
+busmetrics.com
+busmuni.com
+busniessoffficeworkryui5rtyui.weebly.com
+busrentgo.com
+busreykjavik.hostel.club
+busscard.com
+bussdownrobloxid.pages.dev

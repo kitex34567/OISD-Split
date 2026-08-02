@@ -1,63 +1,9 @@
 # OISD Big Blocklist – Part 7
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-08-01T21:01:40Z
-# Entries: 10,006 (of 430,006 total)
+# Updated: 2026-08-02T03:32:07Z
+# Entries: 9,951 (of 429,951 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
-xrem3.weebly.com
-xrem4.weebly.com
-xrem5.weebly.com
-xremail.online
-xrevalidation.pages.dev
-xrevoke.com
-xrexes.com
-xrff-adguard.pro
-xrgqu.me
-xrhj-wahtsapp.com
-xriahrofno.com
-xrillaz.com
-xrivo.top
-xriwisjrek.in
-xrjvjz.com
-xrkbhl2cp.com
-xrldobjttlwsixfyxote.com
-xrledger.com
-xrllratggofic.online
-xrlpkpmgfbvnmen.top
-xrlrd.com
-xrmytc.com
-xrnrhowppgvxdhm.com
-xrnrplqcfmpxfg.com
-xrnrwallet.com
-xroadsfit.com
-xroll.pro
-xrolvadeno.shop
-xronize.com
-xrotlrpauwlaa.online
-xrp-26.money
-xrp-26.today
-xrp-alertdesktop.app
-xrp-apex.com
-xrp-as.us
-xrp-blockport.pages.dev
-xrp-bonus.github.io
-xrp-brad25.net
-xrp-bridge.com
-xrp-drop-com.pages.dev
-xrp-etf.ai-cryptolist.com
-xrp-flare-connection.org
-xrp-give.asia
-xrp-gives.com
-xrp-markets.io
-xrp-nodes.com
-xrp-passport.com
-xrp-peanut.ai-cryptolist.net
-xrp-pool.app
-xrp-price.us
-xrp-privateledger.com
-xrp-qr-code-generator.com
-xrp-rates.live
-xrp-rmtcore.com
 xrp-salute.com
 xrp-scanners.com
 xrp-trackers.live
@@ -5719,7 +5665,6 @@ zaymsquare.ru
 zayntourindonesia.com
 zaza100.ddns.net
 zazainsankreatif.com
-zazawin.com
 zazerfiosuir.com
 zazerfiosuiri.com
 zazerfiosuirip.com
