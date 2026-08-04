@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-08-03T21:10:47Z
-# Entries: 70,000 (of 433,066 total)
+# Updated: 2026-08-04T03:17:31Z
+# Entries: 70,000 (of 433,120 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -89,7 +89,6 @@
 001.gamecc.workers.dev
 001.xorehdm3.workers.dev
 0010-8y95-a36x.11alia-tiffincrane-com-s-account.workers.dev
-0011.s3.cubbit.eu
 001107018.studentserver.com.au
 001122102120.duckdns.org
 0013.cc
@@ -1907,7 +1906,6 @@
 15.sub-75-222-33.myvzw.com
 15.taboola.com
 15.weebly.com
-150.co.il
 150.sub-75-201-82.myvzw.com
 150.sub-75-218-203.myvzw.com
 1500020991.vodplayer.wxamedia.com
@@ -10672,6 +10670,7 @@
 8p5whb.close.futureisready.com
 8p814q01np.com
 8pbiddjtp.com
+8pk4znv.qpon
 8po6fdwjsym3.com
 8proe3xx6.com
 8pyy.com
@@ -29566,6 +29565,7 @@ alpeno.shop
 alpenora.shop
 alpenwertor-ai.com
 alpenwertor-de.com
+alpenwertor.de
 alpenwertor.live
 alperbarutcu.com
 alperenergin.com
@@ -37356,6 +37356,7 @@ appendixwarmingauthors.com
 appends.top
 appendstuckbig.com
 apperilich.qpon
+appesimmet.autos
 appesstart-trzos.wixstudio.com
 appethereal.trade
 appetitecamisolereawake.com
@@ -39016,6 +39017,7 @@ arabsstreetwear.com
 arabstreetwears.com
 arabulucukegitimi.com
 aracdurumu.com
+aracgerec.net
 arachnac.top
 arachnactis.top
 aracinicin.com
@@ -40894,6 +40896,7 @@ asddigitalweek.com
 asdetmars.shop
 asdf.eldos.xyz
 asdfadsfq.fit
+asdferta.com
 asdfesfae.aenivjnbeiuvnbiser.workers.dev
 asdfgh-da978.web.app
 asdfghjkl.host
@@ -45525,6 +45528,7 @@ autoinsurancerow.com
 autoinsurancesantacruz.com
 autoinsurancesguide.com
 autoinsurancetimes.com
+autoiormes.autos
 autojuegosfaceb0ok-zyngaover.emochila.com
 autokarykatowice.pl
 autokaskoosiguranje.rs.ba
@@ -53570,6 +53574,7 @@ beetocoins.art
 beetocoins.com
 beetoocoin-pl.fit
 beetrootchaos.com
+beetsvtgrscur.site
 beevakum.net
 beevi.pages.dev
 beewellfitnessandnutrition.com
@@ -65927,6 +65932,7 @@ brandshow.58.com
 brandsmat.com
 brandsmonaco.fr
 brandstrategyhubyz.pro
+brandsy.co
 brandtobook3.com
 brandturbo.vip
 brandvert.com
@@ -69998,9 +70004,3 @@ bulldogclubdobrasil.org
 bulldogcpi.com
 bulldogculture.com
 bulldogito.com
-bulldogito.next-cryptolist.net
-bulldogmetals.com
-bulldogroofingrepair.com
-bulldozerefficientvista.com
-bulleboutique.com
-bulleprivee.com
