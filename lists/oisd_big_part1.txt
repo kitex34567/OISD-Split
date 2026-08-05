@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-08-05T03:12:50Z
-# Entries: 70,000 (of 433,951 total)
+# Updated: 2026-08-05T12:02:42Z
+# Entries: 70,000 (of 434,105 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -909,6 +909,7 @@
 0xx6x17vnzwkwp2.s3-website-us-east-1.amazonaws.com
 0xzxwnkqdu.com
 0yjeii25x4.com
+0yox-qau8bq4.wr8mhs.cfd
 0yu3bxtqv.com
 0z3zbnbkv.com
 0zj2a0bg.xyz
@@ -5697,6 +5698,7 @@
 3b10af6bbbe26a916f5ae8d3a6ecb80f.pages.dev
 3b30612d89.a910d264c4.com
 3b8.ru
+3b84d.x8xmho.cfd
 3b9bwg.super.spx.co.uk
 3b9c6cb95c.36a7b00c00.com
 3b9d481d08.com
@@ -6007,6 +6009,7 @@
 3qmh.com
 3qtdjf4830.com
 3qx0pnhyzi.com
+3r.x8xmho.cfd
 3r1kwxcd.top
 3r54cb.kx2xpzbw2235ui6rjylhkflgn37i86.cyou
 3rack.com
@@ -11722,6 +11725,7 @@
 9kkf51ovqex1.com
 9kqh3r24zv.com
 9kuw76.blow.harrisretreat.com
+9kvb.x8xmho.cfd
 9kygkgyfu.jp1ypgz6jofm9pfypc5hnv.cyou
 9kz9cttz76.antonsten.com
 9l3s3fnhl.com
@@ -14969,6 +14973,7 @@ account.coinbase.lo-g.com
 account.com.mx
 account.compliance.vu
 account.comunicazioni-sicure.it
+account.concepts.vu
 account.connect-appleid.com.manilva.ws
 account.daysofsummer.fi
 account.dropcloud.it
@@ -22006,7 +22011,6 @@ advancedmaccleaner.com
 advancedmaneuver.com
 advancedpasswordmanager.com
 advancedpccare.com
-advancedpccare.net
 advancedpccleaner.com
 advancedpcedutt-edu.com
 advancedpclhms-edu.com
@@ -25086,6 +25090,7 @@ aihaber.net
 aihaberajansi.com
 aihaberi.com
 aiharsoreersu.net
+aiheadlines.co
 aihongpei.com
 aihrmsx1.weebly.com
 aihrmsx10.weebly.com
@@ -25116,6 +25121,7 @@ aii.widgetmedia.co
 aii18.store
 aiiconn.com
 aiie.help
+aiiegrolokalnie.pl-32569458.click
 aiiegrolokalnie.pl-f5dgbfs8f.click
 aiija.com
 aiil.top
@@ -27259,6 +27265,7 @@ aldi-usa.akbase.shop
 aldi.basketly.shop
 aldi.belvaro.shop
 aldi.belvito.shop
+aldi.carlito.shop
 aldi.corveto.shop
 aldi.demlora.shop
 aldi.helvado.shop
@@ -27312,6 +27319,11 @@ aldimart.aisleharvestway.shop
 aldimart.aislelanehouse.shop
 aldimart.aislemarkethouse.shop
 aldimart.aislemarketyard.shop
+aldimart.aislepavilion.shop
+aldimart.aislevista.shop
+aldimart.basketarcadia.shop
+aldimart.basketcenterpoint.shop
+aldimart.basketcourtway.shop
 aldimart.waverleymarket.shop
 aldimart.yorleygrocer.shop
 aldimart.yorleymart.shop
@@ -27331,12 +27343,18 @@ aldiuk-fine.jonathanprese.com
 aldiuk-gd.clothingbrandsllc.com
 aldiuk-gd.techpulseretail.com
 aldiuk-market.stylecoveretail.com
+aldiuk-store.animefoggellc.com
 aldiuk-store.thegiftinghavenllc.com
 aldiuk.briskmart.shop
 aldiuk.creekstore.shop
 aldiuk.gritmart.shop
 aldiuk.guildstore.shop
 aldiuk.martcove.shop
+aldiuk.storezyw.shop
+aldiuk.stqx.shop
+aldiuk.styn.shop
+aldiuk.stza.shop
+aldiuk.valorstore.shop
 aldius-fine.primevalellc.com
 aldius-fine.vividpathmarketllc.shop
 aldius-market.fahionprinwated.com
@@ -27385,6 +27403,7 @@ alearningspot.org
 aleassbun.site
 aleatemadeg.com
 alebilet-oferta234234324.duckdns.org
+alebilet-pl.onrender.com
 alebilet.552183.click
 alebilet.690we8pl-id.shop
 alebilet.736268.click
@@ -27422,6 +27441,7 @@ alebilet.pl-oferta629837234.shop
 alebilet.pl-oferta732098174.shop
 alebilet.pl-oferta7382079831.cfd
 alebilet.pl-oferta7409873643.shop
+alebilet.pl-oferta7482708971.shop
 alebilet.pl-oferta748294820.shop
 alebilet.pl-oferta748910532.shop
 alebilet.pl-oferta7692424645.shop
@@ -28582,6 +28602,7 @@ allegrolokalnie.2082v47x58.click
 allegrolokalnie.216217788.lol
 allegrolokalnie.238823.click
 allegrolokalnie.27654382391423.click
+allegrolokalnie.28124.pl
 allegrolokalnie.284oferta37593937472xvey.shop
 allegrolokalnie.29832.cfd
 allegrolokalnie.29y.lat
@@ -29663,6 +29684,7 @@ alphacrestglobal.com
 alphadaru.com
 alphadexs.net
 alphadexs.world
+alphadigitalsolutionspagegd.tinidrop.com
 alphadrop-dao.one
 alphaebookconversion.com
 alphaeducationhouse.com
@@ -34187,6 +34209,7 @@ anquan.baidu.com
 anquan.qianxin.com.dsa.dnsv1.com
 anqv97upx.com
 anradus.net
+anresources.net
 anrfvqiycrybr.store
 anropromo.net
 anrq-protect.co.in
@@ -35633,6 +35656,7 @@ api1.ltd
 api1.minerdapifoda.xyz
 api14-collab.github.io
 api16-access-gcp.pangle.io
+api2-update-routing-mydpd.bergh.com
 api2-vulcan.xyz
 api2.amplitude.com
 api2.appsflyer.com
@@ -40140,6 +40164,7 @@ arnophondatriks.digital
 arnophondatrikstrade.com
 arnosvalehouse.com
 arnotasactuales.com
+arnsseghe.autos
 arnstadter-einkauf.de
 arnuixty.com
 arnwin.com
@@ -43418,6 +43443,7 @@ attentiovernmentbodieshroughusiness.weebly.com
 attentive-path.com
 attentiveconsignmentgrown.com
 atteprodu1banco.webcindario.com
+atteranant.autos
 attercolav.cyou
 attesim.us
 attestationcoupon.fr
@@ -46135,6 +46161,7 @@ avenirbitrevotech.com
 avenirgov.org
 avenirnovaa.com
 avenirsignal.com
+avenivesolvoral.com
 avenixiotech.com
 avenluxoption.trade
 aveno-oil.shop
@@ -60192,6 +60219,7 @@ biuned2022.weebly.com
 biuqbiu.com
 biuro-pytan.vercel.app
 biurowsparciatechnicznego.pl
+biutlublab.site
 biuuuriaiwannk.com
 biv.gazeta.pl
 biva1.weebly.com
@@ -60977,6 +61005,7 @@ blaring-chocolate.com
 blaringfear.pro
 blaringspray.pro
 blarkrock.com
+blaser.vip
 blask-finthra-ai.net
 blask-finthra-app.com
 blask-finthra.com
@@ -61407,6 +61436,7 @@ blocchecker18.pages.dev
 blocdeck.com
 blocfi-user-en.pages.dev
 blocfk-filogin.gitbook.io
+blochdance-eu.shop
 block-bay.com
 block-binance.com
 block-dag.live
@@ -68209,6 +68239,7 @@ brwlstart-redirect.netlify.app
 brwlstrs.netlify.app
 brwpl.com
 brwser-extsion-coin.pages.dev
+brwshop-pl.shop
 brwshoppl.com
 brwsrfrm.com
 brwsuprimentos.com.br
@@ -69973,34 +70004,3 @@ buildonvelo.digital
 buildonvortexa.icu
 buildpadx.com
 buildprotectandpreserve.com
-buildpursuit.com
-builds.cngkitwala.com
-buildscalesale.com
-buildsstate.com
-buildstock-finance.com
-buildtime.click
-buildtodynamics.digital
-buildtomeadowland.com
-buildtomeadowvale.com
-buildtovectra.digital
-buildtovelo.digital
-buildtrop.top
-buildukrainiandemocracy.com
-buildup4u.com
-buildviet.info
-buildweal.live
-buildwealthwithaffilatecourse.com
-buildwin.digital
-buildwithcifi.xyz
-buildy.biz
-buildyourdata.com
-buildyourfutureecuador.free.nf
-buildyourwealth.click
-buildza.shop
-built-different.ai-cryptolist.net
-built2030.com
-builtbynash.com
-builtinintriguingchained.com
-builtpartridgethan.com
-builtthorough.com
-builtwapfigurehop.pages.dev
