@@ -1,9 +1,128 @@
 # OISD Big Blocklist – Part 3
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-08-07T20:48:48Z
-# Entries: 70,000 (of 435,617 total)
+# Updated: 2026-08-08T02:01:23Z
+# Entries: 70,000 (of 436,130 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
+facebook-9.blogspot.com
+facebook-acccounts-verification.github.io
+facebook-account-manager.blogspot.com
+facebook-account.fr
+facebook-account.start.page
+facebook-ads-acc1.github.io
+facebook-ads-scaling-wi.pages.dev
+facebook-ads.hara.vn
+facebook-alert.onrender.com
+facebook-alpha.blogspot.com
+facebook-appeal-apply.com
+facebook-appeal-center.com
+facebook-appeal.w3spaces.com
+facebook-astuces-news.blogspot.com
+facebook-authorization.blogspot.com
+facebook-auto-liker.blogspot.com
+facebook-badge-apply.com
+facebook-badge-center.com
+facebook-badge.com
+facebook-bella-fati.serverlux.me
+facebook-blog-com.blogspot.be
+facebook-blog-com.blogspot.fi
+facebook-ca.blogspot.com
+facebook-calls.blogspot.com
+facebook-carol.blogspot.com
+facebook-cdn.blogspot.com
+facebook-channel.blogspot.com
+facebook-clone-alpha-three.vercel.app
+facebook-clone-beta-gules.vercel.app
+facebook-clone-blush-alpha.vercel.app
+facebook-clone-ebon.vercel.app
+facebook-clone-eta.vercel.app
+facebook-clone-kappa-ten.vercel.app
+facebook-clone-login.vercel.app
+facebook-clone-mu-nine.vercel.app
+facebook-clone-neon-ten.vercel.app
+facebook-clone-nu-eight.vercel.app
+facebook-clone-nu-nine.vercel.app
+facebook-clone-phi-ruddy.vercel.app
+facebook-clone-pi.vercel.app
+facebook-clone-psi-six.vercel.app
+facebook-clone-rho-six.vercel.app
+facebook-clone-rho-two.vercel.app
+facebook-clone-snowy.vercel.app
+facebook-clone-theta-nine.vercel.app
+facebook-colon-one.vercel.app
+facebook-color.5v.pl
+facebook-com-pl-profil.7m.pl
+facebook-com-pl-profile.7m.pl
+facebook-com.gitbook.io
+facebook-com506.webnode.com
+facebook-community-standards.com
+facebook-comwndd22.weebly.com
+facebook-developers.blogspot.com
+facebook-do.blogspot.com
+facebook-downloader.czhyk.biz.id
+facebook-eta-six.vercel.app
+facebook-eu.blogspot.com
+facebook-facebook.blogspot.com
+facebook-facebook1.blogspot.com
+facebook-facebook45sr.blogspot.com
+facebook-fake.blogspot.com
+facebook-faq.se
+facebook-fb-com.blogspot.com
+facebook-feed5942.rollout.site
+facebook-feed7r6h.rollout.site
+facebook-feedback9hqg.rollout.site
+facebook-find.blogspot.com
+facebook-for-message.blogspot.com
+facebook-frontend-capstone.vercel.app
+facebook-gamehacks.blogspot.com
+facebook-germany.blogspot.com
+facebook-hack-accounts.blogspot.com
+facebook-help-m.blogspot.com
+facebook-help-srilanka.blogspot.com
+facebook-homepage-ui.vercel.app
+facebook-ilham.blogspot.com
+facebook-in.blogspot.com
+facebook-int.blogspot.com
+facebook-liker-pro.blogspot.com
+facebook-linkedin.blogspot.com
+facebook-login-33.blogspot.com
+facebook-login-app.blogspot.com
+facebook-login-clone-nine.vercel.app
+facebook-login-facebook.blogspot.com
+facebook-login-help.blogspot.com
+facebook-login-it.blogspot.com
+facebook-login-login.blogspot.com
+facebook-login-page-4g6p.onrender.com
+facebook-login-page-clone-gamma.vercel.app
+facebook-login-page-kappa.vercel.app
+facebook-login-page.blogspot.com
+facebook-login-pages.blogspot.com
+facebook-login-secured.online
+facebook-login-web.blogspot.com
+facebook-login.5v.pl
+facebook-login.mypi.co
+facebook-login.vercel.app
+facebook-login0.blogspot.com
+facebook-login1.vercel.app
+facebook-login65.blogspot.com
+facebook-loginacc.blogspot.com
+facebook-loging.blogspot.com
+facebook-loginrealumber.vercel.app
+facebook-logo.blogspot.com
+facebook-main.vercel.app
+facebook-marketing.fr
+facebook-mx.blogspot.com
+facebook-notification.blogspot.com
+facebook-official-page.blogspot.com
+facebook-one-psi.vercel.app
+facebook-page-f01.pages.dev
+facebook-page-verification.blogspot.com
+facebook-page-verified.com
+facebook-page1048534.site88.net
+facebook-page62890174.com
+facebook-partner.blogspot.com
+facebook-password-reset.vercel.app
+facebook-peringatan404.weebly.com
 facebook-photo5.blogspot.com
 facebook-pi.blogspot.com
 facebook-prime.blogspot.com
@@ -973,7 +1092,6 @@ fallbrook247.com
 fallelha.com
 fallenpersimmons.net
 fallguysmobile.com
-falling-band-d4b1.khansamuelyut77345jud75413.workers.dev
 falling-band-dd6a.xkmxnbtj.workers.dev
 falling-forest-2c4e.erdvelrienli.workers.dev
 falling-meadow-0df5.yashb.workers.dev
@@ -1436,6 +1554,7 @@ faq-swap-raydium-en-us.pages.dev
 faq-swap-raydium-eng-us.pages.dev
 faq-swap-raydium-io-us.pages.dev
 faq-thoe-swap-us.pages.dev
+faq-tr-z-r-su-ite-us.typedream.app
 faq-trade-sushiswapp.pages.dev
 faq-treezr-iostrt.square.site
 faq-trezor-enc.vercel.app
@@ -1451,12 +1570,14 @@ faq-trezr-start.pages.dev
 faq-trezur-en-us--en.typedream.app
 faq-trezur-iostart.square.site
 faq-trezur-public-en-us.typedream.app
+faq-trezursuite-auth.typedream.app
 faq-trezzor-suite.teachable.com
 faq-trust-wallet-app.pages.dev
 faq-trzor-bridge-public.typedream.app
 faq-trzor-en-us-trezor.typedream.app
 faq-trzorwallet-en-us.typedream.app
 faq-trzr-walet.pages.dev
+faq-trzro-io-pro.typedream.app
 faq-tzore-hardware.typedream.app
 faq-up-huld-lggin-en.created.app
 faq-uphled-logi.pages.dev
@@ -2518,6 +2639,7 @@ favorking.net
 favornet.com
 favorscenes.com
 favourableindependenthemp.com
+favourite-sapphire-ihvzqfie.edgeone.dev
 favourlinks.com
 favstcup.com
 faw-motors-test.ru
@@ -2608,7 +2730,6 @@ fb-autoliker.com
 fb-banned-centure.pages.dev
 fb-banr-erive.pages.dev
 fb-bran-metanoti.pages.dev
-fb-business.com
 fb-cen-cooky4.pages.dev
 fb-cen-policy.pages.dev
 fb-cen-policy2x.pages.dev
@@ -3557,6 +3678,7 @@ femalesfellowship.com
 femaxatus.net
 femboy.center
 femboycraft.store
+femboynet.pro
 femboyrental.com
 femeariagokl.pro
 femeawellness.com
@@ -4130,6 +4252,7 @@ ffb.it.com
 ffbb.it.com
 ffbdatxllaeco.website
 ffbgxh.nt.nativetrees.co.uk
+ffbonline.icu
 ffbpublic.online
 ffbsupport.pages.dev
 ffbzdfbdfbhgghyjcdfdg.com
@@ -5193,6 +5316,7 @@ filman-pl.pl
 filmbest.video.blog
 filmboxoffice22.weebly.com
 filmchill.net
+filmdizin.live
 filmdopobraniacbd92.ek1.pl
 filmeanos80.weebly.com
 filmees.top
@@ -5488,7 +5612,6 @@ final-cashback.pro
 final-claim.pages.dev
 final-declare.github.io
 final-drop.com
-final-future.com
 final-ivory-yyeunzxk-dprqo0854tpr.edgeone.dev
 final-jupuary.vercel.app
 final-kimchi-072485.framer.app
@@ -6261,6 +6384,7 @@ finhub2-sit39.sbs
 finhub3-laboriosam39.sbs
 finhub3-voluptatem60.sbs
 finhub4-earum82.sbs
+finhub4-inventore3.sbs
 finhub4-qui49.sbs
 finhub5-consequatur18.sbs
 finhub5-et28.sbs
@@ -6324,6 +6448,7 @@ finkurs.digital
 finlab0-dolores91.com
 finlab5-eveniet49.sbs
 finlab6-deleniti5.com
+finlab9-accusamus90.sbs
 finland.nport.link
 finlandpalm.com
 finldab.digital
@@ -6436,6 +6561,7 @@ finsavecreditunion.com
 finsecur.fr
 finseedv.info
 finsense.com.sg
+finserveconsulting.com
 finsightconsultingltd.com
 finsightsconsulting.com
 finsolve.solutions
@@ -6852,6 +6978,7 @@ first-ledger-live-login-eng-us.pages.dev
 first-ledgers.org
 first-ledgrstart.pages.dev
 first-ledgrstrt.pages.dev
+first-light-service-374685.weebly.com
 first-medicine.org
 first-one.world
 first-online-pharmacy.org
@@ -7794,6 +7921,7 @@ flaptrack.platform997.com
 flarby.com
 flare-9ed7e60ab7a5069ce-voting.web.app
 flare-airdrop.com
+flare-airdrop.org
 flare-airdrop.pages.dev
 flare-analytics.com
 flare-claim-evm.com
@@ -8796,7 +8924,6 @@ flroofingandrepairs.com
 flrtrustline-airdrop.net
 flruftex.info
 fls-a1eaceca-fdc7-4744-a102-835c501a9e99.laravel.cloud
-fls-a26e4c11-7b90-4acb-93c5-fedf92a262cc.laravel.cloud
 fls.au.doubleclick.net
 fls.doubleclick.net
 fls.uk.doubleclick.net
@@ -8909,6 +9036,7 @@ flushmviolent.org
 flushoppression.com
 flushpersist.com
 flusoprano.com
+flusscapitentro.com
 flusso-finthorapp.com
 flusso-montalux.com
 flussovalutezza-it.fyi
@@ -8919,7 +9047,6 @@ flusteredfall.pro
 flutelopes.com
 fluteparental.com
 flutia.com
-flutney.com
 fluton-testnet.firebaseapp.com
 flutorix.com
 flutter-td.com
@@ -8984,7 +9111,6 @@ fluxion.exchange
 fluxionprotocolvector.com
 fluxionvectorforge.com
 fluxistdrainer.shop
-fluxiumuup.top
 fluxivelatebra.qpon
 fluxivelle.live
 fluxivelletrade.com
@@ -8995,7 +9121,6 @@ fluxmentium.org
 fluxo-surge.com
 fluxolucrancia.com
 fluxonchain.info
-fluxonty.pro
 fluxor-beam-ai-tech.com
 fluxora-restore.com
 fluxora-stream.com
@@ -9264,6 +9389,7 @@ fngjuhuiommfv.online
 fngvepnjonsdl.online
 fnh57.com
 fnhub.us
+fnieeptnqxpdz.space
 fnieftbduxjdr.online
 fnimszzhutvpo.website
 fninv.pro
@@ -9732,6 +9858,7 @@ fontancasino.fr
 fontawesome-cdn.cfd
 fontdeterminer.com
 fonte.auraplay.icu
+fontebitanza.net
 fontefinvalis-ai.fyi
 fontefinvalis-it.fyi
 fontemed.com
@@ -10200,6 +10327,7 @@ forgiving-world-449987.framer.app
 forgo.sbs
 forgotgnatpalsy.com
 forgotindication.com
+forgotten-eth.com
 forgotten-eth.xyz
 forgottenrunes.org
 forhome.mobi
@@ -10423,6 +10551,7 @@ forsazzh-lordfilm.ru
 forsberg-marketing.com
 forscprts.com
 forsell-endsjo.net
+forsenvinstvik.net
 forseo.com
 forspeed.onlinedown.net
 forstat.lol
@@ -10859,6 +10988,7 @@ fortunorance.digital
 fortunorance.live
 fortup.top
 fortv-b.top
+fortvalue.cfd
 fortvalued.com
 fortvermenz.de
 fortvermenz.live
@@ -11985,6 +12115,7 @@ frc4130.weebly.com
 frc5735.weebly.com
 frcaled.firebaseapp.com
 frcaled.web.app
+frcarbonio.weebly.com
 frcccbg3.firebaseapp.com
 frcccbg3.web.app
 frceaptntlcn.com
@@ -12362,6 +12493,7 @@ freeinstadownload.com
 freeinstagramfollowersherenow.blogspot.com
 freeinternetmarketingcourse.co.uk
 freeinvisiblecounters.com
+freeiosdpfskfoppasar.com
 freeiphone.pages.dev
 freeipstress.com
 freeiqtest.blogspot.com
@@ -14256,6 +14388,7 @@ funbet-fr.fr
 funbett.fr
 funblue.xyz
 funcallback.com
+funcashglobal.com
 funchill.com
 funciona.com.br
 funcitonalfit.com
@@ -15294,6 +15427,7 @@ fyronyx-driftorgpt.org
 fyronyxdriftorgpt.com
 fyronyxdriftorgpt.org
 fyroza.digital
+fyrrthalvox.com
 fyrsbckgi-c.global.ssl.fastly.net
 fyrtheupwyj.firebaseapp.com
 fyrtheupwyj.web.app
@@ -16555,6 +16689,8 @@ gamesjumpers.com
 gameskeys.info
 gameslegion.com
 gamesloft.com
+gamesloot.fr
+gamesloots.fr
 gameslot100.weebly.com
 gameslot105.weebly.com
 gameslot10rb-1.weebly.com
@@ -18108,6 +18244,7 @@ geekuninstaller.fr
 geelaitoawovoup.net
 geelonggastro.com.au
 geelyexchange.com
+geenhoe.com
 geerss.com
 geertcoin.biz
 geesoaptomu.net
@@ -18306,7 +18443,6 @@ gemini-usa-loggieez.godaddysites.com
 gemini-usa.com
 gemini-website-new.webflow.io
 gemini.03vps.cn
-gemini.141010.xyz
 gemini.hrxgxai.com
 gemini.net.au
 gemini.sp18.net
@@ -18600,6 +18736,7 @@ genesis-promotion.fr
 genesis-standx.com
 genesis-tools.cc
 genesis-union.com
+genesis-usdai.info
 genesis-virtualprotocols.info
 genesis-xrpl.live
 genesis-zama.org
@@ -18665,6 +18802,7 @@ geniabstephine.pages.dev
 geniad.net
 geniahjkabagael.pages.dev
 genial-objects-594130.framer.app
+genial-universe-605034.framer.app
 genialbau.com
 geniayhyacinth.pages.dev
 genieboost.io
@@ -19206,6 +19344,7 @@ gestapostanza.shop
 gestas.xyz
 gestd483.weebly.com
 gestiohe1p2book-panl.info
+gestion-bac2026.iceiy.com
 gestion-clientdossier.com
 gestion-dossier-regule.fr
 gestion-du-compte-office-365.webflow.io
@@ -19520,6 +19659,7 @@ get-waronusd1.com
 get-world.xyz
 get-wp.com
 get-x-krakan.pages.dev
+get-xaman.app
 get-xrplfoundation.com
 get-yacdn.ru
 get-yieldusd.net
@@ -19688,6 +19828,7 @@ getgrass-app.pages.dev
 getgrass.cc
 getgrass.cyou
 getgrassfoundation.pages.dev
+getgrowagardenaks.blogspot.com
 gethack.net
 getheadway.io
 gethealthinsurance.live
@@ -20156,7 +20297,6 @@ gftgbrixcmukd.site
 gftlexvemldjk.online
 gfuel.finance
 gfvcd4d93pl-klmqwuhy-4c1d9e-yh701a.pages.dev
-gfvcd7dplix-klmqwuhy-4c3d0e-yh633a.pages.dev
 gfviegas.com
 gfvildtxwbgzi.online
 gfvk.cn
@@ -20848,6 +20988,7 @@ giftonline11.weebly.com
 giftpinetworkcoin.com
 giftprizewinner.com
 giftredcircle.com
+giftrobux.click
 gifts-chainlink.org
 gifts-steam.ru
 gifts-xrp.com
@@ -21016,6 +21157,7 @@ gin-etics.com
 gin-note.com
 gin77czkt.com
 ginabyasmeen.pages.dev
+ginaruiz.com
 ginchoirblessed.com
 ginero.work
 ging.fun
@@ -21098,6 +21240,7 @@ gipix-lite.store
 gipoxa.info
 gipsiesthyrsi.com
 gipsmisplay.qpon
+gipster21.github.io
 gipsydeceivedepoch.com
 gipsyharryparasite.com
 gipsymusic.site
@@ -21256,7 +21399,6 @@ giteimago.cfd
 gites-les-noisetiers.fr
 gites56.com
 giteshyewale.github.io
-gitfrominstall.com
 gith78pmrpsy0v0fj5ljq0ntl51cfv.pages.dev
 githelpdesk.com
 githu.com
@@ -22800,6 +22942,7 @@ glsinternal.com
 glsso.biz.id
 glsso.my.id
 glssp.net
+gltdzxr.cfd
 glteqxwznvblf.site
 glthub.co
 glthub.com
@@ -22879,6 +23022,7 @@ gluxonfear.top
 gluxonty.pro
 glvhvesvnp.com
 glvmtlnxdxdhl.website
+glvnkdz.cfd
 glwebserverassets.blob.core.windows.net
 glwfggsn.shop
 glwisiqnbmvmd.site
@@ -24145,6 +24289,7 @@ goldengloww.info
 goldengoldcuan.xyz
 goldengoose-france.fr
 goldengoosee.com
+goldengoosefactory.fr
 goldengooseparis.fr
 goldengoosepaschersoldes.fr
 goldengooses.fr
@@ -24501,6 +24646,7 @@ gomble2-6ze.pages.dev
 gomblingo.fr
 gomblingocasino.fr
 gomc.uk
+gomdanikapil-pixel.github.io
 gomedicalbilling.com
 gomenalo.pages.dev
 gomentalpower.com
@@ -25207,6 +25353,7 @@ got-push-notify.com
 got.k12insight.org
 gotadourada.com
 gotaiwantransport.com
+gotbackupjv.com
 gotbeamedbyanindian.xyz
 gotbet.cc
 gotchimigration.com
@@ -25227,7 +25374,6 @@ gothriveabroad.com
 gotibetho.pro
 gotinkle.com
 gotinljghksdx.website
-gotizoi.com
 gotlinks.co
 gotlunched.com
 gotmerchantford.com
@@ -25342,6 +25488,7 @@ gourmeland.com
 gourmetads.com
 gourmetgiftbaskets.112.2o7.net
 gourmettube740.weebly.com
+gousax.com
 gousonlol.duckdns.org
 gousoolaishi.sa.com
 gousoroil.lat
@@ -25813,7 +25960,6 @@ gpt3vadipex.click
 gpt3vapp-pro.com
 gpt5ggate.digital
 gpt5ggate.net
-gpt6onm.com
 gpt8bitfox.click
 gptabefhmfqegt.com
 gptacademyltd.com
@@ -25940,6 +26086,7 @@ grabbler4road.info
 grabbsshoppers.info
 grabclicks.com
 grabfile.co
+grabixpro.trade
 grabmayr.at
 grabmonster.com
 grabmyrez.co
@@ -26974,6 +27121,7 @@ grefutiwhe.com
 greg-tut.com
 gregabeaman.com
 gregaorg2.weebly.com
+gregarious-buttons-997826.framer.app
 gregarious-genie-2295e4.netlify.app
 gregarious-llama-3d5da2.netlify.app
 gregarious-maamoul-fdf5b4.netlify.app
@@ -27155,6 +27303,7 @@ grigo.mystagingwebsite.com
 grigoras300.weebly.com
 grigorash.ru
 grigorenkodanil.store
+grigowski.weebly.com
 grihinie.org
 griinqddauwbc.website
 griitrt.firebaseapp.com
@@ -27577,6 +27726,7 @@ grosse93.weebly.com
 grosseapotheke.de
 grossebusters.com
 grosseltern76.weebly.com
+grosses-los.de
 grosshunter.com
 grosskrovli.store
 grossmargin.live
@@ -28441,6 +28591,7 @@ gtavi-beta.com
 gtavnhoxf.com
 gtbankingeasyloanquickcredit.weebly.com
 gtbdhr.com
+gtbetfrance.fr
 gtbmhj.com
 gtbonkbottrading.pages.dev
 gtbottradings.pages.dev
@@ -28914,6 +29065,7 @@ guiadoveiculobrasil.com
 guiadoveiculonacional.com
 guiaemfoco.com.br
 guiamanutencaoveicular.com
+guianexispro.net
 guianexisprosolution.click
 guianovexis.pro
 guiasdeoficiosminasmg.com
@@ -28965,6 +29117,7 @@ guide--ledgr-en.pages.dev
 guide--trezer-bridgge.pages.dev
 guide--trezo--suites.pages.dev
 guide-aavalanche-explorer.pages.dev
+guide-access-ledgrre.pages.dev
 guide-balancer-defii.pages.dev
 guide-balancer-protocol.pages.dev
 guide-bridge-trez.pages.dev
@@ -29038,6 +29191,7 @@ guide-live-ledgr-eng-ami.pages.dev
 guide-live-legor-com.pages.dev
 guide-liveledgr-faq.pages.dev
 guide-liveledgr-public.pages.dev
+guide-lives-ledgr-com.pages.dev
 guide-logon-trazor.pages.dev
 guide-maskmeta.pages.dev
 guide-massk-metaa-login-en.pages.dev
@@ -29062,7 +29216,6 @@ guide-trezoriostart-en.square.site
 guide-trezorsuites.framer.ai
 guide-trzor-suite-io.pages.dev
 guide-trzor-suite-us.pages.dev
-guide-trzorsuite.pages.dev
 guide-trzr-x-bridge.pages.dev
 guide-upheld-en.pages.dev
 guide-uphold-login-hub.pages.dev
@@ -29108,6 +29261,7 @@ guifenergy.co.ke
 guifoelaeraina.pro
 guiformat.app
 guiformat.com
+guiide-live-ledgr-com.pages.dev
 guijocinnyl.shop
 guild-blockchain-web3.pages.dev
 guild-collab.land
@@ -30905,7 +31059,6 @@ hakerzy.net
 hakim32.ddns.net
 hakkasancomplaints.com
 hakkiogullari.net
-hakori.info
 hakosuo.convertri.com
 hakumachupicchu.com
 hakurei.cdnbo.org
@@ -31248,7 +31401,6 @@ handbagsonsale2013.weebly.com
 handbooksnapped.com
 handbrake.es
 handbrake.it
-handc0nst.com
 handcare.net
 handcjjarsvetters.info
 handconst.com
@@ -31459,6 +31611,7 @@ haofulgjcz.com
 haoghost.com
 haohanqianbaoappxiazaigw.com.cn
 haohuo.snssdk.com
+haohux.com
 haolit.com
 haoshengjuanmenji.com
 haoshengtoys.com
@@ -32687,8 +32840,6 @@ hbjfjj.com
 hbjl23w8.xyz
 hbk-phonet.eu
 hbk.dermals.org
-hbkpt0b58pz-xlbdwlsi-2e9f4a-hbk20c.pages.dev
-hbkpt42bfrn-xlbdwskr-2d7c4f-hbk11c.pages.dev
 hblinwei.com
 hbloveinfo.com
 hblsqhwlsfuax.space
@@ -33013,6 +33164,7 @@ hddlr.com
 hddqipouhbcyj.online
 hddrfyoifiuad.website
 hddsentinel.com
+hddy1.com
 hdeapukntskyp.online
 hdfc-32-pan-update.web.app
 hdfc8-7v8vtyu.vercel.app
@@ -33612,6 +33764,7 @@ heeyuki.com
 heezyocdqfdfk.site
 hefa.hu
 hefbebebsb.xyz
+hefeus.github.io
 hefgaw.cn
 hefmavjjc.net
 hefservice.com
@@ -34043,6 +34196,7 @@ helmmarginvale.com
 helmmarginvale.pro
 helmorixy-app.pro
 helmorixy-nl.live
+helmorixytrade.com
 helmsleyhome.eu
 helmsuction.com
 heloisacadenas.github.io
@@ -34225,7 +34379,6 @@ help-ledger.com
 help-ledger.fr
 help-ledger.pages.dev
 help-ledgercom-start.pages.dev
-help-ledgerlive-desk.pages.dev
 help-ledgerlive.mobirisesite.com
 help-ledgerr-live.pages.dev
 help-ledgerstartt-com.pages.dev
@@ -34382,6 +34535,8 @@ help-us-help-others.org
 help-us-ledgr-live.pages.dev
 help-us-ledgr.pages.dev
 help-us-live.pages.dev
+help-us-public-trezzr-io-com-cdn.typedream.app
+help-us-public-trezzr-io-sso.typedream.app
 help-us-public-trzr.typedream.app
 help-us-uphold-login.pages.dev
 help-v883lhy.cityview.ge
@@ -34895,7 +35050,6 @@ heracross.com
 herakecasino-fr.fr
 herakecasino1.fr
 heraldbonnici.com
-heralds.pages.dev
 heranavm.com
 herb6.vip
 herbahutantempur.com
@@ -35288,6 +35442,7 @@ hethongnoibo.bio.link
 hetlaatstenieuws365.pro
 hetnu.com
 hetonex.com
+hetowin.com
 hetrodopilkom.weebly.com
 hetron.net
 hetrtv.com
@@ -35788,6 +35943,7 @@ hhtheprinceagakhanhosteldhandhuka.com
 hhtteocvkxvph.online
 hhttpeakccu.weebly.com
 hhttps-www-roblox.co
+hhttytytyy.cwojho0qjojq.com
 hhuhwkfwugi.com
 hhuijd.com
 hhuobnajd.com
@@ -36679,6 +36835,7 @@ hiworkskr909.weebly.com
 hiworkskr919.weebly.com
 hiwslahrzvibl.website
 hiwucomhecyod.site
+hixeeeugcyczc.space
 hixira.com
 hixmojxyo.com
 hixyhbsodvkip.site
@@ -36808,6 +36965,7 @@ hjukg.vercel.app
 hjuui.pages.dev
 hjvillakmms.weebly.com
 hjxajf.com
+hjyev0ertwisfghtyn.weebly.com
 hjyhqbgodfdzg.website
 hjyruie.online
 hk-amada.com
@@ -37727,7 +37885,6 @@ holstinin.com
 holt816.weebly.com
 holtbarandkitchen.co.uk
 holtfbuhuhdyrp.com
-holtonrobotics.org
 holttaylor3.weebly.com
 holuagency.top
 holvil.com
@@ -37854,6 +38011,7 @@ home-coinbae-wallet-ext.pages.dev
 home-coinbase--extension.pages.dev
 home-coinbase-eng-us.pages.dev
 home-coinbase-io.pages.dev
+home-coinbase-log.pages.dev
 home-coinbase-pro-eng.pages.dev
 home-coinbase-walt.pages.dev
 home-coinbasee-ext.pages.dev
@@ -40077,6 +40235,7 @@ houyi.kkmh.com
 houyounai.sa.com
 houzousuptul.net
 houzux.com
+houzyjuioernz.online
 hovaro-vaultix.com
 hovarovaultix.digital
 hoveltran.xyz
@@ -40930,6 +41089,7 @@ huaijuzhi111.pages.dev
 huaismartx.com
 huaixbotx.com
 huaiyangwittayakomschool.com
+hualg.com
 hualienbay.com
 hualinjy.com
 huan-w.com
@@ -41120,6 +41280,7 @@ hubguardfx.com
 hubhabit.com
 hubhc.com
 hubhubhub.name
+hubia.cfd
 hubkucoi.zapier.app
 hublaa.me
 hublaagram.me
@@ -41428,7 +41589,6 @@ humbleoven.pro
 humbleparticular.com
 humblestress.com
 humblewoodcrafts.com
-humcon.casa
 humdrumhobbies.com
 humdrumtouch.com
 humdrumtown.com
@@ -41628,6 +41788,7 @@ huoche.com.cn
 huodong.feixin.10086.cn
 huodong.m.taobao.com
 huodonghezi.cn
+huoguochang.com
 huohuo.huamuwo.com
 huomob.com
 huonglan3213.weebly.com
@@ -42634,6 +42795,7 @@ hypertechpoint.pages.dev
 hypertechtop.pages.dev
 hypertechz.com
 hypertens.net
+hyperters.github.io
 hypertext.news
 hypertliquid.com
 hypertracker.com
@@ -44325,6 +44487,7 @@ idm-su.baidu.com
 idm.skplanet.com
 idm123.com
 idme-app01.surge.sh
+idmeorangelogin.framer.ai
 idmicrosoftmx.webcindario.com
 idmiddnqrgssm.site
 idms-adorngraphics.com
@@ -44819,6 +44982,7 @@ ignetwork.us
 ignibetcasino.fr
 ignifyecom.s3.amazonaws.com
 ignis-watt.com
+ignissubnets.qpon
 ignita.xyz
 ignite-caspslap-2014.weebly.com
 igniteadk.org
@@ -45348,7 +45512,6 @@ il-post-spam.web.app
 il-whatapp.com.cn
 il.appme.ru
 il2.weebly.com
-il6hii.casa
 ilabali.com
 ilacimyolda.com
 ilaclamax.com
@@ -46325,6 +46488,7 @@ immediateproair.com
 immediateproair.org
 immediateprocapex-pl.com
 immediateprocapex-system.com
+immediateprocapextrade.com
 immediateprocapextrade.net
 immediateprofit-app.com
 immediateprofit.org
@@ -48112,7 +48276,6 @@ infinityweb3.qpon
 infinitzwebdesign.com
 infinox.com
 infinribas.cyou
-infintytweet.com
 infintytweet.me
 infirmarybloody.com
 infiruffic.rest
@@ -49020,6 +49183,7 @@ injective-enroll.com
 injective-networks.web.app
 injective-vote.lat
 injectiveapp.lat
+injectiveapp.top
 injectivedesktop.org
 injectivevote.com
 injectpillowdearest.com
@@ -49785,7 +49949,6 @@ instagram-clone-xi-one.vercel.app
 instagram-cloneepn7.rollout.site
 instagram-cmd.github.io
 instagram-copy.vercel.app
-instagram-curtidas-gratis.app.ufrj.br
 instagram-cyan-kappa.vercel.app
 instagram-dio-azure.vercel.app
 instagram-feedj79t.rollout.site
@@ -50067,6 +50230,7 @@ instantamrixsys.digital
 instantamrixsyssolution.com
 instantanecasino.fr
 instantautoreviewsites.com
+instantavage600.net
 instantavelon5p.org
 instantbridge.net
 instantcapkeflex.com
@@ -50143,7 +50307,6 @@ instantmadness.com
 instantmaxai.org
 instantmemorize.com
 instantminers.com
-instantmut.casa
 instantnewsbriefdaily.com
 instantnewsgridiq.com
 instantoffersolutions.com
@@ -51751,6 +51914,7 @@ io-googlse.com.cn
 io-gov.com
 io-gpu.pages.dev
 io-hardware-dc-wallet.typedream.app
+io-hardware-doc.typedream.app
 io-help-bridges-trezrr.pages.dev
 io-home-ledgr.pages.dev
 io-homepage-bridge.pages.dev
@@ -52303,6 +52467,7 @@ iotrezstarts.wixstudio.com
 iotrezstartt.wixstudio.com
 iotrezzorstart-us.dream.space
 iotrxsrtat.wixstudio.com
+iotrzorhardirewallet.gitbook.io
 iotrzsrt.wixstudio.com
 iottechco.com
 iouewfhe.weebly.com
@@ -52734,6 +52899,7 @@ ircftp.net
 irdhh.com
 irdimas.store
 irdovantsel.info
+irdqtqawrvxeg.space
 irduunijdrixi.site
 irediff-update.weebly.com
 iredirect.net
@@ -53457,6 +53623,7 @@ istekleriniz.com
 isteksaati.com
 isterdim.com
 istewakhassantewak.github.io
+isthatblep-airdrop.pages.dev
 istidat.net
 istikametmedreseleri.net
 istikrarcapital.com
@@ -53496,6 +53663,7 @@ isvhgnat.shop
 iswari-interior.com
 iswc-interieurgouv.fr
 isweb.no
+isws-interieurgouv.fr
 isx8bxhoft0kfc4hde4or5681fsmhfteidm21-hiu14s.vercel.app
 isyfhktqiiccy.site
 isypmogfhabmp.space
@@ -55661,7 +55829,6 @@ jatimku.com
 jatisunakera.com
 jatisungkaiestetika.com
 jatnifenian.qpon
-jatony.com
 jatostepa.com
 jatsoudrours.com
 jatvpn.softether.net
@@ -56263,7 +56430,6 @@ jeffstones313.mvt.so
 jefgbebgae8.com
 jeflakrlrdysq.website
 jeflu.online
-jefomuo.com
 jefphotography.com
 jegan-centralplumbing.myportfolio.com
 jegcas.com
@@ -58015,7 +58181,6 @@ jobreel.net
 jobrizz.com
 jobs-adobe.com
 jobs-apply-fast.com
-jobs-apply.com
 jobs-delta.com
 jobs-f1.com
 jobs-fifa.com
@@ -59099,6 +59264,7 @@ jouzoudou.ru
 jovachain.io
 jovalentina.com
 jovani-k07283lightblue.com
+jovfxzkfvhndg.space
 jovial-malasada-d5b763tyhd.netlify.app
 jovial-mar-525e4d.netlify.app
 jovialcadence.com
@@ -60705,6 +60871,7 @@ jupiterexchangedapps.pages.dev
 jupiterleather.com
 jupiterlend.cc
 jupitermainfixchain.pages.dev
+jupitermobile.yaslabs.dev.br
 jupiterportfolio-checker.info
 jupiters-chain.web.app
 jupitersbt.com
@@ -62427,6 +62594,7 @@ kalvexoria.com
 kalvinvalko.com
 kalvirestone.top
 kalwarsandawe.cfd
+kalxio.com
 kalyanglobal.com
 kalyanieps.com
 kalyante.com
@@ -63882,6 +64050,7 @@ kdoupayqianbao.com.cn
 kdouqianbaoappxiazaiguanwang.com.cn
 kdouqianbaoxiazaianzhuobangw.com.cn
 kdpic.pchome.com.tw
+kdply4avstr-blpqr65kmja-3d4e8f-wj519n.pages.dev
 kdpqab.super.spx.co.uk
 kdputri.com
 kdr6jmomc5yuoqhv9x95.maherstcottage.com.au
@@ -64788,7 +64957,6 @@ keycontrol743-booking.com
 keycreditscore.com
 keydot.net
 keydropping.com
-keydwhat.prettyshowy.com
 keyedtryma.qpon
 keyellow540.weebly.com
 keyfund.net
@@ -65253,6 +65421,7 @@ khoonepaz.com
 khophanmem24h.com
 khoramshahrplast.com
 khordailcharasecondaryschool.com
+khordvn2222-wq.github.io
 khoroshiy-malchik-doramadrama.ru
 khoroshiy-paren-doramadrama.ru
 khoshmazeh-forosh.com
@@ -65288,7 +65457,6 @@ khushitiwari78.github.io
 khuvuonxanh.com
 khuyenkhichsangtaoviet.net
 khuyenmaivimomo.weebly.com
-khuzema24602.github.io
 khuzibatekes.com
 khvatay-son-chzhe-doramadrama.ru
 khvliwvgpxzmk.site
@@ -65446,6 +65614,7 @@ kidup.xyz
 kidzcaters.com
 kidzworldusa.com
 kiefusimmigrationlaw.com
+kiehls-france.fr
 kiehlsfrance.fr
 kiekkokingi.com
 kieleckamasa.pl
@@ -65626,7 +65795,6 @@ kimmiyfidelia.pages.dev
 kimmiymariejeanne.pages.dev
 kimmyjarson1223.weebly.com
 kimocorp-tech.com
-kimocorp.com
 kimocorp.sbs
 kimoneo.com
 kimonosagitolnstagram.blogspot.com
@@ -66154,6 +66322,7 @@ kirticollege.org
 kirujh.com
 kirukenlogui.webflow.io
 kirupaw.store
+kirwqnowa.shop
 kis-kis-jewelry.ru
 kis2kis.shop
 kisac2013.weebly.com
@@ -66271,6 +66440,7 @@ kite.devin.website
 kite.ibirthdayclub.com
 kite.oakes.software
 kite.zaahir.ca
+kitecredit.org
 kitefeather5.com
 kiteffect.top
 kitefoundation.claims
@@ -66705,6 +66875,7 @@ klanorge001.wpenginepowered.com
 klantendienstics.firebaseapp.com
 klantendienstics.web.app
 klantportaal-myp.com
+klappf.com.cn
 klar-gainluxplatform.com
 klar-syntra-app.com
 klar-trovenz.live
@@ -66748,6 +66919,7 @@ klas.news
 klas4.weebly.com
 klasbahisitesi.com
 klasbahisle.live
+klasd.com.cn
 klaser.com
 klassen.id
 klassickool.com
@@ -66896,7 +67068,6 @@ klient-35923.click
 klient-ereaders.gydteacnoo.cfolks.pl
 klient-na-balkon.ru
 klienta.sipksa.com
-klientaksooeoirver.net
 klientbros.net
 klientelv1.myclickfunnels.com
 klientevido.pages.dev
@@ -67158,6 +67329,7 @@ kmmgoogle.oss-ap-southeast-1.aliyuncs.com
 kmmhincmgdrme.space
 kmno-lend.com
 kmno.finance
+kmnotoken.live
 kmnts.com
 kmnyy.com
 kmoaxbgfquhch.site
@@ -67238,6 +67410,7 @@ knajeupzdxcyp.space
 knakplhtmqxzo.space
 knampkoltuduq.space
 knapp24.weebly.com
+knapperstaumer.cfd
 knapsackccedkhedive.info
 knaresboroughlane.eu
 kncturaxqdqog.online
@@ -69831,176 +70004,3 @@ kraken-7.com
 kraken-8-at.com
 kraken-accounts-loged-in.pages.dev
 kraken-accounts-logedin.pages.dev
-kraken-app.gitbook.io
-kraken-apps-login.pages.dev
-kraken-apps.firebaseapp.com
-kraken-apps.web.app
-kraken-balanced.epiccrypto.io
-kraken-cd-en-learn.daftpage.com
-kraken-cdn-learn.framer.ai
-kraken-chatbot-embed.pages.dev
-kraken-clone.vercel.app
-kraken-com.created.app
-kraken-com.pages.dev
-kraken-com.webflow.io
-kraken-corporate-website.pages.dev
-kraken-crypot.com
-kraken-darkmarkets.com
-kraken-darknet-onion-net.pages.dev
-kraken-darknet-onion-site.pages.dev
-kraken-darknet-site-xyz.pages.dev
-kraken-darknet-ssilka.info
-kraken-darknet-to.pages.dev
-kraken-darknet.cfd
-kraken-darknet.org
-kraken-darkshop.com
-kraken-darkweb.cc
-kraken-defi.live
-kraken-en-cdn.framer.ai
-kraken-en-us-sso.square.site
-kraken-en.com
-kraken-es.cc
-kraken-espana.es
-kraken-eu-login.pages.dev
-kraken-eulogin.pages.dev
-kraken-fees-calculator.github.io
-kraken-foundation-cc.pages.dev
-kraken-front-epc.pages.dev
-kraken-front-react.pages.dev
-kraken-gold-rush.com
-kraken-gold-rush.net
-kraken-hme.pages.dev
-kraken-home--web.framer.website
-kraken-home.pages.dev
-kraken-homee.pages.dev
-kraken-house.com
-kraken-insured.com
-kraken-io.created.app
-kraken-kinks.pages.dev
-kraken-klirnet-vhod.sbs
-kraken-kra38.net
-kraken-krab6.sbs
-kraken-kraken-zerkalo.com
-kraken-l0gin.webflow.io
-kraken-landing-page.pages.dev
-kraken-link2025.com
-kraken-log--in.pages.dev
-kraken-log-in.created.app
-kraken-log-in.weebly.com
-kraken-log-ing.pages.dev
-kraken-logd-in.pages.dev
-kraken-logen.godaddysites.com
-kraken-logged-in.pages.dev
-kraken-logi.framer.media
-kraken-logiin.webflow.io
-kraken-login-auth-sso.typedream.app
-kraken-login-cdns.tem3.io
-kraken-login-en-us.blogspot.com
-kraken-login-gro.meku.app
-kraken-login-ledgr.pages.dev
-kraken-login-page-edu.created.app
-kraken-login-portal-en-us.netlify.app
-kraken-login-us.daftpage.com
-kraken-login-us.pages.dev
-kraken-login-web.created.app
-kraken-login-web.wstd.io
-kraken-login.created.app
-kraken-login.framer.ai
-kraken-logina.webflow.io
-kraken-logini.blogspot.com
-kraken-loginn.webflow.io
-kraken-loginnus.webflow.io
-kraken-loginus.gitbook.io
-kraken-market-tor.com
-kraken-market.site
-kraken-marketplace.online
-kraken-mirror.top
-kraken-mirrors.cc
-kraken-mirrors.pages.dev
-kraken-offical.net
-kraken-official.cc
-kraken-official.top
-kraken-onion-darknet.com
-kraken-onion-site-com.pages.dev
-kraken-onion.cc
-kraken-onion2.com
-kraken-os.com
-kraken-pc.com.cn
-kraken-perehodnik.at
-kraken-plugins.com
-kraken-pro-signals.netlify.app
-kraken-proxy-server1.wepromo.ru
-kraken-qr-cc.pages.dev
-kraken-qr.cc
-kraken-recovery.com
-kraken-redesign-ivo-biaus-projects.vercel.app
-kraken-registratsiya4.online
-kraken-registratsiya4.ru
-kraken-review.com
-kraken-sait.icu
-kraken-sait.sbs
-kraken-sait1.online
-kraken-sait1.ru
-kraken-sayt.cc
-kraken-secure-cdn.framer.media
-kraken-secure-webs-io.webflow.io
-kraken-shop.vip
-kraken-shop24.com
-kraken-signup.pages.dev
-kraken-site-dark-net.pages.dev
-kraken-site-onion.com
-kraken-sitedark-net.pages.dev
-kraken-sitedarknet-net.pages.dev
-kraken-slon2-at.ru
-kraken-slon2-cc.ru
-kraken-sso-login.created.app
-kraken-ssylka-na-vhod.com
-kraken-ssylka-ru.ru
-kraken-ssylka-tor.kraken-ssylka.net
-kraken-ssylka.co.com
-kraken-ssylka.top
-kraken-start.framer.ai
-kraken-start.framer.media
-kraken-stat-logn.pages.dev
-kraken-support.pages.dev
-kraken-supportchat.kb.help
-kraken-telegram.cc
-kraken-telegrama.com
-kraken-topshop.com
-kraken-tor-darknet.info
-kraken-tor36.online
-kraken-verifizierung.com
-kraken-vhod2.online
-kraken-vhod9.online
-kraken-vhod9.ru
-kraken-vs-coinbase-fees.pages.dev
-kraken-wallet-login.typedream.app
-kraken-wallet.com
-kraken-wallet.net
-kraken-web-market.com
-kraken-web.pages.dev
-kraken-xfiles.pages.dev
-kraken-zerkalo.cfd
-kraken-zerkalo.click
-kraken-zerkalo4388.online
-kraken.7-elevencareers.com
-kraken.a-dex.cloud
-kraken.broker
-kraken.cc
-kraken.computeprovider.com
-kraken.creditcard
-kraken.daftpage.com
-kraken.everyonetech.com
-kraken.forex
-kraken.gazdesign.ro
-kraken.i2005.buzz
-kraken.klcloud.ru
-kraken.krakenportal-login.com
-kraken.mrdreix.dev
-kraken.msdesktop.nl
-kraken.pages.dev
-kraken.rambler.ru
-kraken.site
-kraken.tk
-kraken.world
-kraken0.cc
