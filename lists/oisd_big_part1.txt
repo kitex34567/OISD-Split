@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-08-19T20:34:22Z
-# Entries: 70,000 (of 273,270 total)
+# Updated: 2026-08-20T01:38:03Z
+# Entries: 70,000 (of 273,302 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -541,6 +541,7 @@
 0xtoken.io
 0xx6x17vnzwkwp2.s3-website-us-east-1.amazonaws.com
 0xzxwnkqdu.com
+0yfqg4qm0.com
 0yjeii25x4.com
 0yox-qau8bq4.wr8mhs.cfd
 0yu3bxtqv.com
@@ -2986,6 +2987,7 @@
 29ccd.v.fwmrm.net
 29dsasprosnowmeprona.za.com
 29rhino.go2cloud.org
+29ruu0q5p.com
 29s55bf2.de
 29trion.com
 29zle9rx4.com
@@ -4107,6 +4109,7 @@
 3y53ng.hbg.hebdenbridgedental.co.uk
 3ye.cc
 3yq51wjim.com
+3yst3w.skin
 3yx95kv3at.com
 3yz2-zjubz-zcus-wkv7fh-fnh.pages.dev
 3z1s91.angell.vantagetennis.com
@@ -7041,6 +7044,7 @@
 8ao8ao.com
 8armsstudio.com
 8b023d788d.com
+8b165878.pinme.dev
 8b1b.com
 8b317a773b.com
 8b3439.r.axf8.net
@@ -9608,6 +9612,7 @@ acceptguide.com
 acceptormytilus.life
 acceptway.com
 accerobiosis.info
+accersetazzas.cyou
 acces--tomy--account-com.translate.goog
 acces-client-91408.web.app
 acces-compte.fr
@@ -16312,6 +16317,7 @@ africanmango.info
 africanmango.pl
 africanpotsandspices.live
 africanroyaltyfragrance.de
+africantraditionalhealing.co.za
 africantrails.co.tz
 africanuniversitydirectory.org
 africanwealthsystem.click
@@ -18322,6 +18328,7 @@ aldi.nyqvek.shop
 aldi.oilwassde.shop
 aldi.ornrix.shop
 aldi.pelviro.shop
+aldi.quilero.shop
 aldi.renmora.shop
 aldi.retvane.shop
 aldi.retvento.shop
@@ -18373,6 +18380,7 @@ aldiesshop.com
 aldieu.alcorintobuy.shop
 aldieu.alcorvanniceday.shop
 aldieu.amberquoniceday.shop
+aldieu.anterahub.shop
 aldieu.ardelintobuy.shop
 aldieu.ardelvixniceday.shop
 aldieu.ashmorenniceday.shop
@@ -18390,10 +18398,15 @@ aldieu.ceramorniceday.shop
 aldieu.ceranohub.shop
 aldieu.cerolantobuy.shop
 aldieu.cindarvexniceday.shop
+aldieu.clavisahub.shop
 aldieu.corlunixniceday.shop
 aldieu.daelquorniceday.shop
+aldieu.damerahub.shop
+aldieu.delisohub.shop
 aldieu.delvirotobuy.shop
+aldieu.dovarahub.shop
 aldieu.dravonahub.shop
+aldieu.drummaker.shop
 aldieu.dunoraltobuy.shop
 aldieu.dynterahub.shop
 aldieu.dyverintobuy.shop
@@ -18459,11 +18472,15 @@ aldiuk.alderbypantry.shop
 aldiuk.briarfordgrocer.shop
 aldiuk.briarfordmarket.shop
 aldiuk.briarfordmart.shop
+aldiuk.briarfordpantry.shop
+aldiuk.carrickbasket.shop
 aldiuk.carrickgrocer.shop
+aldiuk.carrickpantry.shop
 aldiukstore.vanessamurphy.net
 aldius-fine.primevalellc.com
 aldius-market.fahionprinwated.com
 aldius-market.plthsadaoyroly.com
+aldius-market.solantrixfishing.com
 aldius-market.urbandenimlab.com
 aldius-shop.crispcollar.com
 aldius-shop.yewsheft.com
@@ -19424,6 +19441,7 @@ allegrolokalnie.oferta7432716.rest
 allegrolokalnie.oferta77863068.shop
 allegrolokalnie.oferta7979848.click
 allegrolokalnie.oferta81739283829377320.shop
+allegrolokalnie.oferta825791.click
 allegrolokalnie.oferta828331pl.click
 allegrolokalnie.oferta83624561.rest
 allegrolokalnie.oferta841818.click
@@ -21548,6 +21566,7 @@ analyticcdn.wlmediahub.com
 analytics-1.cavai.com
 analytics-api-s.cloudinary.com
 analytics-api.a-f.io
+analytics-api.byub.org
 analytics-api.gemcommerce.com
 analytics-api.invideo.io
 analytics-api.klickly.com
@@ -21684,6 +21703,7 @@ analytics.bomiv.com
 analytics.brave.com
 analytics.brunch.co.kr
 analytics.businessinsider.com
+analytics.byub.org
 analytics.byupw.org
 analytics.callbell.eu
 analytics.carbaselive.com
@@ -22032,6 +22052,7 @@ analytics.sutochno.ru
 analytics.sve.cc
 analytics.t-mobile.com
 analytics.tactilews.com
+analytics.talentegy.com
 analytics.tango.me
 analytics.tapsi.cab
 analytics.tebilisim.com
@@ -22208,7 +22229,6 @@ anatomytrains.co.uk
 anatrace-covid.com
 anatravel.club
 anattospursier.com
-anatumdezincallured.qpon
 anayajiun2.shop
 anayajiun8.shop
 anazon2-aws.xyz
@@ -22427,6 +22447,7 @@ anelerheen.top
 anemurionhotel.com
 aneorwd.com
 aneraye.info
+anergiamabble.shop
 anesopar.com
 anetwork.ir
 anewbornmama.com
@@ -22593,6 +22614,7 @@ animeplaynow.com
 animepoll.com
 animerunkkari.net
 animes-sama.fr
+animesalt.link
 animesvost.ru
 animevideo.org
 animi2.com
@@ -32306,7 +32328,6 @@ bakteso.ru
 bakuronelai.shop
 bakuroneltrade.com
 bakyayljzhoga.online
-balaamstoppleimams.cyou
 balabass.peerserver.com
 baladna-fs.com
 balaentpr.com
@@ -39130,7 +39151,6 @@ bleachscarecrow.com
 bleak-afternoon.com
 bleak-yard.com
 bleakcorrespondence.com
-blearyganevreveler.cfd
 bleaterpolys.com
 bleatstringinch.com
 bledr0nkaplsale.shop
@@ -43495,7 +43515,6 @@ browbeatcaramelstole.com
 browhutsalon.com
 browinner-fr.fr
 browinnercasinos.fr
-browispenup.com
 brown-about-town.com
 brown-cry.com
 brown-wake.pro
@@ -43871,6 +43890,7 @@ bss.pandora.xiaomi.com
 bsseefcakessubgoal.info
 bssgnowkrcjpm.online
 bsshoucang.com
+bssnawfjqstev.space
 bsswift.com
 bst-werkzeuge.de
 bst.jhotpot.com.bd
@@ -46541,6 +46561,7 @@ c8j5lf.lat
 c8q27tqnaw.com
 c8y.crazyporn.xxx
 c9.statcounter.com
+c918sslye.com
 c921a8d3e5.com
 c92a8a2de1.a0d3dd0c89.com
 c950.chronicle.com
@@ -49599,7 +49620,6 @@ casstastrophe.com
 cast-happen.uncrn.co
 cast.imp.joins.com
 cast.wow.xxx
-castanarodlike.com
 castanerchaussures.fr
 castanerfrance.fr
 castee.com
@@ -50646,6 +50666,7 @@ cdn.metalocator.com
 cdn.metricastats.com
 cdn.metrike.com
 cdn.metriscope.com
+cdn.mgln.ai
 cdn.mnmnck.com
 cdn.mobsocmedia.com
 cdn.moengage.com
@@ -51366,7 +51387,6 @@ cenont.xyz
 cenoobi.run
 cenorawalletsystem.com
 cenoutlet.shop
-censingshlocks.cfd
 censor.be
 censorcapital.com
 censorwealth.com
@@ -52846,7 +52866,6 @@ cheerfullysoldier.com
 cheerfultell.pro
 cheerlessrelationswearisome.com
 cheeroredraw.com
-cheerosexuvium.cfd
 cheerrful.info
 cheersdeerpawn.com
 cheersuper.com
@@ -56411,6 +56430,7 @@ cm1b7jfz.xyz
 cm2.adform.net
 cm280896.tw1.ru
 cm3.adform.net
+cm30oc1du.com
 cm5f7k6.hair
 cm88-km.com
 cm88-mobi.com
@@ -69984,23 +70004,3 @@ delyronai.live
 delyrontrade.com
 demagic009.duckdns.org
 demaingroup.com
-demainseralemeilleur.firebaseapp.com
-demainseralemeilleur.web.app
-demaldefaces.top
-demand-delivery-275522.df.r.appspot.com
-demand.supply
-demandbase.com
-demande-horaire.com
-demandedaccolade.com
-demandedelogement31.fr
-demandedgiven.com
-demandedhalfmoon.com
-demandedrucksackprivate.com
-demandedwhatmadman.com
-demandeesta.fr
-demandify.com
-demanding-flight.com
-demanding-season.com
-demandingoverdriveunthread.com
-demandinquire.com
-demandrefreshment.com
