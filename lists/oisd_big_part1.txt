@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-09-03T03:59:10Z
-# Entries: 70,000 (of 269,589 total)
+# Updated: 2026-09-03T14:17:39Z
+# Entries: 70,000 (of 269,802 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -131,6 +131,7 @@
 014uu.com
 015ea24446.com
 016.ru
+0162advanced-technologythbbhxwfacth.gpirnfras.vu
 0171pjx5q.com
 0180info.de
 0190-dialer.com
@@ -458,6 +459,7 @@
 0m4.ru
 0m9mjmrd.top
 0maiqxb32q8va1yc.org
+0mkeb9vth.com
 0mvc-dcdv.weebly.com
 0mx8cbge.fa1xbet.vip
 0n.click
@@ -3536,6 +3538,7 @@
 344d12bc9b.com
 345.biz
 34534466.weebly.com
+34589.weebly.com
 345hc.com
 345l5yutmz7lu5pbuqy17umn1m.cfd
 34634634.com
@@ -5531,6 +5534,7 @@
 60112501-dot-sydneyma.appspot.com
 603b61d91d.com
 6058.bapi.adsafeprotected.com
+605abezk8.com
 60608787.com
 6060instruments.net
 6063.bapi.adsafeprotected.com
@@ -9077,7 +9081,6 @@ abond.net
 abondance.blog
 abongorigid.cyou
 abonne100.free.fr
-abonnement-iptvfrance.fr
 abonnement-iptvpremium.fr
 abonnement-secure.fr
 abonnement-smartersiptv.fr
@@ -12328,6 +12331,7 @@ addc.dcinside.com
 addded.com
 adde-ede33.web.app
 addealsnetwork.com
+addebstenc.store
 added-recipient-security.firebaseapp.com
 added-recipient-security.web.app
 addednov4th.ddns.net
@@ -16636,6 +16640,7 @@ agrantsem.com
 agrarbedarfshop.com
 agrariancapable.com
 agrariansabletogether.com
+agrau.aii.sh
 agrawalpackersmovers.com
 agrbyslxnivin.website
 agreatbeauty.com
@@ -18178,6 +18183,7 @@ aldi-uk.sterlingaisle.shop
 aldi-uk.sterlingbasket.shop
 aldi-uk.sterlingmarket.shop
 aldi-uk.sterlingmart.shop
+aldi-uk.sterlingpantry.shop
 aldi-uk.sterlingshelf.shop
 aldi-uk.tython.shop
 aldi-uk.wython.shop
@@ -18207,9 +18213,11 @@ aldi.basketly.shop
 aldi.belvito.shop
 aldi.briarfenmart.shop
 aldi.brookdenmart.shop
+aldi.cedarbymart.shop
 aldi.corveto.shop
 aldi.demlora.shop
 aldi.dorwickmart.shop
+aldi.driftwickmart.shop
 aldi.grocerydepot.shop
 aldi.helvado.shop
 aldi.hervado.shop
@@ -18289,6 +18297,7 @@ aldimall-uk.com
 aldimalluk.world
 aldimart.keldostore.shop
 aldimart.kelromart.shop
+aldimart.nivdomart.shop
 aldimart.norvistore.shop
 aldimart.novymart.shop
 aldimart.ortrimart.shop
@@ -18313,14 +18322,17 @@ aldiuk-gd.echoapparelllc.com
 aldiuk-gd.techpulseretail.com
 aldiuk-good.sageclothllc.com
 aldiuk-market.crosbyvista.com
+aldiuk-market.ltozzer.com
 aldiuk-market.stylecoveretail.com
 aldiuk-market.talivollc.com
 aldiuk-market.velonovaa.com
 aldiuk-store.animefoggellc.com
 aldiuk-store.ashcroftvelocity.com
 aldiuk-store.cparsons9.com
+aldiuk-store.ironbridgenova1994.com
 aldiuk-store.thegiftinghavenllc.com
 aldiuk-store.vernixlabsllc.com
+aldiuk-store.zaninkajewelry.com
 aldiuk.alderbybasket.shop
 aldiuk.alderbymart.shop
 aldiuk.alderbypantry.shop
@@ -19058,6 +19070,7 @@ allegro.oferta828331pl.click
 allegro.ororo29955.pl
 allegro.pl.showitems.it
 allegro.platnosc-blik.pl
+allegro.pryi40-23gf2.casa
 allegro.prywan39100.pl
 allegro.prywane893200.casa
 allegro.prywna71812.best
@@ -21321,6 +21334,7 @@ analytics-api.sconto.cz
 analytics-api.smzdm.com
 analytics-api.statvoo.com
 analytics-api.vanceai.com
+analytics-assets.tes.com
 analytics-batch.blitz.gg
 analytics-beacon.p.uliza.jp
 analytics-ccu.qpyou.cn
@@ -21932,6 +21946,7 @@ analyzeunsettled.com
 anamaembush.com
 anamascaro.shop
 anamfxbot.ir
+anamodeosp.store
 anamuel-careslie.com
 anamurkastur.com
 anandabhutan.com
@@ -23198,6 +23213,8 @@ apcdoxiqxiote.space
 apcdp.apnews.com
 apcdubai.com
 apcfrance.fr
+apcoaplatnosc.click
+apcoaplatnosc.sbs
 apcognesykiyw.website
 apcoi.com
 apd-pcdnwxlogin.teg.tencent-cloud.net
@@ -23339,6 +23356,7 @@ api-data-1234-s3-region-amazonaws-user.dayspring-store.com
 api-data-contacts-digitals-vu-configurations-region-amazonaws.adjustapost.com
 api-data-contacts-digitals-vu-configurations-region-amazonaws.asusboards.com
 api-data-contacts-digitals-vu-configurations-region-amazonaws.blogwogin.com
+api-data-contacts-digitals-vu-configurations-region-amazonaws.defilecafe.com
 api-data-contacts-digitals-vu-configurations-region-amazonaws.dotnetspurt.com
 api-data-contacts-digitals-vu-configurations-region-amazonaws.dvdunlocker.com
 api-data-contacts-digitals-vu-configurations-region-amazonaws.mizzworthy.com
@@ -23777,6 +23795,7 @@ aplizz.net
 apll.org
 aplle.com
 aplniq.com
+aplphnpl-1.pages.dev
 aplpmvfnyoxji.space
 aplsolutionsonline.com
 aplus.alibaba.com
@@ -24173,6 +24192,7 @@ app.shopeneo.network
 app.simpleswap.financial
 app.simplified.com
 app.subiz.com.vn
+app.supportblueaccountappealbusiness.cfd
 app.symphoniabags.com
 app.systems-medfiles.com
 app.tanwan.com
@@ -25811,6 +25831,7 @@ arohiglobal.com
 arojyte.com
 aromaexplode.com
 aromamirror.com
+aromikapoland.com
 arongroups.co
 aronkutabaro.desa.id
 arontrade.live
@@ -26198,6 +26219,7 @@ arzaeterna.com
 arzzapaimaspusillanimities.info
 as-98polska.com
 as-api.whitecoatinvestor.com
+as-budowa.com
 as-datareceiver.aki-game.net
 as-i4.com.cn
 as-ttd.jivox.com
@@ -28168,6 +28190,7 @@ auraxalvera-fr.fyi
 auraxalvera.com
 auraxapp-fr.fyi
 auraxapp.net
+auraxcore92.org
 auraxcore92.pro
 aurcore.pro
 aureainvexus-soft.com
@@ -28952,6 +28975,7 @@ avanmarket.webflow.io
 avanpichincha12.webcindario.com
 avanproplat.digital
 avant-garde-casino.fr
+avanta-02.pages.dev
 avantages-inoui.com
 avantages-tgv.com
 avantcase.com
@@ -30156,6 +30180,7 @@ b2aepx.fit
 b2b-crypto.com
 b2b.genethairsalon.com
 b2b719b22c.com
+b2bfzb.cfd
 b2bmerchant.online
 b2bpin.com
 b2bvideo.ru
@@ -30327,6 +30352,7 @@ b9knxd.fit
 b9nsqf.fit
 b9nsqf.work
 b9nsqf.xin
+b9tk.vy8xkb.sbs
 b9xvkw.fit
 ba.afl.rakuten.co.jp
 ba.commentcamarche.net
@@ -33374,6 +33400,7 @@ bbxq-ve64ntjaah2r1ec.s3.us-east-1.amazonaws.com
 bbxqxbn.com
 bbyoktrreb.com
 bbysf.sm188login.cyou
+bbytakgwashdp.online
 bbyyqitxuplnz.site
 bbzassociates.com
 bbzimbra.weebly.com
@@ -35316,6 +35343,7 @@ betamina.fr
 betamo-casino.fr
 betamo1.fr
 betamocasino.fr
+betamountwo.com
 betandplay-casino.fr
 betandplay.fr
 betandplaycasino.fr
@@ -37946,6 +37974,7 @@ bitwexv3gpt.live
 bitwexv3gpttrade.com
 bitwin-casino.fr
 bitwincasino.fr
+bitwiseanorn.cyou
 bitwisebeats.com
 bitwizevofortsystem.com
 bitwor.com
@@ -38174,6 +38203,7 @@ bjmyjrpjqqeep.com
 bjn-mail.cloud
 bjnstrujhqmna.space
 bjntd.net
+bjoblfbaldpzj.site
 bjon2v.blow.harrisretreat.com
 bjorkavkastholm.net
 bjorkfenstadden.info
@@ -39904,6 +39934,7 @@ bogeyedoutbye.com
 bogeysauf.shop
 bogfernboopis.shop
 bogged-finance.github.io
+bogi-dekoracja.com
 bogiruy.com
 bogisibh.xyz
 bogledpavins.shop
@@ -40154,6 +40185,7 @@ bondfondif.com
 bondijunction.physio
 bondingcahoot.qpon
 bondjade.suruta.com
+bondleveltra.site
 bondmere-ai.com
 bondmereapp.com
 bondoratrade.com
@@ -42496,6 +42528,7 @@ brillofondazgo.net
 brilswift-es.fyi
 brim-fix.com
 brim-wealth.com
+brimalto.com
 brimax-edge.pro
 brimax-edgesoftware.com
 brimaxedge-ai.fyi
@@ -42750,6 +42783,7 @@ brobizz9685846.wpenginepowered.com
 brobstubboy.cfd
 brocaez.club
 brocardcored.com
+broccasses.store
 brochanloomer.cfd
 brochfanons.com
 brochopalling.cfd
@@ -44970,6 +45004,7 @@ butikbondia.com
 butikela.com
 butikmaria.com
 butikyaya.pl
+butlecarina.cfd
 butlerparts.com
 butlerrecast.com
 butleruther.cyou
@@ -45845,6 +45880,7 @@ c2mxpr.fit
 c2s.startappnetwork.com
 c2shb.pubgw.yahoo.com
 c2shb.ssp.yahoo.com
+c2vodqlmy.com
 c2y82fkyv.com
 c3.myapkcdn.in
 c3.statcounter.com
@@ -47233,6 +47269,7 @@ capathluno.com
 capawhile.com
 capaxbelamy.qpon
 capaxpartners.com
+capbienvivreinnovative-gparcctbmcvv.gpirnfras.vu
 capbit-ai.live
 capbit.shop
 capbittrade.com
@@ -47812,6 +47849,7 @@ carinsurancebenefit.com
 carinsurancemall.com
 carinus.iad-03.braze.com
 cariofeiyan.com
+cariouscotys.qpon
 caririlawmen.com
 carisatamanac.shop
 carisoprodol.polybuild.ru
@@ -51607,6 +51645,7 @@ chalnilst.site
 chalondeacons.com
 chalx.live
 chalybscapital.com
+chalybstrade.com
 chamanes.org
 chamberbeat.click
 chambercalibrationservices.com
@@ -54890,6 +54929,7 @@ clientlog.midomi.com
 clientlog.music.163.com
 clientlog.perfectworldgames.com
 clientlog.pwsdk.com
+clientlog.wanmei.com
 clientlog3.music.163.com
 clientlogdep.music.163.com
 clientlogger.marketplace.aws.a2z.com
@@ -55401,6 +55441,7 @@ cloudtop.digital
 cloudtrack-camp.com
 cloudtraff.com
 cloudtransfer.store
+cloudtransit.site
 cloudtreeviewrk.pro
 clouduo.co
 cloudvault.live
@@ -56342,6 +56383,7 @@ codzcuagowz.com
 codziennaokazja.shop
 codzienneecho.convertri.com
 codzienneekspres.convertri.com
+codzienneinformacje.site
 codziennepl.info
 codziennetlo.top
 codzienniegdzies.top
@@ -59678,6 +59720,7 @@ coronawunderkind.com
 coronetbaying.cyou
 coroshaglensi.com
 coroventari.com
+corozosaims.qpon
 corp.hunantv.com
 corp.meitu.com
 corporacionwolozny.info
@@ -61099,6 +61142,9 @@ cpcontacts.4-149-9-56.cprapid.com
 cpcontacts.78-31-250-41.cprapid.com
 cpcpcpcmailllall.weebly.com
 cpdliftbamsxxo.com
+cpdpaet.cfd
+cpdpaet.sbs
+cpdpaet.skin
 cpdqvdvmwlnyq.site
 cpdsmart.com
 cpdvillousreyoke.qpon
@@ -66267,6 +66313,7 @@ daglezja-wycinkadrzew.pl
 dagobaoaf.qpon
 dagospecify.cfd
 dagqufla.com
+dagrasso.mom
 dagroupindia.com
 daguogroup.com
 dagutinkh.com
@@ -68059,6 +68106,7 @@ de9138023.web.app
 de9a16fesnda8m2ntsulph40uurstre1namp.com
 dea21aeefc.com
 dea9webxhb7gu.cloudfront.net
+deabbmojtqnub.online
 deabrrtkyiibk.site
 deacthlon.fr
 dead-put.com
@@ -68401,10 +68449,12 @@ decoydeclaration.com
 decoysesame.com
 decpo.xyz
 decreasedsupply.click
+decreconve.store
 decreeinabilityrowing.com
 decristo.org
 decryptionjunior.com
 decsan.com
+decursucid.store
 deczthlon.fr
 ded198a06d.com
 ded4766.inmotionhosting.com
@@ -68707,6 +68757,7 @@ deichmandeoutlets.com
 deichmanndeonline.com
 deichmanndeoutlets.com
 deichmannsell.top
+deichmanoutletsde.shop
 deicidetwos.com
 deidreglaser.shop
 deidrekreuz.com
@@ -69953,54 +70004,3 @@ deuzanreface.cfd
 dev-6byd9.firebaseapp.com
 dev-6byd9.web.app
 dev-7614646544.pantheonsite.io
-dev-adjacent37.pantheonsite.io
-dev-analytics-cf.bigcrunch.com
-dev-apigw.samsungdmroute.com
-dev-arubaaorange.pantheonsite.io
-dev-bhdseguremain.pantheonsite.io
-dev-drfgodwi.pantheonsite.io
-dev-js-cdn.cfd
-dev-lab-452.s3.ap-northeast-2.amazonaws.com
-dev-multichainsapproved.pantheonsite.io
-dev-pgclaim.pantheonsite.io
-dev-site.ovh
-dev-south-carolina-dept-of-education-g0-v.pantheonsite.io
-dev-spotifypremiumupdate.pantheonsite.io
-dev-test-hub.altamontagna.in.net
-dev-test-unit.grossesystem.in.net
-dev-tokyotechie.com
-dev-tronlink-home.zapier.app
-dev.a-t-martialarts.com
-dev.bharmalsystems.net
-dev.blendup.xyz
-dev.casaderincon.com
-dev.comstockcompanies.com
-dev.cryptobara.com
-dev.esteghlal.news
-dev.fiorin.app
-dev.gci.exoret.com
-dev.hooliv.com
-dev.ip.organica.tv
-dev.iyuba.cn
-dev.klinikmatanusantara.com
-dev.laborsourceoftexas.com
-dev.m3e-gmbh.com
-dev.metallonova.hu
-dev.mfood.ca
-dev.mkt.exoret.com
-dev.monalisaod.net
-dev.psuade.co.uk
-dev.runtimeflow.net
-dev.rushtaxresolution.com
-dev.smartshopmanager.com
-dev.tbllprem.com
-dev.tg.wan.360.cn
-dev.useimage.sbs
-dev.visualwebsiteoptimizer.com
-dev.voicecloud.cn
-dev1-eronis.poweredbywasabibeta.com
-dev2.kitchensignal.click
-dev2.usis.in
-dev2pub.com
-dev5.mypagevn.com
-dev5245465.de
