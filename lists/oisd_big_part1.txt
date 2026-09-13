@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-09-13T14:12:21Z
-# Entries: 70,000 (of 245,477 total)
+# Updated: 2026-09-13T22:16:16Z
+# Entries: 70,000 (of 245,621 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -462,6 +462,7 @@
 0nyzdw2maq.com
 0o-ylx-cfg-kire6.j5qfgz.casa
 0oi1ej7mo.com
+0olix-feya6.k9yogs.qpon
 0on.org
 0oo9j37xp.com
 0otmh22aj2.com
@@ -3692,6 +3693,7 @@
 3j0pw4ed7uac-a.akamaihd.net
 3j4vjpx7k.com
 3j8c56p9.de
+3je7e5t.hair
 3k2frl8r79.com
 3k8.cc
 3kingclub.com
@@ -4879,6 +4881,7 @@
 5812afc7cb.com
 5815613.click
 582971756703458-dot-wetransfer-auth-file-344.appspot.com
+583412.lat
 5853f04e7c.83c6db1e10.com
 5868182.club
 58686728.xyz
@@ -6336,6 +6339,7 @@
 84556.vip
 846.move7.com
 847271.lol
+847721.lat
 847foci.com
 847h7f51.de
 84998041.xyz
@@ -6352,6 +6356,7 @@
 855454510415454.hyperphp.com
 8567118.com
 8567338.com
+8567345.lat
 8567558.com
 8567988.com
 8567998.com
@@ -9229,6 +9234,7 @@ acct-redstnef1x.weebly.com
 acct-signinnow.firebaseapp.com
 acct-signinnow.web.app
 acctz.com
+accucunamu.store
 accueil-banque-france.fr
 accueil-ededoc.weebly.com
 accueil-notairedebelgiquefednot.weebly.com
@@ -15582,6 +15588,7 @@ agalumineonr.com
 agam-rouge.vercel.app
 agametesoally.shop
 agamgreetingscom.112.2o7.net
+agamichios.store
 agaogluconcept.com
 agapehospicenw.com
 agapikachua.com
@@ -18034,6 +18041,7 @@ allegemagnanimityensue.com
 allegianceenableselfish.com
 allegiancegoldfish.com
 allegiantcare.com
+allegr0.com
 allegro-lokalnie.12913920h4.shop
 allegro-lokalnie.187239120-h0192.shop
 allegro-lokalnie.18939120h54j565.shop
@@ -18069,6 +18077,7 @@ allegro.12012309h485.beer
 allegro.1209h845812.buzz
 allegro.12301028g.qpon
 allegro.1230129h766.rest
+allegro.1231230h8h5.beer
 allegro.1231236kk.buzz
 allegro.1239120-h120.surf
 allegro.12398348g.qpon
@@ -18090,6 +18099,8 @@ allegro.2836329394730822598.click
 allegro.288b8g76.cam
 allegro.2992ghohgoho.cam
 allegro.3029g99g.pl
+allegro.309129128h7546.beer
+allegro.32120319hh57.mom
 allegro.3299g88g2909.pl
 allegro.34t873784.click
 allegro.38128y9349182.qpon
@@ -18148,10 +18159,12 @@ allegro.petnwa2181929.study
 allegro.pl.showitems.it
 allegro.platnosc-blik.pl
 allegro.pre8213745hj475.skin
+allegro.prftanwm238129.cfd
 allegro.prowar8u237h45.cfd
 allegro.proy5283hh.help
 allegro.pry437823919.rest
 allegro.pry5nmm6798.buzz
+allegro.pry84327h45.help
 allegro.pryi40-23gf2.casa
 allegro.pryo4j34nm34889.skin
 allegro.prywan31278129.me
@@ -18159,6 +18172,7 @@ allegro.prywan39100.pl
 allegro.prywane893200.casa
 allegro.prywanm4328239.rest
 allegro.prywanm543823901.beer
+allegro.prywanrm2388129.beer
 allegro.prywant8391020.study
 allegro.prywatnem1982875h7.rest
 allegro.prywean8329120h5.study
@@ -18179,6 +18193,7 @@ allegro.smart054894854821.shop
 allegro.smart823912.pics
 allegro.smart82911284.bond
 allegro.smart8342819gg.best
+allegro.smart8437329129.buzz
 allegro.smart8923800.pl
 allegro.smart91287129312.study
 allegro.smart939200.pl
@@ -18235,9 +18250,11 @@ allegrolokalnie.8588912591.click
 allegrolokalnie.8897587181.click
 allegrolokalnie.894129019041.click
 allegrolokalnie.9125125.click
+allegrolokalnie.983123.lat
 allegrolokalnie.98oferta3846zxe399.forum
 allegrolokalnie.ab776123121.click
 allegrolokalnie.com-ogloszenie-18339662-dla-ciebie.click
+allegrolokalnie.dk-oferta832954.sbs
 allegrolokalnie.dk-produkt392584.sbs
 allegrolokalnie.eu-ogloszenie-nr-30291203-kup.online
 allegrolokalnie.eu-ogloszenie-priv-039212-kup.online
@@ -18263,6 +18280,7 @@ allegrolokalnie.lokala-ofera91.shop
 allegrolokalnie.lokala-ofera9101.sbs
 allegrolokalnie.lokalna-382.shop
 allegrolokalnie.lokalna-49843.cc
+allegrolokalnie.lokalna-83731.lol
 allegrolokalnie.lokalna-ofera190121.live
 allegrolokalnie.lokalna-ofera634002.shop
 allegrolokalnie.lokalna-ofera89348348.shop
@@ -18382,7 +18400,6 @@ allegrolokalnie.pl-aukcja74285912.surf
 allegrolokalnie.pl-checkout72813.com
 allegrolokalnie.pl-dk76436.lol
 allegrolokalnie.pl-firmowe-28491.click
-allegrolokalnie.pl-nd0produkty0277259162.sbs
 allegrolokalnie.pl-nd3produkty584358735.lol
 allegrolokalnie.pl-oferta-3465923.shop
 allegrolokalnie.pl-oferta-3859645.shop
@@ -19902,6 +19919,7 @@ ampiogestivora-it.com
 ampiogestivora.live
 ampiogestivora.net
 ampla-tesouros.pro
+amplatesouros-shop.pages.dev
 amplatesours.com
 ample-eparature-app.com
 ample-eparature.me
@@ -30797,6 +30815,7 @@ barredilol.store
 barreeaulu.weebly.com
 barrelcider.com
 barrellab.com
+barrelsgorce.shop
 barrelu.weebly.com
 barren-theory.com
 barrenlyvitalizgged.info
@@ -30854,7 +30873,6 @@ basedate.formaloo.co
 basededadooss.weebly.com
 basedow-bilder.de
 basegaugebase.com
-basegpinecone.mgsaraburi.com
 baseindia.org
 baseinvexus-ai.live
 baseinvexus.live
@@ -31166,7 +31184,6 @@ baywin.fr
 baza.com
 baza.life
 bazamodov.ru
-bazasvo2026.vercel.app
 bazavento.shop
 bazdoufap.blogspot.com
 bazecoin-extnsn.framer.ai
@@ -33694,6 +33711,7 @@ bghyty.firebaseapp.com
 bghyty.web.app
 bgjhy.com
 bgjsj.com
+bgjswxiwaocng.website
 bgjylr.icu
 bgkuoiryzvhni.site
 bglobpevpgexwb.weebly.com
@@ -34896,6 +34914,7 @@ bisque-cummerbund.shop
 bisque-encounter-302034.framer.app
 bisrtb.vidazoo.com
 bissellfrance.fr
+bissohidel.store
 bistadaka.com
 bistechai.net
 bistershoaxers.qpon
@@ -37208,6 +37227,7 @@ bogstocking.com
 boguspumprancorous.com
 bogussleep.com
 bogustrouble.com
+bohats-fondi-pro.pages.dev
 bohats-fondi.pro
 bohcgusfdrmyt.site
 boheasveikkner.info
@@ -38208,6 +38228,7 @@ boutiquerenault.fr
 boutiquerenaultsport.fr
 boutiquerugbyfrance.fr
 boutiqueugg.fr
+boutmewasobea.org
 boutomeeshaul.com
 boutonid.weebly.com
 bouttiqueoffresetpromotionsfr.fr
@@ -41489,6 +41510,7 @@ bunlorad.web.app
 bunniesnymphly.com
 bunningscapple.com
 bunnyassetsworn.com
+bunotomeani.me
 bunqsupport.fr
 bunterstil.com
 bunth.net
@@ -42071,6 +42093,7 @@ bwstatistics.sapoapps.vn
 bwsxt.com
 bwttasdajpduj.site
 bwtubspjogxsz.space
+bwujbxxjgxvid.website
 bwvclmzi.shop
 bwvejoul.shop
 bwvffebbohhiv.site
@@ -42136,6 +42159,7 @@ bxwvk2ggv3.com
 bxwwtoeemvgrq.website
 bxwzg.com
 bxxeefeaters.info
+bxxezjolkze.com
 bxxlfsdyftsxt.online
 bxyaqdyougmac.website
 bxynquktjxiqi.website
@@ -43629,6 +43653,7 @@ candyspinz-casino.fr
 canekilttantrum.com
 canellasproteccio.de
 canellecrazy.com
+canesdigro.store
 canesfederalnewspapers.com
 canette.6n2bmf.info
 canetworkgunit.com
@@ -45756,6 +45781,7 @@ cavertonixai.live
 cavetocloud.com
 cavetocloud.org
 cavewrap.care
+caviacintu.store
 cavilsunprggincipledness.info
 cavinoreliva.com
 cavirtualbearn.com
@@ -45779,6 +45805,7 @@ cawauwhod.top
 cawfwcxxaacdg.site
 cawinocasino.fr
 cawmzx.com
+cawnvauitt.lovable.app
 caworldbulletin.com
 caworlddigest.com
 caworldfocus.com
@@ -49713,8 +49740,10 @@ cjlllc.com
 cjlmffavyoprm.site
 cjlog.com
 cjlph.com
+cjlucxihmjhif.space
 cjmemifmchtrlkp.com
 cjmrkbbc1i.com
+cjmtydddutfcj.space
 cjncpwlbxitpf.website
 cjnjr.com
 cjoach.com
@@ -55215,6 +55244,7 @@ corthiqemberaiapp.net
 corthiqemberaisystem.com
 cortiere.it
 cortinegyral.cfd
+cortnfirm.lovable.app
 corto.www.wp.pl
 cortzone.org
 corunusa.com
@@ -58203,6 +58233,7 @@ cryvonsignal.net
 cryvonsignal.org
 cryvstormnettrade.com
 cryweb.github.io
+cs-dinges.de
 cs-feige.iqiyi.com
 cs-gifts.pro
 cs-gra.pl
@@ -64574,6 +64605,7 @@ deuteranomooalywinsomely.business
 deutkaptrade.de
 deutsche-ki-app.com
 deutsche.rentenversicherungportal.com
+deutschealgorex-digital.pages.dev
 deutschealgorextrade.de
 deutschebankag.fr
 deutschersammlerschatz.com
@@ -66719,7 +66751,6 @@ divas-pin.fr
 divasluck-fr.fr
 divasluck.fr
 divaspin-casino.fr
-divaspin-com.fr
 divaspin-fra.fr
 divaspin-france.fr
 divaspincasino-fr.fr
@@ -67412,6 +67443,7 @@ dnnstream.tns-cs.net
 dnnxq2b16.com
 dnolpangbhme.net
 dnonznoautndl.online
+dnosyvngti.com
 dnot.sh
 dnps.com
 dnpz123.com
@@ -68101,6 +68133,7 @@ domkinawyspie.nspace.pl
 domkrat.com
 domlavi.shop
 domlux.shop
+dommainfitt.eu.cc
 dommarzen.shop
 dommb22mbr.com
 dommeble.com
@@ -69971,36 +70004,3 @@ dtcc-covid.biz
 dtcc-covid19.biz
 dtcccoronaprevention.biz
 dtcccoronavirus.biz
-dtcccovid-19prevention.biz
-dtcccovid19.com
-dtcccovid19prevention.biz
-dtccovid.biz
-dtch.brunel.nl
-dtcollect.newsbang.com
-dtdjhb.icu
-dtdkf.com
-dtdn.cn
-dteam.pro
-dtechnic.com
-dteeiuhfius.pro
-dtent.povvverz.one
-dtesf2.cl
-dtetteinne.weebly.com
-dtfcuvyiu.yolasite.com
-dtfstr-74056.firebaseapp.com
-dtfstr-74056.web.app
-dtfxzgjgjiooq.website
-dtfyngnygjoai.website
-dthfwbykakuby.online
-dthhxxpkppevtg.net
-dthrgy.nt.nativetrees.co.uk
-dtibgbtfoitnv.store
-dtibxkenzotu1k-xw3rs.s3.us-east-1.amazonaws.com
-dtindrofe.com
-dtipgifts.com
-dtiserv2.com
-dtjal7b1f.com
-dtjpteyyxgmj.com
-dtjxc.com
-dtkxd.com
-dtm.ashleyhomestore.ca
