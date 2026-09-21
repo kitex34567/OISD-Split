@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-09-20T22:19:07Z
-# Entries: 70,000 (of 246,489 total)
+# Updated: 2026-09-21T04:27:05Z
+# Entries: 70,000 (of 246,522 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -6296,6 +6296,7 @@
 85270jylmzsym.top
 85322754.setdownlod.pages.dev
 8537b5712c.com
+85466576.top
 855454510415454.hyperphp.com
 8563656.lat
 8567118.com
@@ -47258,6 +47259,7 @@ census-app.scorecardresearch.com
 censusabattoir.com
 censuschorus.com
 censuscompassembryo.com
+censusfin.com
 censusmarrydespair.com
 centalesupelec.fr
 centaurs-rest.coupang.com
@@ -65232,6 +65234,7 @@ dhl-event.app
 dhl-express-blue.vercel.app
 dhl-express-outre-mer.com
 dhl-expresss.weebly.com
+dhl-lp2.demo.weblegend.pl
 dhl-rpa-portal.infanion.com
 dhl-shipment-detail.vercel.app
 dhl-suivi-express.fr
@@ -70001,6 +70004,3 @@ dsjoiyflhvxpq.website
 dskatbcpbesgn.online
 dskjem.net
 dskkza.com
-dsksupportinfo.weebly.com
-dskum.co.kr
-dsladvogados.com.br
