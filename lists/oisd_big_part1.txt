@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-09-23T22:51:15Z
-# Entries: 70,000 (of 248,411 total)
+# Updated: 2026-09-24T04:15:52Z
+# Entries: 70,000 (of 248,509 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -413,6 +413,7 @@
 0hr4wyjfv3.com
 0i.sh-cdn.com
 0i0i0i0.com
+0i1x-zs2f.y4cfcc.sbs
 0i3n894u-dpwyvwoituy1.edgeone.dev
 0iem8mw1lx.com
 0ihw4ipvm5.com
@@ -5353,6 +5354,7 @@
 65.sub-97-144-19.myvzw.com
 65.sub-97-52-214.myvzw.com
 650927ca6a.com
+6517512151.lat
 652625024413586051.weebly.com
 652893.click
 65369.help
@@ -7026,6 +7028,7 @@
 98405.com
 984a6ddeb1.com
 984aea54f6.c8aae076f1.com
+98517751.lat
 9856475.lat
 9862271b2d.com
 9865476.lat
@@ -17799,8 +17802,8 @@ alebilet.pl-oferta5732835.click
 alebilet.pl-oferta739167821.shop
 alebilet.pl-oferta9494498.click
 alebilet.pl-oferta9542718.click
+alebilet.pl-oferta962187323.cfd
 alebilet.pl-ogloszenie8710931437.cfd
-alebilet.pl92zx621z.cyou
 alebilet.prywatnaoferta.shop
 alebilet.prywatnaoferta1.shop
 alebilet.prywatnaoferta2.shop
@@ -18355,6 +18358,7 @@ allegro.131200h88.buzz
 allegro.2131239129ghgh.qpon
 allegro.23129h9.pl
 allegro.23481299h0.qpon
+allegro.234942398g9hi.buzz
 allegro.239129hh311.qpon
 allegro.2394904f3f3f.qpon
 allegro.239492341.casa
@@ -18366,6 +18370,7 @@ allegro.291293128g75.beer
 allegro.2992ghohgoho.cam
 allegro.30102301ghhh.lol
 allegro.3029g99g.pl
+allegro.312030129y45.buzz
 allegro.3299g88g2909.pl
 allegro.348ih7u5hij.beer
 allegro.34t873784.click
@@ -18388,11 +18393,13 @@ allegro.745695.vu
 allegro.75995.click
 allegro.7662377gh.rest
 allegro.7g374g734111.qpon
+allegro.81238tho5.buzz
 allegro.829302.shop
 allegro.83248054h238.qpon
 allegro.877129192911.cam
 allegro.888900-ggg.qpon
 allegro.8t238g823.rest
+allegro.9039129412ggh.buzz
 allegro.91230120sma2.casa
 allegro.912376h745.forum
 allegro.9193129h45h.skin
@@ -18591,6 +18598,7 @@ allegrolokalnie.lokala-ofera91.shop
 allegrolokalnie.lokala-ofera9101.sbs
 allegrolokalnie.lokalna-007.sbs
 allegrolokalnie.lokalna-382.shop
+allegrolokalnie.lokalna-3913.sbs
 allegrolokalnie.lokalna-431239.sbs
 allegrolokalnie.lokalna-4928.sbs
 allegrolokalnie.lokalna-49843.cc
@@ -18618,6 +18626,7 @@ allegrolokalnie.mw994h23-0ie.shop
 allegrolokalnie.n7310ba3.co
 allegrolokalnie.net-nr-39093-nasze.forum
 allegrolokalnie.net-ogloszenie-nr-392011-nasze.forum
+allegrolokalnie.nr-2832483sn32.sbs
 allegrolokalnie.ofert-43819.sbs
 allegrolokalnie.oferta-478221.sbs
 allegrolokalnie.oferta-id57691052.shop
@@ -18627,6 +18636,7 @@ allegrolokalnie.oferta038472012.cfd
 allegrolokalnie.oferta056538354.sbs
 allegrolokalnie.oferta1044814.rest
 allegrolokalnie.oferta104814.rest
+allegrolokalnie.oferta109238129038.cfd
 allegrolokalnie.oferta1851712.click
 allegrolokalnie.oferta194759385.cfd
 allegrolokalnie.oferta198273129.cfd
@@ -18680,6 +18690,7 @@ allegrolokalnie.oferta83614.lol
 allegrolokalnie.oferta841818.click
 allegrolokalnie.oferta848184152.click
 allegrolokalnie.oferta8487121.click
+allegrolokalnie.oferta85286.shop
 allegrolokalnie.oferta85687317.shop
 allegrolokalnie.oferta873712121.click
 allegrolokalnie.oferta87587821.click
@@ -18706,6 +18717,8 @@ allegrolokalnie.ogloszenie-1711962-dla-ciebie.click
 allegrolokalnie.ogloszenie-18314962-dla-ciebie.click
 allegrolokalnie.ogloszenie15168402-dla-ciebie.click
 allegrolokalnie.ogloszenie15418402-dla-ciebie.click
+allegrolokalnie.ogloszenie4850895801.cyou
+allegrolokalnie.ogloszenie49875347506.cyou
 allegrolokalnie.p09oferta9374zvs93.rest
 allegrolokalnie.p0oferta3846zvx98.forum
 allegrolokalnie.p29oferta37428xcs.click
@@ -18724,6 +18737,7 @@ allegrolokalnie.pl-31595175.click
 allegrolokalnie.pl-3745738.sbs
 allegrolokalnie.pl-374738.sbs
 allegrolokalnie.pl-447388.sbs
+allegrolokalnie.pl-49767468.click
 allegrolokalnie.pl-527692.pl
 allegrolokalnie.pl-53198975.shop
 allegrolokalnie.pl-54325.click
@@ -18735,6 +18749,7 @@ allegrolokalnie.pl-6435523432.shop
 allegrolokalnie.pl-682186982.click
 allegrolokalnie.pl-7382196.click
 allegrolokalnie.pl-765432771zamowienie90939455.biz
+allegrolokalnie.pl-7947273r908oferta528367293883.lat
 allegrolokalnie.pl-82726927373zamowienie001626382822.rest
 allegrolokalnie.pl-8642.com
 allegrolokalnie.pl-86422.top
@@ -18758,6 +18773,7 @@ allegrolokalnie.pl-oferta-mac-studio-m3-ultra-32cpu-80-gpu.digital
 allegrolokalnie.pl-oferta-prywatna738483629.click
 allegrolokalnie.pl-oferta-prywatna7584634.click
 allegrolokalnie.pl-oferta.biz
+allegrolokalnie.pl-oferta01973917391.click
 allegrolokalnie.pl-oferta03459045645.shop
 allegrolokalnie.pl-oferta158925.shop
 allegrolokalnie.pl-oferta182054.click
@@ -18830,6 +18846,7 @@ allegrolokalnie.pl-oferta926212.click
 allegrolokalnie.pl-oferta9374164.click
 allegrolokalnie.pl-oferta9385629.click
 allegrolokalnie.pl-oferta9443014.click
+allegrolokalnie.pl-oferta962187323.cfd
 allegrolokalnie.pl-oferta98278.click
 allegrolokalnie.pl-oferta98514.click
 allegrolokalnie.pl-oferta9875934023.click
@@ -18860,6 +18877,7 @@ allegrolokalnie.pl-smart891981898122712919201.sbs
 allegrolokalnie.pl-wfde.shop
 allegrolokalnie.pl-zamow-oferta-4059212.sbs
 allegrolokalnie.pl12ij837.cyou
+allegrolokalnie.pl21893.top
 allegrolokalnie.pl29139.top
 allegrolokalnie.pl30233.top
 allegrolokalnie.pl344381639.click
@@ -18868,6 +18886,7 @@ allegrolokalnie.pl543.shop
 allegrolokalnie.pl581562.shop
 allegrolokalnie.pl655383454.click
 allegrolokalnie.pl742181576.eu.cc
+allegrolokalnie.pl76018.top
 allegrolokalnie.pl76028.top
 allegrolokalnie.pl76832.top
 allegrolokalnie.pl78043.pro
@@ -18881,6 +18900,7 @@ allegrolokalnie.podkategoria764324.pl
 allegrolokalnie.pq8b9.click
 allegrolokalnie.prywata-oferra912818.shop
 allegrolokalnie.px279oferta39572938.click
+allegrolokalnie.rezerwacja09134.click
 allegrolokalnie.rezerwacja49228.click
 allegrolokalnie.rezerwacja5274.click
 allegrolokalnie.rezerwacja54278.cfd
@@ -19770,6 +19790,7 @@ amandes-france.fr
 amandespanel.fr
 amando.20-172-65-119.cpanel.site
 amanexior.digital
+amanhanews.online
 amani.casa
 amanicasaluxury.com
 amankan-akun-anda317.webnode.com
@@ -19953,6 +19974,7 @@ ambiguousanger.com
 ambiguousdinosaurs.com
 ambiguousincome.com
 ambiguousjaguarimpertinence.com
+ambiorax-ai-pro-com.pages.dev
 ambiorax-ai-pro.com
 ambiorax-ai.com
 ambioraxai.digital
@@ -20193,6 +20215,7 @@ amlwerifex.onl
 amlzndgkbicak.store
 ammakitchen.in
 ammanomoge.store
+ammdhesivesterol.info
 ammdminister.info
 ammedieval.org
 ammhmvurnghxn.space
@@ -28918,6 +28941,7 @@ b5h3b1.close.futureisready.com
 b5h7.com
 b5o.com
 b5pyqm.fit
+b5xln.d2lrsn.cfd
 b5y2qm.lat
 b607.dailylocal.com
 b60756935f.com
@@ -30237,6 +30261,7 @@ bafybeifcfe5xorgq2rm5cwebwgksa72gyifrf3tmfjqrwcnwpr5qpglvb4.ipfs.dweb.link
 bafybeifdwhj5feyf6fl7davzbx77cka2iisyktmdeuo43kzpp2pddwwxxa.ipfs.inbrowser.link
 bafybeifgzx4io3dzbvis5ts2t24kltun72lzv7l37zroel7prg5wfg352i.ipfs.dweb.link
 bafybeifkilhlranv7rj63emeaaz3gye5rigd72s2cpuo4chpfvwqqp3sie.ipfs.inbrowser.link
+bafybeifo6ghz5fnesxeeh64fgbpmkzx7ian56j7y573ielg7rp4tqjpc7u.ipfs.inbrowser.link
 bafybeifpqhyzn73oe4u5fepceonr6hbpvffuxj7vikwnwh3wkrp2v3blei.ipfs.dweb.link
 bafybeifrowbfdsmajbpk3qnudter7gcnhnc2qcabvvuykz7seqjm4gp5h4.ipfs.dweb.link
 bafybeifrqdfze3piomesklwvzgfkuljsspb2tp6m4llmsjm2fztl6yua3u.ipfs.dweb.link
@@ -35489,6 +35514,7 @@ bisdank.cyou
 bisdr.vidazoo.com
 bisedepi.pro
 bisensei.com
+bisesdiaphragmatccically.info
 bisesecrecy.com
 bisetsoliped.com
 bishopadhikari.com
@@ -39954,6 +39980,8 @@ briefjet.com
 briefl.ink
 brieflyenemiesstrongly.com
 brieflynimbleignition.com
+briefnoticias.lat
+briefnownews.online
 brieforiaq.info
 brieftrouble.com
 briefyapp.net
@@ -50288,6 +50316,7 @@ citycollective.shop
 cityconnect.pro
 citydeal.net
 citydepot.shop
+citydesknews.site
 citydsp.com
 cityflash.shop
 cityfunnels.com
@@ -60044,6 +60073,7 @@ cyberhost-vfra12.icu
 cyberhostvpn.com
 cyberjones.com
 cyberking.online
+cyberleak.top
 cyberlikes.com
 cybermicto768jubileejhsye6yt6543.s3.us-east-1.amazonaws.com
 cybermini.com
@@ -62065,6 +62095,7 @@ dailybreakingwire.pro
 dailybriefcentral.com
 dailybriefingty.top
 dailybriefion.info
+dailybriefwire.xyz
 dailybuild.mozillaupdates.com
 dailybulletinra.pro
 dailybuzzreportnow.pro
@@ -62096,6 +62127,7 @@ dailyimageboard.com
 dailyindex.info
 dailyinsightreports.pro
 dailyinventory.org
+dailyjornal.click
 dailykeys.com
 dailylifesciences.com
 dailylocalguide.com
@@ -62109,6 +62141,7 @@ dailynewsflashd.info
 dailynewsstreamiq.pro
 dailyniner.com
 dailynoot.life
+dailynoticias.lat
 dailyoakline.eu
 dailyoakporch.eu
 dailypatch.eu
@@ -62149,6 +62182,7 @@ dailyvora.shop
 dailywearco.shop
 dailywebwirehub.com
 dailywillowhome.eu
+dailywirenews.top
 dailywirex.info
 dailyworldsignal.com
 dailyxvids.com
@@ -65060,8 +65094,12 @@ desjadins-username-confirmdetails-67574.weebly.com
 desjardins1-auth00.com
 desk-index-verify.weebly.com
 desk-private.istmein.de
+deskbriefnow.fun
 deskflashlive.lat
+deskflashnews.top
+deskflashtoday.click
 deskhelp.my-free.website
+deskhoje.live
 deskjockeypro.net
 deskkaava.vercel.app
 desklink.duckdns.org
@@ -69457,6 +69495,7 @@ download.uphost.click
 download.wan.sohu.com
 download.windowsupdate.lflinkup.com
 download.yrnvtklot.com
+download2.huduntech.com
 download77.com
 downloada.dewmobile.net
 downloadappios.com
@@ -69965,42 +70004,3 @@ dreambetcasino.fr
 dreambrookhaven.digital
 dreambuy.shop
 dreamcanyonforge.live
-dreamcityhomesdubai.com
-dreamcloud24.pl
-dreamdancepoznan.live
-dreamdata.io
-dreamdates-spots.com
-dreamdesignworkshop.com
-dreamdigimedia.blogspot.com
-dreamdiver.nl
-dreamequipmentrental.com
-dreamersandbelievers.com.au
-dreamersedgedev.com
-dreamfull.cn
-dreamgroveforge.live
-dreamhackz.com
-dreamhome.112.2o7.net
-dreamintim.com
-dreamirritation.com
-dreamklinik.com
-dreamlikefostergala.com
-dreamm13wise.pro
-dreamm21er.pro
-dreamm22box.pro
-dreamm6wise.pro
-dreammates.112.2o7.net
-dreammember-journey.com
-dreamoakalchemy.info
-dreampartners.ru
-dreampeakless.pro
-dreamplaycasino.fr
-dreamridgeforge.info
-dreamridgeworks.digital
-dreams-enchanted.com
-dreamsanctum.com
-dreamsbewitch.com
-dreamscape-journey.com
-dreamsdome.com
-dreamsresponsibilitybum.com
-dreamsture.iego.cn
-dreamteamaffiliates.com
