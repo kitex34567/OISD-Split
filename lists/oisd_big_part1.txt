@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-09-25T23:12:15Z
-# Entries: 70,000 (of 243,921 total)
+# Updated: 2026-09-26T04:33:06Z
+# Entries: 70,000 (of 243,942 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -1616,6 +1616,7 @@
 1but.fr
 1buu1.penyouw.com
 1bx3a4s2.xyz
+1c30eb84.heftrucksbelgie.eu
 1c46639b8d.aff15e203a.com
 1c53c42275.com
 1c6fd11ca2.com
@@ -5289,6 +5290,7 @@
 647182.vip
 6472475-dot-oaao-274308.uc.r.appspot.com
 6473.taplink.ws
+647345.top
 647348419173324-dot-wetransfer-auth-file-341.appspot.com
 64748475aw.weebly.com
 647800.ds.nac.net
@@ -5778,6 +5780,7 @@
 754toa.pulty.multiversemechanics.info
 755-ct.c3tag.com
 7550f3b810.com
+755465re.top
 755584251719535-dot-wetransfer-auth-file-341.appspot.com
 7565meduniwien-ac-at.weebly.com
 756776567.weebly.com
@@ -8923,7 +8926,6 @@ accessrealtyco.com
 accessremitpro.net
 accessremits.net
 accesssrewards.firebaseapp.com
-accesstelematics.com
 accesstherealworld.com
 accesstrade.com.vn
 accesstrade.in.th
@@ -17968,6 +17970,7 @@ allegro.252352352hh.click
 allegro.2836329394730822598.click
 allegro.288b8g76.cam
 allegro.2992ghohgoho.cam
+allegro.300491.sbs
 allegro.3029g99g.pl
 allegro.312030129y45.buzz
 allegro.31209h845.courses
@@ -18094,6 +18097,7 @@ allegrolokalnie.28skzxv3844.surf
 allegrolokalnie.293zzvw38ck8.rest
 allegrolokalnie.294zvwx38n.rest
 allegrolokalnie.29y.lat
+allegrolokalnie.300491.sbs
 allegrolokalnie.30brvdkvd.sbs
 allegrolokalnie.34w3f4qr4r.click
 allegrolokalnie.38472829263932972.click
@@ -33796,6 +33800,7 @@ bhrserviceaps.dk
 bhs-corrugated.live
 bhsedelhiboard.net
 bhsxwgyuktnjz.site
+bhsyendjt.com
 bhszasnoamoro.space
 bht4yd.close.futureisready.com
 bhtwin.com
@@ -37418,6 +37423,7 @@ booking.arrivalconsole.com
 booking.bk3457zrg.com
 booking.bookguestconf12.com
 booking.bookingverif2421.com
+booking.captcha-message-extranet.com
 booking.cheksupdguest-parthers.com
 booking.com-830b2c931f.com
 booking.com-approve-reservation.com
@@ -39888,6 +39894,7 @@ bruvonixai-de.live
 bruvonixai-es.live
 bruvonixai.live
 bruvonixtrading.de
+bruyere-fondoire-austria.com
 bruyere-gainif.org
 bruyerefondoire.digital
 bruyerefondoire.net
@@ -59288,6 +59295,7 @@ czystyzyskovik.com
 czystyzyskovik.net
 czyszczeniekrakow.pl
 czytooszustwo.pl
+czyzykwq.shop
 czz-161b3b.webflow.io
 czz-a36e45.webflow.io
 czzbkqsxipgtm.site
@@ -66451,6 +66459,7 @@ djs.dsuaieuscx.lol
 djsalcbhew47.lol
 djscord.com
 djsgf.com
+djsh64787-h24.vercel.app
 djsoo8p407d6p.cloudfront.net
 djtciijwpgrxx.online
 djtmfapxw.com
@@ -68200,7 +68209,6 @@ download.pocketbitcoindesktop.com
 download.romeropizza.com
 download.sd.baidu.com
 download.sj.qq.com
-download.suxiazai.com
 download.tfyxzai.com
 download.ubua.online
 download.uphost.click
@@ -69996,11 +70004,3 @@ duzgntgfdihcp.space
 dv0uonokej56p.cloudfront.net
 dv663fc06d35i.cloudfront.net
 dv7t7qyvgyrt5.cloudfront.net
-dv8v1cvc98vkm.cloudfront.net
-dvb.pandora.xiaomi.com
-dvbee3zterhof.cloudfront.net
-dvc8653ec6uyk.cloudfront.net
-dvdbank.org
-dvdgayonline.com
-dvdpromos.com
-dveenew.weebly.com
