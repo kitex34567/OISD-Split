@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-10-04T05:23:48Z
-# Entries: 70,000 (of 244,246 total)
+# Updated: 2026-10-04T15:12:42Z
+# Entries: 70,000 (of 244,331 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -232,6 +232,7 @@
 05b9daf35c.com
 05e76a16b8.5e3d5f480f.com
 05gdfi007-dpm2gawaoxpl.edgeone.dev
+05kgz.mjt.lu
 05mv.cc
 06.sharedsource.org
 060444.com
@@ -303,6 +304,7 @@
 09.sharedsource.org
 090675.weebly.com
 0918784avispdf.weebly.com
+092-informacja.cfd
 09241190c8.com
 0924201a0b.com
 09248ar.weebly.com
@@ -362,6 +364,7 @@
 0cf.io
 0cf5ff34.ngrok.io
 0chinkpl.shop
+0chinkvippl.shop
 0ci.ru
 0d1oo8jp69.com
 0d4svwc7.xyz
@@ -7238,6 +7241,7 @@
 9l9ck7mdd2.com
 9li36j-uw1wg-sl6j-mwip8-9apqdw.pages.dev
 9lwl6rsk.xyz
+9m1q4vx.pics
 9ma1sr1tb1.com
 9mbv.com
 9mdg9cu59.com
@@ -15870,6 +15874,7 @@ agro10x.com.br
 agroarshan.com
 agrobiomag.com
 agrobotigacovides.com
+agroelementgmbh.de
 agrofertinvestment.com
 agrofertinvestment.live
 agroinfo.am
@@ -16814,6 +16819,7 @@ akdenizkaykayakademi.com
 akdenizmakina.com
 akdigolema.com
 akdnhszqeqasz.store
+akedshackoedds.info
 akeeperoftime.com
 akellife.com
 akeplpro.digital
@@ -17319,6 +17325,7 @@ aldieu.dalmio.shop
 aldieu.dazino.shop
 aldieu.dqaromaspark.shop
 aldieu.dreamingmoon.shop
+aldieu.durelabuy.shop
 aldieu.falemi.shop
 aldieu.farylo.shop
 aldieu.fyvjames.shop
@@ -17330,8 +17337,12 @@ aldieu.goremi.shop
 aldieu.gorina.shop
 aldieu.gtoisaac.shop
 aldieu.ifclarinetowl.shop
+aldieu.ivorabuy.shop
 aldieu.jiacharlie.shop
+aldieu.kavinsave.shop
 aldieu.kkmevie.shop
+aldieu.lorviabuy.shop
+aldieu.mavrenbuy.shop
 aldieu.mirathvel.shop
 aldieu.msioaq.shop
 aldieu.olterahub.shop
@@ -17346,14 +17357,17 @@ aldieu.txhisla.shop
 aldieu.voltaroa.com
 aldieu.vortexlumin.shop
 aldieu.xgpetalmist.shop
+aldieu.ygflaxseedoil.shop
 aldieu.zpzlily.shop
 aldifactory.co
+aldiie-market.fluxactivewear.com
 aldiie-market.orlithllc.com
 aldiie-market.virellapet.com
 aldiie-store.cylenthconsulting.com
 aldiie-store.dexorallc.com
 aldiie-store.getbrainybloom.com
 aldiie-store.kylverian.com
+aldiie-store.luxentraillumination.com
 aldik.com
 aldiluxo.com
 aldimall-uk.com
@@ -17437,6 +17451,7 @@ aldiuk-market.veloriacrest.com
 aldiuk-market.vensari4574.com
 aldiuk-sale.compactdishtableware.com
 aldiuk-sell.funsparktoysc.com
+aldiuk-sell.slatespindle.shop
 aldiuk-store.alveris1988747.com
 aldiuk-store.animefoggellc.com
 aldiuk-store.ashcroftvelocity.com
@@ -18753,6 +18768,7 @@ allerhand-therapie.de
 alleron.andree.free.fr
 allerower.live
 allesfuerdengarten.com
+allesineendigitaletoegang.com
 alleswaszaehltcorona.com
 alleviateconstablebeforehand.com
 alleviatedesignertheir.com
@@ -28673,7 +28689,6 @@ babajaiteh.com
 babaluminum.com
 babanjrat.duckdns.org
 babao.twhl.net
-babaoso.com
 babaseoa.com
 babatundes12.wixstudio.io
 babb-bzrqe4jpt-indexbinary05-gmailcom.vercel.app
@@ -32367,6 +32382,7 @@ belqentoria365a.com
 belqorabitai.com
 belqorenavuki.pro
 belqorinta.pro
+belquma.shop
 belsofaugneenso.net
 belsorrisovarese.it
 belstat.com
@@ -34708,6 +34724,7 @@ bingdianhuanyuan.cn
 bingex.vip
 binglebingleproductions.com
 bingo-casino.fr
+bingo.ns.cloudflare.com
 bingoal-casino.fr
 bingoalcasino.fr
 bingobonga-casino.fr
@@ -36170,6 +36187,7 @@ blexur.click
 blfrrfanpmwqt.website
 blg-1216lb.com
 blgstarspl.shop
+blgstarsvip.shop
 blhkbyjasnrqlm.net
 blhkzjnamvlxxg.com
 blhldrre.shop
@@ -37628,6 +37646,7 @@ booking.information-pre-arrival.com
 booking.jxdccz.com
 booking.lastminutebusinessclass.com
 booking.milanid2026.net
+booking.nebulpaceacloud.com
 booking.prearrival-confirm-status.com
 booking.processing-approve.com
 booking.rezerwacja524579.shop
@@ -43042,7 +43061,6 @@ caissesolidaire-bfc.fr
 caissonvugtrade.com
 caitlinduffus.com
 caitlinsikora.com
-caitoasece.com
 caiui.com
 caixa-benefits.pages.dev
 caixa-indeniza.github.io
@@ -52739,6 +52757,7 @@ commindo-media-ressourcen.de
 comminuswealth.com
 commiseratebeamingbarricade.com
 commiseratedefrost.com
+commisffsariat.info
 commissariats-surveillance.fr
 commissariwwaloutbegging.info
 commissioncommerce.com
@@ -59232,6 +59251,7 @@ cysd.7kww.net
 cyseal.cyveillance.com
 cysodwprdoejs.online
 cyspor.com
+cystszzozeki.info
 cysyjeo.pro
 cysyonetim.com
 cyt.com.pa
@@ -59324,6 +59344,7 @@ czhavjzsxkcwa.space
 czhdekrwyjahu.site
 czhfjdhjxshhvsvjk.weebly.com
 czhhgdyxgs.com
+czhio.uk
 czhjjavbyhuun.online
 czhjln.com
 czhmgezchubno.space
@@ -61539,6 +61560,7 @@ dapsol.com
 dapsolution.com
 dapsyncs.netlify.app
 daqexploitfree.duckdns.org
+daqpifru.shop
 daque.cn
 daquiacola.com.br
 daqzelo-mpt-felquri-p4x8ka57.pages.dev
@@ -63037,6 +63059,7 @@ defenselessstill.htmlpasta.com
 defensevest.com
 defensive-living.com
 defensivearmpit.com
+deferenggtially.info
 deferscoldahead.com
 deffyy.pages.dev
 defi-airdrops.web.app
@@ -66585,6 +66608,7 @@ dk836dkx638.cyou
 dk862zcw173.cyou
 dk86we436.cyou
 dk8xyf28ma72.cyou
+dk9273ms836.cyou
 dk928zs524.cyou
 dk92xc229.cyou
 dk937fgs62.cyou
@@ -69980,27 +70004,3 @@ durelinkelmire.com
 duremanoferulavo.com
 duresspanful.cfd
 durewou.pro
-durgapurgovtcollege.org
-durgasteelgroup.com
-durhamcityrunfestival.com
-durhbvlfkhnln.store
-durian-i.live
-duriangowhere.com
-duriani.net
-durimie.pro
-duringcereal.com
-duringherenurew.com
-durlonsealingsolutions.com
-durnanakliyat.com
-duronbondorplatform.de
-duroshelter.com
-durpelo.shop
-durr.live
-durskelin.com
-duryeefinancial.com
-dus10cricket.com
-dusalto.lol
-duscord.com
-duscord.js.org
-dusfolzrshwgf.online
-dusitd2nairobi.com
