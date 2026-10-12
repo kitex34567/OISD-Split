@@ -1,66 +1,9 @@
 # OISD Big Blocklist – Part 4
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-10-11T23:32:12Z
-# Entries: 27,380 (of 237,380 total)
+# Updated: 2026-10-12T05:28:33Z
+# Entries: 27,310 (of 237,310 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
-u11xms.close.futureisready.com
-u15838okb.ha002.t.justns.ru
-u16d4beu5.com
-u18parties.com
-u18x5bxrj3rt455fborj.s3.ap-south-1.amazonaws.com
-u19.ru
-u19kt.codesandbox.io
-u1aczgx9so.com
-u1fy8u.close.futureisready.com
-u1g98fo6b.com
-u1odhm.close.futureisready.com
-u1u738wyr5liojf.rest
-u1ywmv.blow.harrisretreat.com
-u26hec.shet.eveshamairporttransfers.co.uk
-u26u.com
-u2axa-ds6-enoz-s15x-kdq8bx.pages.dev
-u2bgc-uf7v-6ho70-c87wj-89i.pages.dev
-u2bviews.com
-u2like.com
-u2m.ru
-u2sk3.codesandbox.io
-u2smartlinks.com
-u300.dailybulletin.com
-u3738.square.site
-u39q45jzoj.com
-u3dga4m5s2jl56m43f-r.s3.us-east-1.amazonaws.com
-u3qrlykp2.com
-u47.cc
-u48.cc
-u4e71n.close.futureisready.com
-u4h8saw19.com
-u4jlr6f6n2.com
-u4q3l5ksmw.com
-u4sv1.csb.app
-u5.y42izyewz9t2j74fe1bkiw9nw.cyou
-u51o6pqk.xyz
-u532344488.hostingerapp.com
-u542.dailycamera.com
-u55011.com
-u566.chron.com
-u578.wlwt.com
-u57jwt.close.futureisready.com
-u58318934.ct.eu.sendgrid.net
-u588zn.jik.thetreecentre.com
-u5dn1e6x.bazisangkaqazgeychidancepoli.com
-u5er93782947.weebly.com
-u5govi.casa
-u5neie.sbs
-u5s5.com
-u60275075.ct.eu.sendgrid.net
-u62x055tr.com
-u6421d8aqt.com
-u652.myplainview.com
-u654.santacruzsentinel.com
-u655vlo5.xyz
-u660.theheraldreview.com
-u67qpnaexu.com
 u6uy9lzdcj.com
 u6vlqrwcv.com
 u6xeqr.close.futureisready.com
@@ -209,6 +152,7 @@ ubfjexqqmfcvot.net
 ubgjsqkad.com
 ubgvqakukavmm.space
 ubhoryjlvjfux.website
+ubidbqcbb.com
 ubiepvmfdzkhx.online
 ubilinkbin.com
 ubiparking.com
@@ -392,6 +336,7 @@ udmserve.net
 udn.jp
 udncoeln.com
 udorafd.github.io
+udorofuse.zapto.org
 udos65s-c07s.vercel.app
 udplgiotjursc.website
 udpolimenew.baidu.com
@@ -399,7 +344,6 @@ udppercfezmis.online
 udprf-crimea.com
 udrnvsgcsjqiv.site
 udruzenjehomeopata.com
-udsf.cn
 udsqbadxjvzanh.com
 udsrvxbleatmk.site
 udtnjdhtdb.com
@@ -452,6 +396,7 @@ ueoxrpmuqlspj.online
 uep.gaijin.net
 ueqjychtgl.net
 ueqkrtmgiokeg.site
+ueqtnozjwtwdp.website
 ueqvfodcymwfu.website
 uerbcssuraiyf.space
 uerrjuidofskfsofisdfisof.site
@@ -469,6 +414,7 @@ uevazhxacchp.com
 uevokddauuynh.space
 uevrhqra7u.com
 uevwkndixetea.space
+uexiezumclrfq.space
 uexkrmglcmebk.space
 uexteqwr.com
 ueya0wo6m.com
@@ -478,7 +424,6 @@ uezbiytinfnyn.site
 uezeoqumpbhxr.site
 uezhgshz.dermals.org
 uezmarkets.com
-uf1k29.s.gy
 uf3g7a.close.futureisready.com
 ufa9tt1n5.com
 ufaexpert.com
@@ -638,7 +583,6 @@ uhdgtnzuttvhb.online
 uhdokoq5ocmk.com
 uhdwoycyionrz.space
 uhedsplo.com
-uhek.cn
 uhfdsplo.com
 uhg6-prod.adobecqms.net
 uhgkejndjghwpnm.com
@@ -711,7 +655,6 @@ uilogging.tcdevops.com
 uilts.com
 uimarketpro.com
 uimi.it
-uimr.cn
 uimrynxkuybmb.website
 uimserv.net
 uingroundhe.com
@@ -899,6 +842,7 @@ ukcedarstonepark.com
 ukcedarstoneway.com
 ukcedarvalelane.com
 ukcentralpath.com
+ukchatnet.online
 ukclearpointmedia.com
 ukcoinnews.com
 ukconomouswom.org
@@ -1849,6 +1793,7 @@ uniaen-fr.weebly.com
 unibet-fr.fr
 unibetcasinofrance.fr
 unibetfrancecasino.fr
+uniblehijinks.com
 unibots.in
 unibotscdn.b-cdn.net
 unibotscdn.com
@@ -2145,7 +2090,6 @@ univ-mar.fr
 univ-polesup.fr
 univ-reimsfr.weebly.com
 univ-tlse4.fr
-univ-tours1.weebly.com
 univ-troyes.fr
 univ-ville.fr
 univ4-platform.pages.dev
@@ -2425,7 +2369,6 @@ unusa.id
 unusedbevors.cfd
 unusual-alpaca-535612.framer.app
 unusual-meeting-502376.framer.app
-unusualaccountrestricted90.github.io
 unusuallypilgrim.com
 unusualtitle.com
 unutteraffble.info
@@ -2567,7 +2510,7 @@ update-address.uscu.ccwu.cc
 update-apple-compte.serverid2090.com
 update-comcast.weebly.com
 update-confirm-pay-tax.com
-update-gob-ec.weebly.com
+update-directinfo.com
 update-infored.jalotuvua.com
 update-information-help.com
 update-locker.com
@@ -2696,6 +2639,7 @@ uphllxdlogin.gitbook.io
 uphloll-xlugnm-io.godaddysites.com
 uphold-en.zapier.app
 uphold-net.created.app
+upholdapp.wasmer.app
 upholdbrilliancerecast.com
 upholdslog-in.wixstudio.com
 uphull-loguun0.godaddysites.com
@@ -3076,6 +3020,7 @@ url-redirect.net
 url-shortnest.space
 url-space.net
 url-space.org
+url.emailprotection.link
 url.gsb.gov.zm
 url.in.th
 url.isimsepeti.net
@@ -3195,7 +3140,6 @@ us-ana.com
 us-appsuites.wixstudio.com
 us-behavior.apitd.net
 us-bitpey.wixstudio.com
-us-bovvada.wixstudio.com
 us-central1-adaptive-growth.cloudfunctions.net
 us-central1-analytics-236511.cloudfunctions.net
 us-central1-markuphero.cloudfunctions.net
@@ -3228,11 +3172,10 @@ us-ledgrdesktop-home.wixstudio.com
 us-live-desktop.wixstudio.com
 us-lostgenerator.com
 us-match.taboola.com
+us-monet.direct.quickconnect.to
 us-moonpayio.wixstudio.com
-us-mxceapps.wixstudio.com
 us-portfolio.wixstudio.com
 us-pub.dengage.com
-us-rabbyy.wixstudio.com
 us-startapps.ghost.io
 us-started-desktops.wixstudio.com
 us-suiteapp.wixstudio.com
@@ -3518,7 +3461,6 @@ usiminas-ipatinga-u002.sistemastorage.com.br
 usingageghoaft.net
 usingde.com
 usingstrikingindoors.com
-usittoro.wixstudio.com
 usiu-ac-ke.weebly.com
 usiudsjiaddaidida.com
 usiusifusifuifsdiuadsisf.site
@@ -3600,6 +3542,7 @@ ustunlezzetler.com
 ustvb.com
 usuallybeholdapathetic.com
 usualsparehumanity.com
+usuario.hips-warehouse.com
 usuariosextervzlaa.z13.web.core.windows.net
 usubtrxjxktis.online
 usugu.com
@@ -4034,6 +3977,7 @@ uysishhsjs.w3spaces.com
 uyt5.com
 uytxeqdovxhhx.site
 uyunad.com
+uyuspjzupkmao.site
 uyw873.w3spaces.com
 uywfpprhavyog.site
 uyybspugtnmit.website
@@ -4457,6 +4401,7 @@ val-creditance-fr.com
 val-fortunange.org
 val.atm.cp31.ott.cibntv.net
 val.atm.youku.com
+val1dar3656.freepage.cc
 valahiasolutions.com
 valandy.sk
 valanga.fr
@@ -4540,7 +4485,6 @@ vali0darl1nea.webcindario.com
 valiant-thoughts.com
 valiantlogistics.org
 valianttossczar.com
-valibhdlogincont.webcindario.com
 valibotrack.site
 valicus.info
 valid-bottom.com
@@ -4624,6 +4568,7 @@ valleprofitra-pro.pages.dev
 valleprofitra.pro
 vallerialiving.com
 valley-store.com
+valley-trail.pages.dev
 valleyarmiessunflower.com
 valleybrook.shop
 valleycresthome.eu
@@ -4885,6 +4830,7 @@ vanguardassetadvisory.com
 vanguardcasino.fr
 vanguardscasino.fr
 vanhaeften.eu
+vanhaid.shop
 vanharen-co.com
 vanhookproperties.com
 vanhoutenamsterdam.com
@@ -5001,7 +4947,6 @@ varietyscissor.com
 varinogrove.com
 varinovroepx.site
 various-answers-059875.framer.app
-various-cause-653755.framer.app
 various-startup-587834.framer.app
 variouscreativeformats.com
 variousdinner.net
@@ -5361,7 +5306,6 @@ vcdn.adnxs.com
 vcdn.subiz-cdn.com
 vcdndxcjufigz.site
 vcebhopal.ac.in
-vcebt.m-pages.com
 vceiods3ewqa.com
 vcfder-uytrvcctraspiracy-lofy-com.weebly.com
 vcfh4wsdxxc.appspot.com
@@ -5386,6 +5330,7 @@ vcmqpllyjfzl.com
 vcn-hiyetuafjmjseulvedcaulqe.weebly.com
 vcndcazeifjzc.online
 vcniebkpfovmm.space
+vcnliauiisazb.online
 vcodec.com
 vcom.vipcentr.ru
 vcomdeepdiscount.112.2o7.net
@@ -5557,6 +5502,7 @@ vedqxliyxcqkl.space
 vee-view-docs-sh3r3d-docxxview.framer.ai
 veeamagent.fr
 veebouglare.net
+veecarefoundation.org
 veectrshtsdlk.site
 veedolturkiye.com
 veegasplus.fr
@@ -5697,7 +5643,6 @@ veinob.com
 veinsoloistsubstitute.com
 veinteractive.com
 veirifcaemail.webcindario.com
-veishtbrviewnmhjiu.weebly.com
 veisllc.xyz
 veiuo.com
 vej-nerion.live
@@ -6390,7 +6335,6 @@ verifi4u.weebly.com
 verifiabledoctor.pro
 verifica-ai-engine.com
 verifica-ai.pro
-verificacion-029--tucuenta0102.replit.app
 verificacion-de-office365-se.webflow.io
 verificacion-del-portal1.weebly.com
 verificacion-pago-cuenta.com
@@ -7392,7 +7336,6 @@ videolove.clanteam.com
 videonews247.net
 videoplanet.pl
 videoplayerhub.com
-videoprime.co
 videose.com
 videosexxynew.duckdns.org
 videoslots-casino.fr
@@ -7885,6 +7828,7 @@ vinted-help.s.gy
 vinted-helper.com
 vinted-mise-a-jour-du-compte.fr
 vinted-miseajour.fr
+vinted-us.com
 vinted-vends.weebly.com
 vinted-verif.lxwjys.com
 vinted-verification-systematique-du-paiement.fr
@@ -7951,6 +7895,7 @@ vinted.sell-safe.click
 vinted.seller-confirmation8294.help
 vinted.sellernew-verification.click
 vinted.sellerverification-page.click
+vinted.shoppingalarm.com
 vinted.smurfysstore.com
 vinted.team-authentificatlon.com
 vinted.team-authentificatlon.pro
@@ -8009,6 +7954,7 @@ violations-helps-recovery2023.start.page
 violationsyllable.com
 violationtones.com
 violationuse.start.page
+violationverificationgroup186.vercel.app
 violentantony.com
 violentenclose.com
 violentlinedexploit.com
@@ -8888,7 +8834,6 @@ vlrivvlxtdtke.online
 vlrkfeeoo.com
 vlrvrntcxjljnu.com
 vlry5l4j5gbn.com
-vlsng521low-hbkfphb-0a5c2f-vlq42c.pages.dev
 vlsofuzczfmqz.website
 vltavarendavik.com
 vltavaziskoveks.com
@@ -8942,6 +8887,7 @@ vmi-mysti.web.app
 vmi3535754.contaboserver.net
 vmi3580075.contaboserver.net
 vmi3592227.contaboserver.net
+vmi3634036.contaboserver.net
 vmind.qqvideo.tc.qq.com
 vmindhls.tc.qq.com
 vmitrulden.net
@@ -9174,7 +9120,6 @@ vod-dai-psn.gslb2.comcast.com
 vod-essai.com
 vod-kjd.com
 vod-mplayer.sooplive.com
-vod-tkb.com
 vod-tv.pl
 vod-zob.com
 vod.film
@@ -9230,6 +9175,7 @@ voiceads.com
 voicebt.m-pages.com
 voicedstart.com
 voicefive.com
+voicemail.tsisd.ca
 voicemail001.weebly.com
 voicemailgmtel.weebly.com
 voicemailmessageservice-103801.weeblysite.com
@@ -9243,6 +9189,7 @@ voicewinds.com
 voiceworkproductions.com
 void-dusk.com
 voidfes.puertoricoffroad.com
+voidgame.ink
 voidgoo.com
 voidmaple.com
 voidsshape.forum
@@ -9528,7 +9475,6 @@ vormela-gld-belquna-c2x6fq91.pages.dev
 vormela-gld-fentora-c1m5dw87.pages.dev
 vormela-gld-zarqumi-c6x8hp72.pages.dev
 vormela-gld-zentora-c6t4dc91.pages.dev
-vormela-kxt-lorfeta-r9t5dp34.pages.dev
 vormelo-gld-larqumi-r1q5dk63.pages.dev
 vormelu-gld-belquro-r5m3dw41.pages.dev
 vorminfunctie.nl
@@ -9688,6 +9634,7 @@ vox-ra.work
 vox-renda.net
 vox-voice.com
 vox2z5.tqe287joo45fmjm3z1emm6mpwm.cyou
+voxajfbcqfj.com
 voxar.xyz
 voxboost.site
 voxcasino-fr.fr
@@ -10151,7 +10098,6 @@ vugqkeanmhm.com
 vuguhya.com
 vugurafugore.com
 vuh47jtxyrx66ue74c9h98yjhjih.cfd
-vuhaulroaft.net
 vuhcoxkaeacrc.space
 vuhewau.pro
 vuhybyszidvak.website
@@ -10275,6 +10221,7 @@ vurdek.shop
 vurdoxen.pro
 vurhabbkef.in
 vurig-monerixplatform.com
+vurikoluwo.home64.de
 vurinestaaisoftware.com
 vurneli.shop
 vurr.cn
@@ -10471,7 +10418,6 @@ vxsdibhjeyvwf.space
 vxsilfdoutlsmxr.com
 vxsnk.com
 vxsrwrm.duckdns.org
-vxsx3456543.weebly.com
 vxumftnoc.net
 vxuvgslsciqly.online
 vxvfzipxxipup.site
@@ -10545,7 +10491,6 @@ vynxaria.com
 vyplatatrznikovtrade.com
 vypmgvwjvgztv.space
 vypunay.com
-vyqn.cn
 vyragdxymcqtw.online
 vyranivotrade-de.com
 vyranivotrade-engine.com
@@ -10635,6 +10580,7 @@ vzofbsmlnuumm.space
 vzrhwmsj.icu
 vzstscoagbdvv.online
 vztformhlflsz.website
+vzucwyptfoobn.space
 vzvao.com
 vzvzjlzzjfodn.space
 vzwvakkmefryp.space
@@ -10654,7 +10600,6 @@ w-deche.live
 w-lnstagram.com
 w-lozo.com
 w-profiling.simplii.com
-w-s-a.co.uk
 w-tools.com
 w-ws.ws
 w.5irl66qb4cuv86l1.cyou
@@ -10726,6 +10671,7 @@ w3fov7zal.com
 w3i.com
 w3larabii4.page.link
 w3nagx.close.futureisready.com
+w3signin.xyz
 w3toolshub.com
 w454n74qw.com
 w4b52osbr5.com
@@ -10931,7 +10877,6 @@ wainfuljain.com
 waiphoon.com
 wairingcheney.com
 wairsolace.com
-waishauglid.net
 waisheph.com
 waistburnsvisiting.com
 waistcoataskeddone.com
@@ -11025,11 +10970,9 @@ wallconet.onrender.com
 wallconnet.onrender.com
 walldatewishful.com
 walle8.com
-wallet--ustriezeoro---io.webflow.io
 wallet-ab.pages.dev
 wallet-connect-integration.rf.gd
 wallet-extn-metmsk.wixstudio.com
-wallet-legder-live.wixstudio.com
 wallet-magiceden-io.webflow.io
 wallet-meta-mask-cdn-us.vercel.app
 wallet-orbit.pages.dev
@@ -11242,9 +11185,11 @@ waqerjusidiajsdiadoadsj.site
 waqool.com
 waqwcbnbbpliz.online
 war.thinkerwealth.com
+warayana.com.pe
 warbler.resumebuilder.dev
 warbler.todoscout.com
 warco.pl
+wardedxeroses.com
 wardeneerieenginedriver.com
 wardenengine.com
 wardenkapitvale.net
@@ -11728,6 +11673,7 @@ wbc1.webcindario.com
 wbclick.mobile.sina.cn
 wbdaxsscxpgzg.website
 wbdds.fr.ign.com
+wbdrcw.com
 wbe4.cn
 wbet9.net
 wbetz-casino.fr
@@ -12072,7 +12018,6 @@ web-gamma.weebly.com
 web-guardian.xyz
 web-homepage.net
 web-ioledger.wixstudio.com
-web-iostrt-trezr-cloud.framer.ai
 web-ivcbrasil-tag.s3.us-west-2.amazonaws.com
 web-konto74.weebly.com
 web-kopra-update.godaddysites.com
@@ -12089,6 +12034,7 @@ web-mall-108.weeblysite.com
 web-mediaplayer.com
 web-ndax-en--io-cdn--auth.webflow.io
 web-nexus.net
+web-okex-wallet-us.typedream.app
 web-online.pl
 web-panel.online
 web-perf.booking.com
@@ -12116,7 +12062,6 @@ web-telegram.ru
 web-trace.ksapisrv.com
 web-track.go2yd.com
 web-trez.wixstudio.com
-web-trezor--bridge.typedream.app
 web-url.net
 web-vitals-script.leaderint.workers.dev
 web-vitals.bfops.io
@@ -12159,6 +12104,7 @@ web3-auth-remote-potocol-dapps.pages.dev
 web3-connect-wallet.webflow.io
 web3-dapps-remote-auth-protocol.pages.dev
 web3-exo-dus.zapier.app
+web3-exo.pages.dev
 web3-exoduos.wixstudio.com
 web3-exxodos.wixstudio.com
 web3-projects-beta.vercel.app
@@ -12224,7 +12170,6 @@ webapps9282.serveirc.com
 webappsecureaacntsbk3jf9h4ksfdh4.bostoncareercounselor.com
 webappsecureacng03jsdflkh34w.churchinroodepoort.co.za
 webappsecureactaccntswebpoisdg9yhp3os.bikashadhikari.com.np
-webappsecurekjlyhsdkjhsdg.ftgkirtyhdrtodrtfhgfd.com
 webappupheldcdn.wixstudio.com
 webarh.com
 webashameattendant.com
@@ -12387,7 +12332,6 @@ webmail-chalmers-se-owa.weebly.com
 webmail-cisco.firebaseapp.com
 webmail-cisco.web.app
 webmail-earthlink-net-newmessage.framer.website
-webmail-eastlink-cai.weebly.com
 webmail-editor--webmail-in.replit.app
 webmail-email-login.weebly.com
 webmail-erty5.weebly.com
@@ -12475,7 +12419,6 @@ webmailno-logorg.weebly.com
 webmailrack10.weeblysite.com
 webmailroundcubemailupgradewebmail.weebly.com
 webmailroundcubewebmailmailwebmail.weebly.com
-webmailroundmailboxupgrade.weebly.com
 webmailrupdatekorea.firebaseapp.com
 webmailrupdatekorea.web.app
 webmailseatel-231.weebly.com
@@ -12866,6 +12809,7 @@ weibonews.com
 weichdsfiass201209xklsnxnso.duckdns.org
 weidenerkammerchor.de
 weidianyuedu.com
+weidroid.com
 weiekbrbolvvk.online
 weigea.info
 weigeg.info
@@ -13108,7 +13052,6 @@ wemailacmontpellierfristatic0110nalldomainlayoutoginbrodcs.weebly.com
 wemailacmontpellierfristatic0110nalldomainlayoutoginpromos.weebly.com
 wemailacmontpellierfrivcstatic0c110nalldomainlayoutoginfrance.weebly.com
 wemailacmontpellierfriwcstatic0c11nalldomainlayoutloginfrance.weebly.com
-wemailacmontpellierfriwcstatic0c11nalldomainlayoutoginfrance.weebly.com
 wemajai.pro
 wemamsdkkwioweioadi.site
 wemastore.com
@@ -13558,7 +13501,6 @@ wfmlaneyk.com
 wfow-8ab44.firebaseapp.com
 wfow-8ab44.web.app
 wfpropertyltd.com
-wfq92.vercel.app
 wfqthmjtebdbc.website
 wfreau.com
 wfrglsvwclwqp.space
@@ -13621,8 +13563,11 @@ wgy-df.firebaseapp.com
 wgy-df.web.app
 wgzaprexwmzki.site
 wgzgarcunfpjq.space
-wh-appsk.com
-wh-appvc.com
+wh-appetn.com
+wh-appmn.com
+wh-appne.com
+wh-appthg.com
+wh-appzn.com
 wh.vecer.com
 wh07ut.com
 wh1526711.ispot.cc
@@ -13682,6 +13627,7 @@ whatsapp-group.sxx.25u.com
 whatsapp-group18.4dq.com
 whatsapp-grupnew20.justdied.com
 whatsapp-link-momxx.pages.dev
+whatsapp.acceso.me
 whatsapp18.joins5.com
 whatsapp18.workzs.com
 whatsapp19.duckdns.org
@@ -13841,6 +13787,7 @@ whiskeywealthclub.com
 whiskyqueue.com
 whiskyswiat.shop
 whiskytango.net
+whisone.cc
 whispa.com
 whispedwoodmoodsksl.shop
 whisper-dwellings.com
@@ -14196,7 +14143,6 @@ wifi4games.net
 wifidown.com
 wifihacked.com
 wifihackpassword.com
-wifihgu.duckdns.org
 wifimaster.tech
 wifimedya.com
 wifipasser.com
@@ -14716,7 +14662,6 @@ windsorcredpeak.digital
 windsorcredpeakbot.live
 windsplay.com
 windstream3838.weebly.com
-windstream4774.weebly.com
 windstremkineticauthorizekef.weebly.com
 windsurf-telemetry.codeium.com
 windupdates.com
@@ -15153,6 +15098,7 @@ wispy-loom.com
 wispycity.com
 wissekeygroup.com
 wissende.122.2o7.net
+wistedresewedgas.qpon
 wisteinsight.com
 wister.biz
 wistful-dream.com
@@ -15225,7 +15171,6 @@ wittenhorst.eu
 witter.thermostar.info
 witty-dragon-229707.framer.app
 witty-educate.com
-witty-fancy-612590.framer.app
 witty-follow-417260.framer.app
 witty-garden.com
 witty-scone-935412.framer.app
@@ -15265,7 +15210,6 @@ wix.consentik.com
 wix.domain-renewbillingnotice.com
 wixdox.online
 wixlabs-adsense-v3.uc.r.appspot.com
-wixledgerstart.wixstudio.com
 wixnm.com
 wixossdavdsteamworkspace.myclickfunnels.com
 wixspins.net
@@ -15474,10 +15418,8 @@ wmailsignin0000z97jed2.weebly.com
 wmailsignin0000z97jed3.weebly.com
 wmailzzkrzjkut477kr.weebly.com
 wmailzzkrzjkut59.weebly.com
-wmailzzkrzjkut5999.weebly.com
 wmailzzkrzjkut5krr.weebly.com
 wmailzzkrzjkut82kr.weebly.com
-wmailzzkrzjkut93z.weebly.com
 wmailzzkrzjkutkr01.weebly.com
 wmars-client.wemakeprice.com
 wmavhyon.com
@@ -15571,6 +15513,7 @@ wnetria.shop
 wnetrino.shop
 wnetrivo.shop
 wnetrivoe.shop
+wnetrivoza.shop
 wnetrzedomu.shop
 wnewton209.github.io
 wngphwgajdaek.space
@@ -15623,7 +15566,6 @@ wo6h5tx8w.com
 wo9mtb.qpon
 woacoaglastaim.net
 woafoame.net
-woagevaibi.net
 woai117.cn
 woaiwenwen.com
 wob2ch8.top
@@ -15710,6 +15652,7 @@ wolnachwilakiremo.site
 wolnawyborpxmdqcentrum.site
 wolphone.net
 wolpuchelinno.com
+wolsblgkavcuq.online
 wolsretet.net
 woltar.live
 woltarty.com
@@ -15791,6 +15734,7 @@ wonnedbreaavetcy.info
 wonnerdirging.com
 wonoko-wayofi.info
 wonosobo.com
+wontedpencels.com
 wontent.powvideo.net
 wonvvkinessinutility.info
 woo-casino.fr
@@ -16347,6 +16291,7 @@ wqxvfzvqcqmcs.website
 wqyenrdmgkikd.site
 wqyfmgas.shop
 wqyvnielwcgvo.space
+wqzhuce.com
 wr.brandonketting.com
 wr.yiyouliao.com
 wr5ixw.casa
@@ -16384,7 +16329,6 @@ wrenwool.shop
 wrenzaltov-austria.sbs
 wrenzaltov-norway.sbs
 wrenzaltovtrade.com
-wres.cn
 wrestforsake.com
 wrestgrandfather.com
 wrestlesolveswede.com
@@ -16790,7 +16734,6 @@ wuvematrix.site
 wuvrfvmvqabgc.store
 wuvudpywmvqoo.online
 wuweizhe.com
-wuwhouhagrus.net
 wuwogyfkwifph.site
 wuwydiy.com
 wux3a7.close.futureisready.com
@@ -16839,7 +16782,6 @@ wvvzcepbqxkcc.site
 wvw--roblox.com
 wvw-roblcx.com
 wvwfacebook.com
-wvwv-apple.com
 wvwvww-roblox.com
 wvxi9jbnt.com
 wvxudfshkgolb.site
@@ -17030,7 +16972,6 @@ www1.xise.cn
 www12.0zz0.com
 www1tunesapp1e.servehttp.com
 www2--mlcauerard--co--jp--mlaocredd-caidrams68592-workers-dev.translate.goog
-www2.0zz0.com
 www2.doubleclick.com
 www2.doubleclick.net
 www2.mersch-reinigungstechnik.de
@@ -17230,6 +17171,7 @@ wxsnsdy.video.qq.com
 wxsnsdythumb.wxs.qq.com
 wxstcswyfmaji.site
 wxtldkydabpmz.online
+wxuvtikeawhip.online
 wxvhdvud.shop
 wxvpo5.gow.englishwoodlands.co.uk
 wxwdpvolofgdt.site
@@ -17629,7 +17571,6 @@ xad.com
 xad.dnoticias.pt
 xaddgabym.com
 xadrek.shop
-xads-telegram.com.cn
 xads.joboko.com
 xadsmart.com
 xadsmartget.adgain.cn
@@ -17877,7 +17818,6 @@ xc-club.tv
 xc.gdt.qq.com
 xc.macd.cn
 xc0m.com
-xc1y2oam.jetbet.download
 xc5r5huxrr.com
 xcajj.com
 xcamczz.weebly.com
@@ -18320,7 +18260,6 @@ xfinityconfirm.weebly.com
 xfinityconnect.bimlarge.com
 xfinityconnectsite.weebly.com
 xfinityconnectxxx.framer.website
-xfinitydeskin2026term.weebly.com
 xfinitydocusign.weebly.com
 xfinityemailconnect.weebly.com
 xfinityemailseguuh.framer.website
@@ -18394,19 +18333,18 @@ xfintyupgrade.weebly.com
 xfintyxx.weebly.com
 xfjffdfdf.weebly.com
 xfjy2fh28b.com
-xflnity.webflow.io
 xflnjtnmywule.website
 xflnltycregifytcardggd.framer.website
 xflowgate.site
 xflqkwgzjedll.site
 xfmailconnect.weebly.com
-xfmewmails.weebly.com
 xfmobile-mail.weebly.com
 xfmybdtedhzel.website
 xfnhcbuj.shop
 xfnityupdate.weebly.com
 xfnty2212.weebly.com
 xfny.weeblysite.com
+xfomcipa.in
 xfpmpdhrjvgrm.site
 xfpnbatksikdf.space
 xfqiwwdxryuvo.website
@@ -18634,7 +18572,6 @@ ximorun.site
 ximtfhywwwwbs.online
 ximybkpxwu.com
 xin3vs-1nm-o0fae8-bbua80.pages.dev
-xin8-dgbngthudkapdmeh.z02.azurefd.net
 xindalawyer.com
 xindream.cn
 xingchenjia.com
@@ -20380,6 +20317,7 @@ xquzkomqjvslb.online
 xqvwiielnamy.com
 xqwaixyfvtvxy.space
 xqwkfbmazxgwe.online
+xqwsuagia.com
 xqwuinesqoi.vercel.app
 xqxplqzqywvcj.website
 xqyubbzfvfbtl.site
@@ -20707,6 +20645,7 @@ xupabul.pro
 xupiter.com
 xupmzrflnoedu.website
 xupnmgwgmjddx.site
+xupqgqmwqkfvy.space
 xupvpxnjlfztb.site
 xuqbrtisoli.com
 xuqvwjogpdglk.site
@@ -20913,7 +20852,6 @@ xxsmtz8.com
 xxsmtz9.com
 xxsowlfycllbg.space
 xxst.xyz
-xxsxsasdfsghman.lol
 xxuz.com
 xxvfswapdzisf.website
 xxvv435.weebly.com
@@ -21167,6 +21105,7 @@ y12.org
 y12sascuacseronier.weebly.com
 y194.asics.com
 y197.standardspeaker.com
+y1c8m-vhx-abmd-fgngy-01-10-2026-aa.pages.dev
 y1zoxngxp.com
 y267yg.close.futureisready.com
 y2corona.com
@@ -21231,7 +21170,6 @@ y9oog9hyuo.com
 ya-googl.ws
 ya0poaiu-0a9.weebly.com
 ya27fw.k6zix6.com
-ya6a-azyu6-686-761w-n9t-vkh.pages.dev
 ya7btb.close.futureisready.com
 ya804x.jpbrazs.com
 yaa-casino.fr
@@ -21653,7 +21591,6 @@ ydqehddh.com
 ydqzkj.com
 ydsagcvrejuim.online
 ydsfhdhd.weebly.com
-ydsfsggd.weebly.com
 ydsgshs.weebly.com
 ydshipin.com
 ydswf.com
@@ -22198,7 +22135,6 @@ yjopmnjbxlgys.site
 yjotqzesimahl.online
 yjpehuogudsoy.site
 yjprlwskt.com
-yjrbnmoc.casinomhub.bet
 yjrhhbqxj65yy1r.rest
 yjsnhansijjpy.online
 yjsojn.shet.eveshamairporttransfers.co.uk
@@ -22303,6 +22239,7 @@ ylog.hiido.com
 ylog.huya.com
 ylog.nimo.tv
 ylogepubxynzu.space
+ylpvdnotfwvwa.space
 ylqaven.vip
 ylqreltdrixef.website
 ylr1xn2b4i.com
@@ -22489,7 +22426,6 @@ yoganoconstor.vercel.app
 yogapersuasive.com
 yogapl.club
 yogasitesdev.wpengine.com
-yogate3773yebdehbf8323428e34yfdhbfcdfc43erd23.weebly.com
 yogbucxeeigvs.space
 yogh.eu
 yogicpa.com
@@ -22504,6 +22440,7 @@ yohioo.com
 yohle.com
 yohocasino.fr
 yohxkdhlsmvue.website
+yohzpgsemkycv.space
 yoimeuyjstcyw.space
 yoiur.com
 yoiw.weebly.com
@@ -23080,7 +23017,6 @@ ystradfield.eu
 ysujs.com
 ysuuasycgucgc.weebly.com
 ysuxz.com
-ysuy.cn
 ysvgpdgr.com
 yswrwlzzbhqjs.site
 ysxbgquecngah.site
@@ -23534,6 +23470,7 @@ yylady.cn
 yylocmbfkmymlg.com
 yymobilegame.game.yy.com
 yymowvdy0.com
+yymqjghotqesw.site
 yynapudha.com
 yynjz9c10zwtalv6harp.s3.us-east-1.amazonaws.com
 yynxc.com
@@ -23668,7 +23605,6 @@ z1el6lgol.com
 z1fl848ft.com
 z1hihu.xmcimg.com
 z1lmjks4l.com
-z1me4.shop
 z1p996.jrik.perforationmachinery.co.uk
 z2.cnzz.com
 z210.manisteenews.com
@@ -24183,7 +24119,6 @@ zasamiokoidosfisofifsof.site
 zasanunsaderuisd.site
 zasasaudoffosisfosf.site
 zasasmioaiodisdosdsfi.site
-zasehajote.myftp.org
 zaselya.com
 zaseropowwdeosdsdl.site
 zaseruiomred.weebly.com
@@ -24212,7 +24147,6 @@ zaubergartenpro.com
 zaufaukapo.com
 zaunenurjcmin.site
 zauphozaucou.net
-zaupoogoopelu.net
 zauren-flux.org
 zaurenflux.com
 zaurenflux.org
@@ -24361,6 +24295,7 @@ zcvsxqcyjtcse.online
 zcw6-0pl-8keetw-813mpj-fk9.pages.dev
 zcxbvkltuahhj.site
 zcxdhoyoncjbv.space
+zcxfpncdrbdun.space
 zcxwmnbv.vercel.app
 zcxwmnfhcsbzm.website
 zcymvyglyjyxu.online
@@ -24994,7 +24929,6 @@ zeroclampentice.com
 zerocodec.com
 zerodayv3startedexploitpcwithexcelgreat.duckdns.org
 zerodebtspro.com
-zerodev.tools
 zeroequalsinfinity.org
 zeroextra.shop
 zerofeescreditcard.com
@@ -25155,6 +25089,7 @@ zfpn7ef472.com
 zfptshtslxuxw.online
 zfqunezf.xyz
 zfru.cn
+zfsdnkzmheyg.com
 zfueggndiarke.site
 zfvrtgmskvtsu.store
 zfvsegulxcsgm.online
@@ -25247,6 +25182,7 @@ zgzxs.weathercn.com
 zh-8568f96248.preview.weglot.io
 zh-kaiyun-secure.com.cn
 zh-log.vietnamplus.vn
+zh.cn-oyi-okx.com.cn
 zh.sg
 zh3ka.ddns.net
 zh4qnnf63.com
@@ -25316,7 +25252,6 @@ zhiziyun.com
 zhjfad.com
 zhjfwqstore.shop
 zhjqx.com
-zhky31qjns-h09s.vercel.app
 zhlzdhr.cn
 zhntvykltwwcp.website
 zhodrukle.net
@@ -25465,6 +25400,7 @@ zigzagcabin.com
 zihinlab.com
 zihinlab.net
 ziiambra.weebly.com
+zijacijeno.ipv64.de
 zijqohihvozks.space
 zijuqie.pro
 zikeke7.com
@@ -25567,7 +25503,6 @@ zinekrtshkgkl.website
 zinf6569t3zzqv17nqh.clphr5jgwogwu4rzr.cyou
 zinfold.online
 zing.studio
-zingaurtoam.net
 zingmarkbit-digital.pages.dev
 zingpay.mobi
 zingshop.net
@@ -26083,6 +26018,7 @@ zobacz-film.pl
 zobacz24.pl
 zobaczktopodgladaa.blogspot.com
 zoblox.com
+zobwin.com
 zochao.com
 zocjmqoxxeazz.online
 zocwfosbxwqru.website
@@ -26190,7 +26126,6 @@ zonalcalculate.net
 zonaluxbit-app.click
 zonaluxbit.net
 zonaluxbitapp.com
-zonaseguraedu.dothome.co.kr
 zonaws.com
 zondagpt.click
 zone-media.com
@@ -26265,7 +26200,6 @@ zoomblueberry.sacredknowledgedoulacare.com
 zoomcflhjpiou.site
 zoome-casino.fr
 zoomed-breeze.com
-zoomeeting.pages.dev
 zoomfiles.net
 zoominglife.com
 zoompay.com
@@ -26398,7 +26332,6 @@ zp0o8pii.xyz
 zp1.duckdns.org
 zp8kh.v8fxlo.casa
 zp8roiukic.com
-zp9gde.bitrix24.site
 zpabpuzuktwo.in
 zpafiska.pl
 zpddpeansivca.space
@@ -26763,7 +26696,6 @@ zuioeh887e.start.page
 zuivercoreflow-system.com
 zuivertradeluxsoftware.com
 zujtlj.icu
-zujz.cn
 zukecoe.com
 zuki-bird.vercel.app
 zuki-bot.vercel.app
@@ -27039,7 +26971,6 @@ zxcdn.com
 zxcjijwocylga.online
 zxcno.com
 zxcnv.com
-zxco.madgal.life
 zxcpt.com
 zxcqyggt.notoings.com
 zxctkcscdghws.site
@@ -27066,7 +26997,6 @@ zxjshtdjvtfhb.site
 zxlinks.com
 zxmcm.shop
 zxmkhbsmmuikc.online
-zxn532zimbra.weebly.com
 zxncvxvnxncvdfjkwe.com
 zxnymrendoxms.space
 zxqvocyhiggng.site
@@ -27081,7 +27011,6 @@ zxvxukirgmomz.site
 zxw51.com
 zxwdw.com
 zxwfcwm.icu
-zxx1gpmw.pars90.download
 zxxestiersubclinical.info
 zxxfk.com
 zxyxq.com
@@ -27122,6 +27051,7 @@ zybrxperfael.site
 zybrylmind.site
 zycdjz.com
 zycfmauhj.com
+zydtikqpllcmc.online
 zyduqiu.pro
 zyek35wsn.com
 zyf03k.xyz
