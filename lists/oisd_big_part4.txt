@@ -1,9 +1,16 @@
 # OISD Big Blocklist – Part 4
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-10-25T22:24:00Z
-# Entries: 23,656 (of 233,656 total)
+# Updated: 2026-10-26T04:15:39Z
+# Entries: 23,661 (of 233,661 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
+used-challenge.com
+used-minnesota-classifieds.com
+usedbuttrue.shop
+usedcars.digital
+usedcars.live
+usedcarsninja.com
+usedcarsup.com
 usedjapanesecars.com
 usedtiresking.com
 usefomo.com
@@ -18173,7 +18180,6 @@ yfldcanampeev.online
 yfmwnkd1ti.com
 yfpjkmractvew.online
 yfqnujpniizil.website
-yfqrdeewqnwvy.net
 yfqry.com
 yfqtpyfxcfbyq.online
 yfrfyhf.youdontcare.com
@@ -18665,7 +18671,6 @@ yn4ywq.casa
 yn68b5vn9.com
 ynafusihflnzm.online
 ynbojie.com
-ynbsakxipni.net
 ynbzxh.com
 yncddpjquwij.net
 yncfwy.net
