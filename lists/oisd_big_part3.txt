@@ -1,9 +1,30 @@
 # OISD Big Blocklist – Part 3
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-10-26T23:40:23Z
-# Entries: 70,000 (of 234,160 total)
+# Updated: 2026-10-27T04:34:30Z
+# Entries: 70,000 (of 234,210 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
+nr-data.com
+nr-events.taboola.com
+nr-ijk.net
+nr-js.imaios.com
+nr.lanouvellerepublique.fr
+nr.nextlgsdp.com
+nr.static.mmcdn.com
+nr.taboola.com
+nragoodguys.com
+nralegal.com
+nraluhknrvpwt.online
+nrc-soluciones.com.ar
+nrefybpeqrpkw.online
+nreg.world
+nreiworwdkworwprfkeor.com
+nrelvaxion.shop
+nremovzosoxzu.online
+nrepaypal.genesis-perpetual.net.au
+nreraoq.lovable.app
+nresystems.com
+nrewodcmsperf.com
 nrf9876234.firebaseapp.com
 nrf9876234.web.app
 nrfvq6g98.com
@@ -3063,6 +3084,7 @@ olx.fldspfskpo.eu.cc
 olx.flowcore-express.click
 olx.hit.gemius.pl
 olx.id6391.click
+olx.id765426.shop
 olx.id935244.com
 olx.kupuje-onl1n1e.me
 olx.lokalna-32320.sbs
@@ -3092,11 +3114,9 @@ olx.paypay-pl3.eu.cc
 olx.payu-nitro-pl.eu.cc
 olx.pl-94684695.shop
 olx.pl-firmowe47245.click
-olx.pl-hdwnd72nxiw92nr9xg3.shop
 olx.pl-oferta018729272.shop
 olx.pl-oferta08492721.shop
 olx.pl-oferta56734sdy5s7.shop
-olx.pl-oferta912873651.cfd
 olx.pl-paycor.club
 olx.pl-paymoney.eu.cc
 olx.pl-skrpay.world
@@ -3340,14 +3360,17 @@ omzal.com
 omzkdhbltgcyi.website
 omzmakqcynnbt.site
 omzylhvhwp.com
+on-at.myshoplaza.com
 on-chain-protocol.vercel.app
 on-chainexplores.pages.dev
 on-click.ir
+on-hu.myshoplaza.com
 on-mobi.com
 on-registerfb.webnode.com
 on-roblox.com
 on-runningfrance.fr
 on-shop-pl.myshoplaza.com
+on-shop.shop
 on.qobuz.com
 on1force.web.app
 on42309fk3.shop
@@ -3964,8 +3987,10 @@ onroggenrolaa.com
 onrt-stsdk.vivo.com.cn
 onrt-stsdk.vivoglobal.com
 onrunning-at.myshoplaza.com
+onrunning-eu.myshoplaza.com
 onrunning-france.fr
 onrunning-polskas.com
+onrunning-shop.myshoplaza.com
 onrunning.fr
 onrunningshose.com
 onrvyrdwqpiwn.online
@@ -6328,6 +6353,7 @@ ove.com.ng
 oveffrstimulations.info
 ovekrdngtazex.space
 ovenbifaces.cam
+ovendev.com
 oventerrifying.com
 oventix.pro
 ovepprshootssned.info
@@ -9000,6 +9026,7 @@ paypalx.e-monsite.com
 paypalzs.beget.tech
 paypay-card.lmljujl.cn
 paypay-pl.eu.cc
+paypaywisp.com
 paypie.net
 paypip.fr
 paypl.com
@@ -11841,6 +11868,7 @@ pitifulrelationship.com
 pitofficialfollower.com
 pitsensation.com
 pitspor.com
+pittaapert.store
 pittbradford.info
 pittitezazens.com
 pittsburghpostgazette.112.2o7.net
@@ -12273,6 +12301,7 @@ pl-focus.shop
 pl-glurvextopinai.com
 pl-glurvextopinai.net
 pl-gov.eu.cc
+pl-hdwnd72nxiw92nr9xg3.shop
 pl-huda.myshopify.com
 pl-i.shop
 pl-i1i.shop
@@ -12338,6 +12367,8 @@ pl-oferta8731298212.shop
 pl-oferta87344537.click
 pl-oferta874f5h5.click
 pl-oferta909347.click
+pl-oferta912873651.cfd
+pl-oferta963287151.cfd
 pl-ofertan7h4lf.click
 pl-ofertan8nhi3ad.shop
 pl-ogloszenia-firmowe-83443.click
@@ -12346,6 +12377,7 @@ pl-ogloszenia-firmowe83842.click
 pl-ogloszenia-firmowe8827323.click
 pl-ogloszenie-1k851fa.shop
 pl-ogloszenie01291471940.shop
+pl-ogloszenie1289191.shop
 pl-ogloszenie1821011.shop
 pl-ogloszenie192048129.shop
 pl-ogloszenie2194812912.shop
@@ -12394,6 +12426,7 @@ pl-sklep2oferta76959134.shop
 pl-sklep2oferta837894091.shop
 pl-sklep2oferty786958494.shop
 pl-sklep3oferty945968898.shop
+pl-smart457747.lol
 pl-ticektnumber712932193912.com
 pl-ticketnumber89687612.biz
 pl-tikitfemani.rest
@@ -12473,6 +12506,7 @@ pl589182.shop
 pl62638394.shop
 pl6826361.shop
 pl6c-wbak2s-kkff8e-rllgwp.pages.dev
+pl743577456323.shop
 pl744113456323.shop
 pl744113577456323.shop
 pl78.shop
@@ -13819,6 +13853,7 @@ pocket.kg
 pocketfaucet.com
 pocketmaaal.weebly.com
 pocketmath.com
+pocketoption-ai.net
 pocketoption.app
 pocketpark.shop
 pocketpay-demo.pages.dev
@@ -29215,6 +29250,7 @@ ritualseur.shop
 ritualsonline.shop
 ritualsupply.net
 ritualwants.com
+ritufgrand.store
 ritzocasino.fr
 ritztours.com
 ritzumafma.com
@@ -32119,6 +32155,7 @@ runevoki.com
 runforzim.weebly.com
 rungamepc.ru
 rungbeacon.com
+rungkimloc.com
 rungkindseclude.com
 rungrattan.shop
 runhaamzvkarj.website
@@ -37526,6 +37563,7 @@ sermondirt.com
 sermonfeed.com
 sernolatra.info
 sernyraquimaron.com
+serocfranc.store
 seroconvuuersions.info
 serom38.fr
 seronegativtte.info
@@ -39964,6 +40002,7 @@ sign-in-to-xfinity-webmail-108277.weeblysite.com
 sign-in-to-xfinitycom.weebly.com
 sign-in-to-xfinitycom.weeblysite.com
 sign-useracount-signin.aba.vg
+signaeffem.store
 signage-survey.com
 signageinsignia.co.za
 signal-avapro-nx.live
@@ -44107,6 +44146,7 @@ soumkentech.com
 sound-sniper.com
 sound-sonic.vercel.app
 sound.me
+soundaccrument.com
 soundandshinesolutions.cv
 soundbarjap.com
 soundbirding.org
@@ -50872,6 +50912,7 @@ suelto-creditante.pro
 suelto-creditantesolution.com
 sueltocreditante-ai.live
 sueltocreditante.live
+sueltocreditanteopiniones.com
 sueltocreditanteopiniones.shop
 sueltocreditantetrade.com
 sueracismconsequently.com
@@ -55596,6 +55637,7 @@ tehznqplxr.click
 tehznqplxr.help
 tehznqplxr.shop
 teichmer.com
+teichpoint.live
 teieaukuyw.wiki
 teieccpejn.love
 teiecgtcvp.love
@@ -55857,6 +55899,7 @@ telearedxx.club
 teleargentina.com
 telearkxxo.shop
 telearqier.help
+telearwate.beer
 telearwate.cyou
 telearwate.help
 teleatexso.shop
@@ -62518,6 +62561,7 @@ towerbetcasino.fr
 towercasinos.fr
 towergalatapub.com
 toweringanswer.com
+towernet.org
 towerpubic.cyou
 towerrushargent.fr
 towerrushjeux.fr
@@ -69960,47 +70004,3 @@ uqidian.com
 uqijaci.sbs
 uqijlljfxmfbi.website
 uqletjdcbcwwtf.com
-uqmjafixfuxjj.site
-uqmrpdwvshsci.website
-uqoqqnokfburn.online
-uqorvvojegngl.site
-uqoxtbwmhofzc.site
-uqqclbgexmriv.store
-uqqgmvetpuzrs.online
-uqqmj868.xyz
-uqqypanepjrlw.site
-uqqyzmje.oy26yg62epge4hxl.cyou
-uqrnrywr.com
-uqrtfsfrawfgn.website
-uqrvnzrdldmay.space
-uqsvj5qzawzpgoq8j-7idbffv8fzazn7daza9je3q.vercel.app
-uqtslulxiarcu.website
-uqtwyajmw.com
-uquuusorusfnd.site
-uqvgtqnthkqgi.space
-uqwaeymuxdghe.website
-uqwalfgltohug.com
-uqxjearmigixi.site
-uqxue3.cmbtn.combertonplaygroup.co.uk
-uqy5nr.close.futureisready.com
-uqypxqdeadsld.com
-uqz.com
-uqzerigoovncc.online
-ur0.jp
-ur2b8q.close.futureisready.com
-ur9grh7xbm8lw6.rest
-urablqistynjk.online
-urafur.clubeo.com
-uralicchatot.com
-uraliwarpagealmner.cyou
-uraltransneft.com
-uramylypcuzwt.online
-uraniumwhiterobot.net
-uranus.jd.com
-urasenkesydney.org.au
-urateswoolgaddtherer.info
-uravoneonera.net
-uravvtvalidateupgradein.netai.net
-urban-casino.fr
-urban-fabric.shop
-urban-signal.pro
