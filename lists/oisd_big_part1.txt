@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-10-28T23:57:06Z
-# Entries: 70,000 (of 234,426 total)
+# Updated: 2026-10-29T05:33:28Z
+# Entries: 70,000 (of 234,509 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -614,7 +614,6 @@
 1001namen.com
 1005webmailmnsisurgeweb.weebly.com
 100651.advision-adnw.jp
-1006565215.hol.es
 100669.com
 1008691.com
 100conversions.com
@@ -5059,6 +5058,7 @@
 577a3cfb8b.f014b13156.com
 577gc.me
 5780.com
+5781852.lat
 5782v3.kollins.laxmisoft.co.uk
 5788vn.com
 57927432-3rdpartyrou.weebly.com
@@ -6929,6 +6929,7 @@
 905127b34f.b40d52efb7.com
 905874987verxgdfsdaswffavdsg79ad77aadfgsbghdr5.s3-eu-central-2.ionoscloud.com
 905trk.com
+9064328.shop
 908df012d9bb72e6d26b41054588d758.com
 90900.com
 90air.pl
@@ -12085,6 +12086,7 @@ adlerforgeapp.com
 adlerforgetrade.net
 adlerquant-ai.com
 adlerquant-ai.org
+adlerquant.com
 adlerquantai.com
 adlersparthal.de
 adlet.voice2page.com
@@ -17750,6 +17752,7 @@ algoma.us
 algonextrade.com
 algonixtrade.net
 algopreneur.com
+algoquant-ai.com
 algorisdobitak.net
 algorithm.ddnsgeek.com
 algorithmischeplattform.de
@@ -18485,6 +18488,7 @@ allegrolokalnie.pl-783642.sbs
 allegrolokalnie.pl-82726927373zamowienie001626382822.rest
 allegrolokalnie.pl-836363748.sbs
 allegrolokalnie.pl-8629109637142.shop
+allegrolokalnie.pl-875243.sbs
 allegrolokalnie.pl-928265272event66241272.biz
 allegrolokalnie.pl-98421412.cfd
 allegrolokalnie.pl-9876756.cfd
@@ -18575,6 +18579,7 @@ allegrolokalnie.pl-oferta742831.com
 allegrolokalnie.pl-oferta74858484.sbs
 allegrolokalnie.pl-oferta7573649.click
 allegrolokalnie.pl-oferta768457.lol
+allegrolokalnie.pl-oferta769827342.cfd
 allegrolokalnie.pl-oferta7715661.click
 allegrolokalnie.pl-oferta784301099.surf
 allegrolokalnie.pl-oferta784301187.de
@@ -21179,6 +21184,7 @@ anchorfieldstudio.xyz
 anchorone.pl
 anchorpoint.co.za
 anchorrichford.shop
+anchorvistastable.bond
 anchovyliversquirt.com
 anchovysubstantial.com
 anchus.com.ar
@@ -26692,6 +26698,7 @@ auth29883.com
 auth3.net
 authagri-securtypaimn.fr
 authanalysis.com
+authcert.es
 authchamp.com
 authdigiitale.firebaseapp.com
 authdigiitale.web.app
@@ -27651,6 +27658,7 @@ axonix-ture.org
 axonix.com
 axonlinebie.shop
 axonlinevip.shop
+axonlite.com
 axonme.cc
 axonsite.com
 axorawebnet.com
@@ -29850,6 +29858,7 @@ barrymusic.com
 bars.funportal.info
 barstolan.com
 bartechsystems.ca
+bartek-pl.shop
 bartek.baby
 bartekbaby.shop
 bartekmarket.shop
@@ -30134,6 +30143,7 @@ bayassetholm.pro
 bayassetholmplatform.com
 bayberrylane.eu
 baybitdex.digital
+baycanvasstudio.bond
 baycitiesbiblecollege.org
 baycode.cn
 baycorner.eu
@@ -30697,6 +30707,7 @@ beaconcdn.qq.com
 beaconfundamoren.net
 beaconfundamoren.pro
 beaconfyldra-engine.com
+beaconharborway.top
 beaconimages.netflix.net
 beaconkapithold.net
 beaconkapithold.shop
@@ -31449,7 +31460,6 @@ bentofield.com
 bentserversiodine.com
 benue.site
 benulekaren.co
-benumelan.com
 benutzernamecube.weebly.com
 benvip.net
 benymusicinst.com
@@ -35263,6 +35273,7 @@ bloomandgracemeals.com
 bloombrainz.com
 bloomdepo.com
 bloomedanddyed.com
+bloomfieldstudio.top
 blooming-asset.com
 blooming-trove.com
 bloomnroses.com
@@ -35521,6 +35532,7 @@ blusivo.com
 blusterflintbig.com
 blutrk.click
 blutrumpet.com
+bluventures-ai.com
 bluza3d.pl
 bluzerohvtrade.de
 blvckd.com
@@ -37750,6 +37762,7 @@ breeze-smooth.com
 breezeclient.com
 breezeclient.org
 breezefieldstudio.xyz
+breezemeadowridge.top
 breezeway.fr
 breezewiseuk.shop
 breezfne.weebly.com
@@ -37762,6 +37775,7 @@ breezy-roam.com
 breezybath.com
 breezybright.com
 breezygrove.com
+breezysparkhaven.bond
 brefadmuxo.com
 breg.fiversity.com
 brehn.de
@@ -38080,6 +38094,7 @@ brightlearningcenter-pzm7y7xz.s3.us-east-2.amazonaws.com
 brightlinegazette.net
 brightliumesty.blogspot.com
 brightlyappliance.com
+brightmeadowsun.life
 brightminds-learning.com
 brightmintwarrant.org
 brightnew.digital
@@ -38697,6 +38712,7 @@ bruvonixai-es.live
 bruvonixai.live
 bruvonixtrading.de
 bruxadi.shop
+bruxellesjournal.space
 bruyere-fondoire-austria.com
 bruyere-gainif.org
 bruyerefondoire.digital
@@ -41688,6 +41704,7 @@ calmcactus.com
 calmdozen.com
 calmerealm.com
 calmfoot.com
+calmharborcrest.life
 calmivana.com
 calmlypompey.com
 calmmedia.digital
@@ -41698,6 +41715,7 @@ calmnotice.site
 calmoatmeal.info
 calmores.com
 calmoriven.info
+calmplumeridge.life
 calmpoint.company
 calmridgeforest.life
 calmshroud.com
@@ -46723,7 +46741,6 @@ chestionar.ro
 chestishugli.com
 chestnut-bucket.shop
 chethgentman.live
-chethoutaujeed.net
 chetopenimette.com
 chett4free.de
 cheviltance.net
@@ -47599,6 +47616,7 @@ circle.sezarco.ir
 circlejavgg124.fun
 circlelevel.com
 circlepavilionclear.bond
+circletidygradient.bond
 circuitair.com
 circuitanvil.com
 circuitboardarena.com
@@ -47784,6 +47802,7 @@ ciwplazwumpsd.space
 ciwswcooilzwj.space
 cix.nl
 cixcljugcznlu.site
+cixdrave.com
 cixe.fr
 cixeizobtuije.online
 cixero.com
@@ -48077,6 +48096,7 @@ clanlottery.com
 clanmute.com
 clannotillortale.com
 clanpages.org
+clanrefin.com
 clappegiust.cfd
 clar-chainoria.live
 clar-rendovia.live
@@ -48838,6 +48858,7 @@ clientwebmailxx.framer.website
 clientwigthamanwebsitepages.weebly.com
 clifads.com
 cliff-moose.com
+cliffatlasstudio.bond
 cliffg.me
 cliffgainpeak.com
 cliffgown.com
@@ -49234,6 +49255,7 @@ clover-spin-casino.fr
 clover-spin.fr
 clover-spincasino.fr
 cloverdtrade.com
+cloverfieldanchor.online
 cloverfieldgoods.eu
 cloverisland.co.nz
 cloverkapithaven-ie.com
@@ -51021,6 +51043,7 @@ compositionstudios.com
 composurepossess.com
 compound.dasbhoard.ink
 compoundecstatic.com
+compoundharborway.top
 compoundministerindoor.com
 compoundpeeredfrankly.com
 compoundstudioember.top
@@ -51367,6 +51390,7 @@ confirms-booking01518.com
 confirms-booking30518.com
 confirmsaccount.start.page
 confirmyouraccountdetails.web.app
+confishipw.store
 confiskreluct.qpon
 confitreggie.top
 conflabbegan.com
@@ -53072,6 +53096,7 @@ cotswoldrealestate.co.uk
 cottageandlane.eu
 cottagebale.com
 cottagepaper.eu
+cottagepulsesteady.bond
 cottagetryon.com
 cotterlane.eu
 cotton-twist.shop
@@ -54080,7 +54105,6 @@ cpanel12wh.bkk1.cloud.z.com
 cpanel180.turbify.biz
 cpanelwebmailjiogo.weebly.com
 cpannel.iceiy.com
-cpaomcdhoatu.net
 cpasmieux-streaming.fr
 cpatrk.net
 cpaway.com
@@ -56457,6 +56481,7 @@ current-oak.com
 current-pad.com
 currentaffairswire.com
 currentcollar.com
+currenteveningshade.bond
 currentfocus.digital
 currentiyattyahoocom.boxmode.io
 currently-att.boxmode.io
@@ -59800,6 +59825,7 @@ dawnfilthscribble.com
 dawngadon.com
 dawngarmentsmartial.com
 dawnguard.dlcodes.com
+dawnharborcrest.life
 dawnkapitlund.net
 dawnmariesnailstudio.com
 dawnripplefield.life
@@ -61237,6 +61263,7 @@ densepatrimesse.live
 denserendovoire-ai.com
 denserendovoire.com
 densitomvvetry.info
+denston.net
 denstoto.org
 densubmarinesubdued.com
 densuscapital.com
@@ -63396,6 +63423,7 @@ discordvip.createsocialcard.top
 discordx.net
 discordxsteam-partner.github.io
 discorg.gg
+discoriado.store
 discorl.com
 discorrd.com
 discorrd.ru
@@ -63617,6 +63645,7 @@ disordertransvalwwue.info
 disordnltros.com
 disorientatuue.info
 disp.titan.mgtv.com
+dispafonde.store
 disparagecaleb.com
 disparagewardenbetrayal.com
 disparagrringlysurimi.info
@@ -63710,6 +63739,7 @@ distancevalidopposition.com
 distancia-radio.com
 distant-assets.com
 distantflame.com
+distantharvestcircle.bond
 distantscience.com
 distedavimistanbul.com
 distedavimturkiye.com
@@ -67316,6 +67346,7 @@ dublinbet-official.fr
 dublinbet.fr
 dublinbetcasinoo.fr
 dublinbetcasinos.fr
+dublinbrief.space
 dublinelectrical.com
 dubno-id2384.eu.cc
 dubwife.com
@@ -67544,6 +67575,7 @@ duomai.com
 duomeng.cn
 duomeng.net
 duomeng.org
+duongkimvinh.com
 duos-pin.fr
 duosay.com
 duospin-casino.fr
@@ -69972,35 +70004,3 @@ egd2402.appspot.com
 egeclinic.com
 egeinternetreklam.com
 egemenkaya.net
-egeocapital.com
-egesanrulman.com
-egestorusms2026.blob.core.windows.net
-egesupmarine.com
-egetezmakina.com
-egfqzlqcynxif.online
-egfrmduvcjtde.website
-egg.afisha.ru
-egg.capitalsociety.org
-egger.nl
-eggexperts.com
-eggfred.com
-egginselectrical.com.au
-eggjddjlsefmm.website
-eggkhujtglllk.space
-eggplantgapmatter.com
-eggrecipe.com
-eggsdart.com
-eggtymologistsqueans.info
-eggxctumiredj.online
-eggy.cool
-egh.me
-egie.fr
-egihaehefiejfjo.ws
-egihaehefiejfjr.ws
-egirl-leak.xyz
-egirl-paradisens.live
-egiscola.pt
-egitqmdbccuih.space
-egj-kl.com
-egj-kl.net
-egj-kl.work
