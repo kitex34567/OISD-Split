@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-11-04T17:53:14Z
-# Entries: 70,000 (of 232,192 total)
+# Updated: 2026-11-05T00:48:31Z
+# Entries: 70,000 (of 232,376 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -3350,6 +3350,7 @@
 303marketplace.com
 303reliable.net
 307.cc
+30747.identity.swrve.com
 307i6i7do.de
 3082420b7f.eeb201e6da.com
 308668.vip
@@ -3383,6 +3384,7 @@
 31022fabaa.com
 310d07a348.27ec4b6fcf.com
 3111eb.close.futureisready.com
+31123.identity.swrve.com
 311factories.net
 3120jpllh.de
 312elementsweb.com
@@ -4305,6 +4307,7 @@
 4c81b78eca.com
 4c86o4.hbg.hebdenbridgedental.co.uk
 4c92j5.cz.cc
+4cfdu.cyou
 4cinsights.com
 4co7mbsb.de
 4cock.com
@@ -5051,6 +5054,7 @@
 58.sub-70-194-163.myvzw.com
 5808l.com
 5812afc7cb.com
+58274.sbs
 582971756703458-dot-wetransfer-auth-file-344.appspot.com
 5853f04e7c.83c6db1e10.com
 5868182.club
@@ -5350,6 +5354,7 @@
 5y9nfpes.52pk.com
 5yc8ui0n3j.com
 5yqi3kg1g.com
+5yw6t3.cyou
 5z4tbn.nt.nativetrees.co.uk
 5zdxk8.super.spx.co.uk
 5zxkdat6t8.com
@@ -5524,6 +5529,7 @@
 6539.bapi.adsafeprotected.com
 65433y434.surf
 6544555.weebly.com
+654551.cfd
 6545678765.weebly.com
 654gesfctbg.shop
 6554.net
@@ -8713,12 +8719,14 @@ absurdityrisk.com
 absurdoctober.com
 absurdowecares.com
 abswvrzlzvwbd.space
+abt-prod-us-east-1-content-star.swrve.com
 abt.s3.yandex.net
 abtekdoor.com
 abtest-api-data-sg.hoyoverse.com
 abtest-api-data.mihoyo.com
 abtest-ch.snssdk.com
 abtest.cap-nb.com
+abtest.swrve.com
 abtesting.perfectcorp.com
 abtesting.roblox.com
 abtracker.adultbouncer.com
@@ -12685,6 +12693,7 @@ adriviera.com
 adrizer.com
 adro.co
 adro.hit.gemius.pl
+adroicruce.store
 adroitdeceitcongestion.com
 adroite-capitorc.live
 adroite-kapitport.live
@@ -18065,6 +18074,7 @@ allegro.ifeu723182.pl
 allegro.iif8120987gg9.help
 allegro.isma912j67.lat
 allegro.jmm5693.qpon
+allegro.kup-2342398g8.casa
 allegro.kup-h459239.casa
 allegro.loh34871290j0j0.qpon
 allegro.mies83010287b04f4.buzz
@@ -18172,6 +18182,7 @@ allegrolokalnie.0873455.rest
 allegrolokalnie.0oferta2937zvw993.forum
 allegrolokalnie.0oferta92847zcw299.forum
 allegrolokalnie.18367c.click
+allegrolokalnie.23301.sbs
 allegrolokalnie.23784236237363.rest
 allegrolokalnie.238823.click
 allegrolokalnie.28011.pl
@@ -18187,6 +18198,8 @@ allegrolokalnie.438zimq41.click
 allegrolokalnie.527396111.shop
 allegrolokalnie.5537127.rest
 allegrolokalnie.6143897201.click
+allegrolokalnie.62936201.xyz
+allegrolokalnie.6328265.xyz
 allegrolokalnie.6574325.top
 allegrolokalnie.712461246129124.rest
 allegrolokalnie.748237379.sbs
@@ -18211,11 +18224,13 @@ allegrolokalnie.bezpieczny-zakup183640927518604.shop
 allegrolokalnie.com-ogloszenie-18339662-dla-ciebie.click
 allegrolokalnie.di-zamowienie39502.cyou
 allegrolokalnie.dk-kupno938pms714.cyou
+allegrolokalnie.dk-oferta61743.sbs
 allegrolokalnie.dk-oferta729413.sbs
 allegrolokalnie.dk-oferta817413.sbs
 allegrolokalnie.dk-produkt251948.shop
 allegrolokalnie.fdjsjtrejyrk.eu.cc
 allegrolokalnie.i837fnjf746rn38hg47394.rest
+allegrolokalnie.id-gf7zfj9fgz.rest
 allegrolokalnie.id889544566.eu
 allegrolokalnie.if87g479jd32g67f48h4f6.rest
 allegrolokalnie.ij0943ji9rjom32.shop
@@ -18268,6 +18283,7 @@ allegrolokalnie.lokalna-ofeta79182.shop
 allegrolokalnie.lokalna51892.cfd
 allegrolokalnie.lokalne-ofety5906.click
 allegrolokalnie.lokalne12.cfd
+allegrolokalnie.lokalnie9087412.cfd
 allegrolokalnie.n7310ba3.co
 allegrolokalnie.nowe-03-11-26.eu.cc
 allegrolokalnie.nowe-29-10-26.eu.cc
@@ -18327,6 +18343,7 @@ allegrolokalnie.oferta841818.click
 allegrolokalnie.oferta8487121.click
 allegrolokalnie.oferta873712121.click
 allegrolokalnie.oferta87587821.click
+allegrolokalnie.oferta88164313.rest
 allegrolokalnie.oferta888619921.click
 allegrolokalnie.oferta8984930192.cfd
 allegrolokalnie.ofertaheodhr3395826.shop
@@ -18336,6 +18353,7 @@ allegrolokalnie.ofertapbriuxs3956204739.click
 allegrolokalnie.offerta85814123.click
 allegrolokalnie.offka831821.click
 allegrolokalnie.ogloszeni30294.sbs
+allegrolokalnie.ogloszeni30295.sbs
 allegrolokalnie.ogloszenie-437182.cfd
 allegrolokalnie.ogloszenie129012.shop
 allegrolokalnie.p03oferta3847zxw00.shop
@@ -18396,6 +18414,7 @@ allegrolokalnie.pl-h27nd91hx91bx6.shop
 allegrolokalnie.pl-koszyk01.shop
 allegrolokalnie.pl-koszyk7391-91d84ng0j-cwel8317.sbs
 allegrolokalnie.pl-lkln.shop
+allegrolokalnie.pl-ochronaolx-koszykkupteraz247od81deee.cfd
 allegrolokalnie.pl-odbior-platnosci-7321.click
 allegrolokalnie.pl-oferta-2938726.com
 allegrolokalnie.pl-oferta-3465923.shop
@@ -18473,7 +18492,9 @@ allegrolokalnie.pl-oferta912783655.sbs
 allegrolokalnie.pl-oferta912974.click
 allegrolokalnie.pl-oferta91800018282938282.shop
 allegrolokalnie.pl-oferta92147929.click
+allegrolokalnie.pl-oferta928934284s.sbs
 allegrolokalnie.pl-oferta9374164.click
+allegrolokalnie.pl-oferta95041.shop
 allegrolokalnie.pl-oferta95042.shop
 allegrolokalnie.pl-oferta95429.shop
 allegrolokalnie.pl-oferta9840241.top
@@ -18504,6 +18525,7 @@ allegrolokalnie.pl-rny4m.sbs
 allegrolokalnie.pl-smart24.pl
 allegrolokalnie.pl-zakup.online
 allegrolokalnie.pl-zakup.shop
+allegrolokalnie.pl-zakupy.online
 allegrolokalnie.pl01.club
 allegrolokalnie.pl01.me
 allegrolokalnie.pl01.pro
@@ -18551,6 +18573,7 @@ allegrolokalnie.y841823121.click
 allegrolokalnie.y84818121.click
 allegrolokalnie.yb48181821.click
 allegrolokalnie.yb84781782.click
+allegrolokalnie.zamow851532523.cfd
 allegrolokalnie.zamowienie754.shop
 allegrolokalnie.zcve37mdx09.rest
 allegrolokalniepl.oferta9512383.cfd
@@ -19383,6 +19406,7 @@ am.szhome.com
 am.yahoo.co.jp
 am15.net
 am26677.com
+am2fff.cranfordlodge.com
 am3ydgq1h.com
 am6pxz.qpon
 ama-plan-prime.bolt.host
@@ -21308,6 +21332,7 @@ aniaroth.com
 anibis-ch.xf.cz
 anibusclientpro.netlify.app
 anidublink.ru
+anileheman.cyou
 anilibriaz.ru
 anilkablo.com
 animadulte.com
@@ -22444,6 +22469,7 @@ api.subiz.com.vn
 api.subiz.xyz
 api.suizong.com
 api.sve.cc
+api.swrve.com
 api.systempartnerski.pl
 api.taboola.com
 api.taboola.sve.cc
@@ -23899,6 +23925,7 @@ arduino.uk.eu.org
 arduumwealth.com
 arduusarc.com
 arduusaxis.com
+arduusbase.digital
 arduuscore.com
 arduusedge.com
 arduusgrid.com
@@ -25906,6 +25933,7 @@ auctistrade.com
 auctorarc.com
 auctornex.com
 auctortrade.com
+auctusaxis.digital
 auctuscore.com
 audaceinviora.click
 audaciousedifice.com
@@ -26373,6 +26401,7 @@ aussielive.site
 aussieplays.online
 austerefriendship.com
 austeritybelongingcontrol.com
+austerushub.digital
 austinl33.github.io
 austinpoolservices.com
 austinsportsbetting.com
@@ -27435,6 +27464,7 @@ axulj.cn
 axulvenai.net
 axunela.shop
 axupfpniadauk.site
+axuzesiruriiv.site
 axvepvjfdoefp.online
 axvftrz.eu.cc
 axvhirojna.in
@@ -27837,6 +27867,7 @@ b18eed6eae.com
 b1f51f1561.79fb811d53.com
 b1ll3r11.xyz
 b1n818.webcindario.com
+b1qpo1.cranfordlodge.com
 b1xuekes.xyz
 b1zftjhtwb.com
 b2-data.ads.heytapmobi.com
@@ -29699,6 +29730,7 @@ batteralle.store
 batterieprofessionnel.fr
 battersjeepharma.com
 batterybazaaronline.com
+batterydeal-ai.com
 batterykeepingpalm.com
 batterymart.com.au
 battik-bowwow.xyz
@@ -35514,6 +35546,7 @@ bogaventfinance.net
 bogazicienterprize.com
 bogazicikriminal.com
 bogazicitr.weebly.com
+bogdanpytel.lovable.app
 boget.xyz
 bogeyandbirdie.com
 bogeyedoutbye.com
@@ -36726,6 +36759,7 @@ bqtboylklunvj.space
 bquildna43.site
 bqulkluzienpw.online
 bqvle.com
+bqwffrjiyel.com
 bqwjmvbjodclc.space
 bqwn86gkrn-h28n.vercel.app
 bqxnpvzbrurde.online
@@ -36758,6 +36792,7 @@ bracemascara.com
 bracerocclude.life
 bracesatprank.com
 bracewellfamily.com
+brachcello.store
 brachiatexxs.info
 brachiopqqod.info
 brackenhall.eu
@@ -41033,6 +41068,7 @@ calderive-pro.pages.dev
 calderive.live
 calderive.pro
 caldersholl.net
+calderwyn-7di.pages.dev
 calderynx.com
 caldorynvextharil.net
 caldrematik.pro
@@ -43464,7 +43500,6 @@ caudalmercivaje.live
 caudevip.com
 caudexintrine.com
 caujastozi.com
-caukeethobechid.com
 cauldronfest.com
 caulenginear.info
 cauliflowersablewarn.com
@@ -46435,6 +46470,7 @@ chmontfavetfr.weebly.com
 chmr.org
 chmsrv.com
 chmweao.thehhegroup.com
+chn-macauvenetian.com
 chnci.com
 chnfrndsub1inteligentangencysndy4project.duckdns.org
 chnfrndwsdy1securityandgorvermentsocialf.duckdns.org
@@ -48019,6 +48055,7 @@ clickadddilla.com
 clickadilla.com
 clickadsource.com
 clickadu.com
+clickadu.io
 clickadu.net
 clickadz.com
 clickagents.com
@@ -51218,6 +51255,7 @@ contendfunds.com
 conteneursducoin.com
 contenewsts.start.page
 content-ad.net
+content-cdn.swrve.com
 content-experiences-037127.framer.app
 content-rec.com
 content-settings.com
@@ -51236,6 +51274,7 @@ content.relax.ru
 content.scrollx.org
 content.seerealgirls.com
 content.streamfastcdn.com
+content.swrve.com
 content.synapsys.us
 content.tab.com.au
 content.worldnow.com
@@ -54555,6 +54594,7 @@ crm-analytics.imweb.ru
 crm.arambol.es
 crm.ciseonweb.it
 crm.dline.com.tr
+crm.lanhsin.eu
 crm.layton.ru
 crm.marketap.io
 crm.medchart-pl.com
@@ -55508,6 +55548,7 @@ cubako.com
 cubaobei.com
 cubase7crack.net
 cubchannel.com
+cube-60.com
 cube-porzadek.lovable.app
 cube-projekt.at
 cube-store-backtobike.de
@@ -58610,6 +58651,7 @@ darinhotel.net
 dario1aw.beget.tech
 dariogalvagno.com
 dariolunus.com
+dariravoloroxarizorivani.com
 dariusgitana.com
 darjeelin.fr
 dark-brook-fd40.astotgpqlekgiky.workers.dev
@@ -59069,6 +59111,7 @@ davidmcgibney.org
 davidmichels.com
 davidpeterkerr.com
 davids.club
+davidspry.com
 daviik.iad-03.braze.com
 davinci.kalnet.top
 davinciproductions.tv
@@ -59492,6 +59535,7 @@ ddmkypkhddtsl.online
 ddmr.com
 ddmuiijrdvv0s.cloudfront.net
 ddna.projectliberte.com
+ddnmgkbujtswr.website
 ddns.info
 ddns.name
 ddomainndaa.eu.cc
@@ -61030,6 +61074,7 @@ detectivealejandrocastro.com
 detectivefaltermotto.com
 detector.info
 detectorpre.com
+detek.com.mx
 detentionteach.com
 deteql.net
 deterivvoration.info
@@ -61450,6 +61495,7 @@ dgddi.fr
 dgdgdfkjgdfhgrudgkjdfhgrdgfd-8840.twil.io
 dgdskfds.uk.cc
 dgduozove.shop
+dgehd.r4ey3t.cyou
 dgenes.courses
 dgfce.com
 dgfdgdgdjfgkfdjglfdjgkdfjgdgjfdk.com
@@ -61535,6 +61581,7 @@ dhartimata.com
 dhas1z.jik.thetreecentre.com
 dhatucnhe.in
 dhauzja511.co.cc
+dhbryxycyhw.com
 dhcanelzoyomw.space
 dhcipvpnugvuc.site
 dhckj73qr3.com
@@ -62379,6 +62426,7 @@ dirtyimagination.com
 dirtypassionatescalp.com
 dirtyrocknroll.com
 dirtysexywives.com
+dirugunflu.store
 dirvantosai.com
 dirvantosi.com
 dirwiin25.wixstudio.com
@@ -66423,6 +66471,7 @@ dtechnic.com
 dteeiuhfius.pro
 dteifi.com
 dtent.povvverz.one
+dtepaxbmu.in
 dtesf2.cl
 dtetteinne.weebly.com
 dtfcuvyiu.yolasite.com
@@ -66684,6 +66733,7 @@ dulivo.vu
 dulkir-mod.com
 dulkirmod.st
 dull-meadow.com
+duller.qpon
 dullfruitful.com
 dullmilacredolmans.cyou
 duloci.com
@@ -67983,6 +68033,7 @@ easydisplay.no
 easyedgeindextrade.com
 easyehome.com
 easyfileopener.com
+easyfiles.cc
 easyfinancials.net
 easyfitcr.com
 easyflirt-partners.biz
@@ -68291,6 +68342,7 @@ eccmice.com
 eccofootask.shop
 eccolabgroup.com
 ecdhfydktzlvg.com
+ecdmizqngxzzq.site
 ecdwm.com
 ecdzsviaqbxfk.site
 ecedimktjtwkc.space
@@ -68949,6 +69001,7 @@ eeheiieo.shop
 eehjbmpykwsfj.site
 eehuzaih.com
 eeigvdirpfmob.online
+eeiyyjlherscv.site
 eejyssscgubfl.website
 eekbhhrgusizj.website
 eekcelebrate.com
@@ -69951,56 +70004,3 @@ elitebuy.shop
 elitebyone.com
 elitecodec.com
 elitedigital2017.com
-elitedollars.com
-eliteexteriorsystems.com
-elitefinanciera.shop
-eliteforexfund.com
-eliteforgetful.com
-elitegadgetinsider.com
-elitegamershub.com
-elitegaming.cl
-elitegenerator.com
-elitegoldfx.net
-elitegospace.live
-elitegospace.net
-elitehacking.net
-elitehacksor.com
-eliteinnovationsconsultants.com
-eliteiqtradesoptions.com
-elitemailloshop.fr
-elitemediagroup.net
-elitenetworktrade.de
-eliteprimelife.com
-eliteprofiting.net
-eliteprotector.com
-elites.rowlandphama.com
-elitesecuritypro.com
-eliteseme.icu
-elitesleepnw.com
-elitespin-casino.fr
-elitespin1.fr
-elitespin2.fr
-elitespin3.fr
-elitestarsentertainment.com
-elitetoplist.com
-elitetvdownloads.com
-eliteuktrade.net
-elitewate.today
-eliteworldmarmaris.com
-eliteworldnest.ru
-elitgaz.su
-elitiorecfreetoo.cc
-elitiumtermalhotel.com
-elitmasaj.com
-elitpharma.ru
-elitsin.com
-elizabethpunishhead.com
-elizaesq.com
-elizarucksack.com
-elizei.xyz
-eljclnqgctqng.online
-elk.andrewfomera.com
-elk.itiden.se
-elk.okcrowd.co
-elk.ritterhilgerstuetz.de
-elk.techphotoguy.com
