@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-11-08T23:31:32Z
-# Entries: 70,000 (of 231,807 total)
+# Updated: 2026-11-09T05:44:32Z
+# Entries: 70,000 (of 231,846 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -5617,6 +5617,7 @@
 6700.cn
 670brivis.net
 6711.com
+67163560.pamanespools.mx
 673hgye.ink
 6768wa654.firebaseapp.com
 6768wa654.web.app
@@ -7994,6 +7995,7 @@ a3c7ace0cd653c10eaccounts.empiresfinish.com
 a3infra.com
 a3ion.com
 a3jni5jw8037-pages-dev.translate.goog
+a3o.vercel.app
 a3p4.net
 a4.adzs.nl
 a4.b2b168.com
@@ -8408,6 +8410,7 @@ abc.ruodian360.com
 abc.yebaike.com
 abc100129649142326123541.start.page
 abc13news.com
+abc3-log.tv360.vn
 abc882.com
 abc884.com
 abcappsiteinst.azurewebsites.net
@@ -9172,6 +9175,7 @@ account.information.frozen.kojidigital.com
 account.maximus.co
 account.notifiers.biz
 account.paypal-inc.tribesiren.com
+account.productions.vu
 account.relationships.vu
 account.telecoms.vu
 account.valide.checker.automatique.payverif.com
@@ -9840,7 +9844,6 @@ acutuswealth.com
 acv.mira-dsp.com
 acvddzqjjsofe.online
 acvjtepqk.com
-acvraulxhsvkr.com
 acw.elsevier.com
 acw.sciverse.com
 acwagpt-digital.pages.dev
@@ -15070,7 +15073,6 @@ aescontoit.com
 aeshanteen.firebaseapp.com
 aeshanteen.web.app
 aesixinmeqjzi.online
-aeskgcinerpyxqk.net
 aesmdokoo.com
 aesodcnrbwreeq.com
 aespa-richman.com
@@ -15714,6 +15716,7 @@ aggregationdestructoppression.com
 aggregationintelligencecopy.com
 aggregationmodest.com
 aggressivestruggle.com
+aggrohebdo.store
 aggtizmals.com
 aghisolutech.com
 aghpl.com
@@ -17713,6 +17716,7 @@ alfalfaemployeeresource.com
 alfaliaval.com
 alfamart-zing.com
 alfamartreward.com
+alfamartswqurprise.com
 alfamontante.net
 alfamontante.shop
 alfanora.com
@@ -17909,6 +17913,7 @@ aliveand.com
 aliveconfinedunrest.com
 alivehacks.com
 aliveharbor.info
+aliveharbor.me
 alivelinen.com
 aliveperjuryruby.com
 aliveprompt.com
@@ -18358,6 +18363,7 @@ allegrolokalnie.n7310ba3.co
 allegrolokalnie.nowe-03-11-26.eu.cc
 allegrolokalnie.nowe-29-10-26.eu.cc
 allegrolokalnie.nr-173827237283.sbs
+allegrolokalnie.nr-1831837132.sbs
 allegrolokalnie.nr-238284sn.rest
 allegrolokalnie.nr-23sn323.sbs
 allegrolokalnie.nr-28384ms3.sbs
@@ -18449,6 +18455,7 @@ allegrolokalnie.pi-id53677273.click
 allegrolokalnie.pi-inpost397paka82.pro
 allegrolokalnie.pi-inpost92745dostawa.rest
 allegrolokalnie.pi-off84584.lat
+allegrolokalnie.pi-wynajem1829030.sbs
 allegrolokalnie.pi29zm7zy.rest
 allegrolokalnie.pk-transport83746.top
 allegrolokalnie.pk-transport9392.top
@@ -18654,6 +18661,7 @@ allegrolokalnie.pp-dostawa28915.mom
 allegrolokalnie.pq8b9.click
 allegrolokalnie.produkt-2026-508322.sbs
 allegrolokalnie.produkt-2854593-2026.sbs
+allegrolokalnie.produkt-634923-2026.cfd
 allegrolokalnie.ps-83njr49xns5471.rest
 allegrolokalnie.pv-oferta75349.sbs
 allegrolokalnie.px279oferta39572938.click
@@ -19738,6 +19746,7 @@ ambrestore.pl
 ambriellenovairex.net
 ambrivaq.com
 ambrmotchecks.vercel.app
+ambroexpres.pro
 ambrokurier.pro
 ambrosialsummit.com
 ambroty.xyz
@@ -20658,6 +20667,7 @@ analytics.hebela.vn
 analytics.heimdalldigitalholdings.com
 analytics.hellospace.fr
 analytics.helpukrainewinwidget.org
+analytics.hemeratech.vn
 analytics.hencdn.top
 analytics.histmag.org
 analytics.holomua-plus.co.jp
@@ -20666,6 +20676,7 @@ analytics.homedepot.ca
 analytics.hostiran.net
 analytics.htmedia.in
 analytics.hub-js.com
+analytics.hvn.works
 analytics.hz.netease.com
 analytics.idfnet.net
 analytics.ifanrusercontent.com
@@ -22326,6 +22337,7 @@ api-data-contacts-digitals-vu-configurations-region-amazonaws.jingtain.com
 api-data-contacts-digitals-vu-configurations-region-amazonaws.mizzworthy.com
 api-data-contacts-digitals-vu-configurations-region-amazonaws.tipertz.co
 api-dataroid.akbank.com.tr
+api-engage-us.sitecorecloud.io
 api-esp.piano.io
 api-events.taboola.com
 api-exponea.o2.cz
@@ -27047,7 +27059,6 @@ averoza.shop
 avertonbullk.com
 avertronaitrade.com
 averybit.com
-avestastupendfreit.cyou
 avevita.si
 avex-pro-20.live
 avexiswealth.com
@@ -29960,6 +29971,7 @@ bbbvysurvjwpp.space
 bbc-good-food.com
 bbc-reporting-api.app
 bbc.112.2o7.net
+bbc.ipos.mu
 bbc12a3a98d8487f58a87d3a3070516e-dot-oa9si-od9.appspot.com
 bbc6666.com
 bbcc3e012c.com
@@ -30763,7 +30775,6 @@ beginstart-en.wixstudio.com
 beginterribly.com
 beginvalue.net
 begiron.com
-beglideanvil.rest
 bego-bau.de
 bego88.com
 begolbatan.com
@@ -37436,7 +37447,6 @@ briarpost.eu
 briarr.vip
 briarwell.eu
 briarwick.eu
-bribeesioni.click
 bricimo.fr
 brick-sneakers.shop
 brick.xhamster.com
@@ -37950,7 +37960,6 @@ brookandlane.eu
 brookcorner.eu
 brookcraft.eu
 brookeburn.com
-brookedmacaca.com
 brookfieldco.eu
 brookfieldhome.eu
 brookforgehaven.bond
@@ -39447,6 +39456,7 @@ bulzaro.shop
 bum88.club
 bumaro.shop
 bumashana.com
+bumbadeclo.store
 bumbidiktoys.com
 bumcoinc.site
 bumerangshowsites.hurriyet.com.tr
@@ -43954,6 +43964,7 @@ cdjconsultants.com
 cdjrise.com
 cdk.monther.life
 cdkbehymuftsh.site
+cdkiiioannygv.site
 cdlfzyukmnvtu.site
 cdlld.com
 cdlpwgslkpgma.online
@@ -44177,6 +44188,7 @@ cdn.locallogic.co
 cdn.lodeo.io
 cdn.logbase.io
 cdn.logrocket.com
+cdn.ltba.io
 cdn.lustfulcomics.com
 cdn.madkudu.com
 cdn.manga9.co
@@ -44516,6 +44528,7 @@ cecetea.pro
 cecicnordouest.fr
 cecicouest.fr
 ceciliahenriquezcoronado.com
+cecinglori.store
 ceciyaafoundation.org
 cecmaintenance.com
 cecmne.fr
@@ -49369,6 +49382,7 @@ coddzsnuugtzf.space
 code-0f-ethics-and-business-conduct-02u.webflow.io
 code-and-faces.com
 code-promo-betify-casino.fr
+code.accu-print.biz
 code.acstat.com
 code.aimedads.com
 code.ainsyndication.com
@@ -49624,7 +49638,6 @@ coins-strikes.fr
 coinsbooth.net
 coinsden.com
 coinsfifa18.weebly.com
-coinsgist-ai-system.com
 coinshunt.com
 coinsolutionsdapp.pages.dev
 coinspokemongo.com
@@ -49793,6 +49806,7 @@ collabs-link.cfd
 collabs.space
 colladioxprosale.com
 collagenselect.pl
+collalaeot.store
 collanetti.com
 collateralvaluepoint.com
 collationuppermodel.com
@@ -49873,6 +49887,7 @@ collectinglavishnesshandbook.com
 collection-day.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+collection.cyberprocurement.com
 collection.decibelinsight.net
 collection.mola.tv
 collectioncentre.com
@@ -53733,7 +53748,6 @@ cr20g.org
 cr590527.tw1.ru
 cr599.vip
 cr7271.krckaracaotomotiv.com
-cr7271.zenolevatoku.info
 cr87986.tw1.ru
 cr8ivenest.co.uk
 cr9y8xbt.xyz
@@ -55492,6 +55506,7 @@ ctvcrimelibrary.112.2o7.net
 ctvmaincom.112.2o7.net
 ctvorgijspjnn.site
 ctvsmokinggun.112.2o7.net
+ctvsxekypkaue.online
 ctvtsgtv.112.2o7.net
 ctwignhbplsst.site
 ctwihnfnjypom.site
@@ -58767,6 +58782,8 @@ dashwoodestates.com
 dashww.hotscopes.net
 dasiomtherin.weebly.com
 daskals.com
+daskelvor-au.pro
+daskelvor.live
 daskljtitaskastvv.pro
 daskm.com
 dasonews.youdontcare.com
@@ -60150,6 +60167,7 @@ deichmonsoutletsro.shop
 deichonlinero.shop
 deicidetwos.com
 deidrekreuz.com
+deigcolti.store
 deilo0e.minecraftr.us
 dein-heizoelmarkt.de
 deindustrippalizations.info
@@ -60994,6 +61012,7 @@ destroyedspear.com
 destroyeragreed.com
 destroykitchen.net
 destroyreleaseorgans.com
+destrsalif.store
 destructads.com
 destructionruler.com
 destructophonic.com
@@ -61114,6 +61133,7 @@ deuxdoitsdelavictoire.web.app
 dev-6byd9.firebaseapp.com
 dev-6byd9.web.app
 dev-7614646544.pantheonsite.io
+dev-adtima-static.zdn.vn
 dev-analytics-cf.bigcrunch.com
 dev-apigw.samsungdmroute.com
 dev-bhdseguremain.pantheonsite.io
@@ -61189,6 +61209,7 @@ devgroup.dpdns.org
 devhub.pl
 devhubs.dev
 deviantaet.com
+deviantart.21737.art
 deviatetracking.com
 device-api.asnapieu.com
 device-exoudsweb--3.teachable.com
@@ -65678,6 +65699,7 @@ drgn25.casino
 drgn43.casino
 drgomoney.com
 drgzone.com
+drhfybnsntsop.online
 drhikmetbasmak.com
 drhuyzgvkmrob.website
 drhzesh.moneyabundance.co
@@ -66998,6 +67020,7 @@ dvnyqftupmlikmc.net
 dvognnrqkwe.com
 dvondaluron.click
 dvondaluronai.net
+dvorakjanjeclovek.github.io
 dvpgnauujoypjk.com
 dvpwxtxggowjm.net
 dvr8.com
@@ -69248,7 +69271,6 @@ egj0hh.malachistewartsimplestore.com
 egkckilnsuzzk.website
 egkjgw.close.futureisready.com
 egksxbmaehh.com
-egleevegreemouw.net
 eglnktnqnz.com
 eglobaltech.info
 eglujzjlgxlhq.space
@@ -69982,25 +70004,3 @@ elitebottrader-fr.live
 elitebuy.shop
 elitebyone.com
 elitecodec.com
-elitedigital2017.com
-elitedollars.com
-eliteexteriorsystems.com
-elitefinanciera.shop
-eliteforexfund.com
-eliteforgetful.com
-elitegadgetinsider.com
-elitegamershub.com
-elitegenerator.com
-elitegoldfx.net
-elitegospace.live
-elitegospace.net
-elitehacking.net
-elitehacksor.com
-eliteinnovationsconsultants.com
-eliteiqtradesoptions.com
-elitemailloshop.fr
-elitemediagroup.net
-elitenetworktrade.de
-eliteprimelife.com
-eliteprofiting.net
-eliteprotector.com
