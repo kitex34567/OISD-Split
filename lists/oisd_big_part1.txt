@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-11-15T16:53:56Z
-# Entries: 70,000 (of 228,030 total)
+# Updated: 2026-11-15T23:52:36Z
+# Entries: 70,000 (of 228,228 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -3637,6 +3637,7 @@
 38476644.weebly.com
 38499.com
 384b0a562f.com
+3859378535.cfd
 38707-223419.link.iwanttodeliver.com
 38710f41e0.9334fb3562.com
 387431298338020-dot-wetransfer-auth-file-343.appspot.com
@@ -3661,6 +3662,7 @@
 39316.eu.cc
 39448710fa.com
 395131115419474531.002.sh.cn
+39686502.cfd
 3975.com
 3990.tv
 39963996.com
@@ -4323,8 +4325,10 @@
 4fizjoipl.shop
 4fizjokazje.shop
 4fizjone.shop
+4fizjooferta.shop
 4fizjoosale.shop
 4fizjopoland.shop
+4fizjoready.shop
 4fizjospl.shop
 4fizjoto.shop
 4fizjozpl.shop
@@ -5867,6 +5871,7 @@
 722089065999283-dot-wetransfer-auth-file-343.appspot.com
 7227272.collect.igodigital.com
 7228.eu
+723467278234573.sbs
 7246.bapi.adsafeprotected.com
 7246ae5b07.com
 724gold.com
@@ -7727,6 +7732,7 @@ a0c66.com
 a0c77.com
 a0de95822c.856d79ad49.com
 a0f2l3m.com
+a0q.vercel.app
 a1.0s.net.cn
 a1.16700.net
 a1.289.com
@@ -7812,6 +7818,8 @@ a1db6a0384.c63b91ca50.com
 a1e1cbb8.heftrucksbelgie.eu
 a1f6226fe8.a8659ff8d6.com
 a1hgh.com
+a1j.vercel.app
+a1l.vercel.app
 a1match.dk
 a1sec.com.au
 a1umt1.close.futureisready.com
@@ -7902,6 +7910,7 @@ a4e04bceda.com
 a4f48z.close.futureisready.com
 a4j126meg3.com
 a4k2h8jii.com
+a4l.vercel.app
 a4pb7g.live
 a4rphu.hbg.hebdenbridgedental.co.uk
 a4uatro.com.br
@@ -7927,7 +7936,9 @@ a588g3q4t.com
 a59714c768.689fe98d0d.com
 a5b75231.qqc.co
 a5ddb5cd30.com
+a5o.vercel.app
 a5o3pv5rsx.com
+a5r.vercel.app
 a5wlr2yplf.com
 a60d31c2.outlookliveprotectiondefense.pages.dev
 a613.redbluffdailynews.com
@@ -7941,6 +7952,7 @@ a66fcca10a.fef49e81cc.com
 a6a1c6ffd0.35c82e35f3.com
 a6e575484aad165f9027c92308bb784a-dot-oo0-987.appspot.com
 a6f50f55d7.0fbee846c6.com
+a6h.vercel.app
 a6iemt79.xyz
 a6o69f9ky0.com
 a6tzhd.close.futureisready.com
@@ -7984,8 +7996,13 @@ a9a1a0fb14.com
 a9b98825a5223372eedd80d92bc1dd55.xyz
 a9d4750f56.com
 a9dzlse0xjz55e2.s3-website-us-east-1.amazonaws.com
+a9e.vercel.app
+a9f.vercel.app
+a9j.vercel.app
 a9k5mr.xin
 a9o.youlikeboys.com
+a9q.vercel.app
+a9t.vercel.app
 aa-metrics.beauty.hotpepper.jp
 aa-metrics.hotpepper.jp
 aa-metrics.recruit-card.jp
@@ -14978,6 +14995,7 @@ afavtbjyhqoqv.online
 afbcashidr.com
 afc.https443.org
 afc2.com
+afccuxkwiuhkw.online
 afcontent.net
 afcpatrk.com
 afcu-userid.firebaseapp.com
@@ -17822,6 +17840,7 @@ allegro-reinigung.de
 allegro-task.shop
 allegro-ups.e-kei.pl
 allegro.00123192s.casa
+allegro.002309gii.surf
 allegro.00239g8g8g8.pl
 allegro.01023012po5.click
 allegro.012301025ii5.surf
@@ -17830,6 +17849,7 @@ allegro.01230129hoto.qpon
 allegro.012893218hi6.rest
 allegro.012901200100984gi.mom
 allegro.0129g98349129.rest
+allegro.0230923o5.surf
 allegro.0239128gh0.click
 allegro.0239812igi5uy7.courses
 allegro.102301209g5ii.qpon
@@ -17853,6 +17873,7 @@ allegro.123994y50g405.lol
 allegro.1241092000.casa
 allegro.12909128.qpon
 allegro.1290hh905982.rest
+allegro.1291928gii.click
 allegro.1293912.pl
 allegro.130298h9465h4.click
 allegro.2001020goo.rest
@@ -17935,6 +17956,7 @@ allegro.offer982995091.shop
 allegro.op23899992.qpon
 allegro.ororo29955.pl
 allegro.p02420340213h.courses
+allegro.pe18129.qpon
 allegro.pero29199.beer
 allegro.petnwa2181929.study
 allegro.pi-inpost397paka82.pro
@@ -17971,6 +17993,7 @@ allegro.prywna71812.best
 allegro.prywnam12391210.me
 allegro.ps-83njr49xns5471.rest
 allegro.psnag347199.pl
+allegro.puv7348298192fio.surf
 allegro.q0e0120129.click
 allegro.qi-ofertainpost974310.rest
 allegro.r81289d2h.forum
@@ -17982,6 +18005,7 @@ allegro.samr81239129g4i.study
 allegro.sar23809h.pl
 allegro.sava837199.pl
 allegro.se182h5.pl
+allegro.skkasdoao.surf
 allegro.smar0239218848001-32.qpon
 allegro.smar0329120gg.casa
 allegro.smar191200g4-39.qpon
@@ -17989,6 +18013,7 @@ allegro.smar49310.pl
 allegro.smar59438120912.casa
 allegro.smar8349.pl
 allegro.smar8382129ggh.courses
+allegro.smar91200002099.casa
 allegro.smar912919928.courses
 allegro.smar9328120h5.pl
 allegro.smar932991254.study
@@ -18143,6 +18168,7 @@ allegrolokalnie.nr-23809sjm3.sbs
 allegrolokalnie.nr-238284sn.rest
 allegrolokalnie.nr-238483smn3.sbs
 allegrolokalnie.nr-238sn34.sbs
+allegrolokalnie.nr-239820890u9832.cfd
 allegrolokalnie.nr-23sn323.sbs
 allegrolokalnie.nr-28384ms3.sbs
 allegrolokalnie.nr-2839sm3s.sbs
@@ -18197,7 +18223,6 @@ allegrolokalnie.oferta612169257362.cfd
 allegrolokalnie.oferta6710823919371027.shop
 allegrolokalnie.oferta673367xvsx25.forum
 allegrolokalnie.oferta6834341.shop
-allegrolokalnie.oferta8296.icu
 allegrolokalnie.oferta88164313.rest
 allegrolokalnie.oferta888619921.click
 allegrolokalnie.oferta9325056.shop
@@ -18687,6 +18712,7 @@ alngdwetstglj.site
 alnhfq9ov4.com
 alnkhrhndzofe.online
 alnvfxnshyeem.website
+alo-polska.com
 alo-yoga-turkey.com
 alo792153fa77793f157de6ce7c33.pages.dev
 aloafuel.com
@@ -21588,6 +21614,7 @@ anshyed.shop
 ansiahotel.com
 ansibleadmin.com
 ansim-tradix.org
+ansimoptar.store
 ansimtradix-ko.live
 ansimtradix.live
 ansimtradix.pro
@@ -21995,6 +22022,7 @@ aopwtbxzenjva.online
 aopytfhhfc.com
 aoqnrhqvtrfqz.com
 aorzbyyrhlavn.site
+aospdqoteetsk.site
 aotearoacapital.live
 aotearoacapitalflow.com
 aotearoacapitalflow.live
@@ -27725,6 +27753,7 @@ b00kmedia.ru
 b02byun5xc3s.com
 b053d0h076.com
 b0bd111ef3.794bbcc998.com
+b0c.vercel.app
 b0f01ce38a.com
 b0f0e80461.com
 b0ko1hd9pb.com
@@ -28087,6 +28116,7 @@ badgevolcano.com
 badikander.com
 badjocks.com
 badjs.weixinbridge.com
+badlabpolario.lovable.app
 badlandlispyippee.com
 badler7980ev.wixstudio.com
 badmonner.s.gy
@@ -29358,6 +29388,7 @@ bastardnonethelessuseless.com
 basteln.at
 bastemur.com
 bastifin.com
+bastilleinfotech.com
 bastioncapridge-pro.pages.dev
 bastioncapridge.pro
 bastionecapivo.com
@@ -31873,7 +31904,6 @@ bf46dd419c.com
 bf4chinarising.dlcodes.com
 bf4codes.dlcodes.com
 bf4fa209bf.7a2731790d.com
-bf4fb4.bastilleinfotech.com
 bf4secondassault.dlcodes.com
 bf608c30c9.com
 bf7472b795.com
@@ -31983,6 +32013,7 @@ bgotuip.lovable.app
 bgp.fe01.c3.xiaomi.com
 bgpp0h-x8ki-letl-twmt.n7.xano.io
 bgqamxuxabntp.space
+bgqweda.lovable.app
 bgqxbwckfcdsq.site
 bgrect.firebaseapp.com
 bgrect.web.app
@@ -35434,6 +35465,7 @@ booonoboo00150.web.app
 boorsbank.fr
 boorsebank.fr
 booseed.com
+boost-19.com
 boost-2u-axid.digital
 boost-90.com
 boost-cdn.manatee.dk
@@ -37213,6 +37245,7 @@ broflask.com
 brokeforinvestors.com
 broken-fun.com
 broken-math-09f0.tp80wcx8.workers.dev
+broken-violate-code-95676511a.pages.dev
 brokenbeauty.net
 brokenheartart.net
 brokensoul.ga
@@ -39276,6 +39309,7 @@ bve6asryctf0i8s57idtuyi-guofyid68tofyiugofd68oyi.teemill.com
 bveaafwiwktxb.space
 bvewsgtwrbnaw.space
 bvfqhnyofanbfk.com
+bvfwjqkkxauml.site
 bvhaxafqzblht.site
 bvhd1uhl5z.com
 bviklop.com
@@ -39573,6 +39607,7 @@ byumhwhapayad.space
 byvex.shop
 byvkpjvpatradb.firebaseapp.com
 byvkpjvpatradb.web.app
+byvkyedpuwadd.website
 bywinoo.com
 bywivey.pro
 bywsijvjatyfp.space
@@ -41147,6 +41182,7 @@ captchaverification.com
 captchaverification.sbs
 captchbot.com
 captchhabot.xyz
+capteincat.store
 captialonedirect.com
 captifymedia.com
 captingirl.com
@@ -42689,6 +42725,7 @@ cattlecommittee.com
 cattleya-blazer.shop
 cattleya-clutch.shop
 cattleya-interfacing.shop
+cattleya-socks.shop
 caturismo.com.ar
 catwinbrilinta.com
 catwrite.com
@@ -42877,6 +42914,7 @@ cbcca.122.2o7.net
 cbce918a9d.com
 cbcengenharia.com.br
 cbcincinnatienquirer.112.2o7.net
+cbcless.pro
 cbcnewmedia.112.2o7.net
 cbcnewmedia.pushwoosh.com
 cbcnewsd.top
@@ -43973,6 +44011,7 @@ celinepolska.pl
 celinereplique.fr
 celinesoldes.fr
 celinnaya.kz
+celioeu-vip.shop
 celiofr.fr
 celit.xyz
 celixayapi.com
@@ -47830,6 +47869,7 @@ clover-spincasino.fr
 cloverdtrade.com
 cloverfieldanchor.online
 cloverfieldgoods.eu
+cloverhush.digital
 cloverisland.co.nz
 cloverkapithaven-ie.com
 cloverkapithaven.shop
@@ -49249,7 +49289,10 @@ com-numerbiletu12381831932.sbs
 com-numerbiletu128312391.sbs
 com-numerbiletu132831031.sbs
 com-numerbiletu18329313.sbs
+com-numerbiletu213993012.sbs
 com-numerbiletu3821831923.sbs
+com-numerbiletu831909123.sbs
+com-numerbiletu8319239123.sbs
 com-numerbiletu9328131231.sbs
 com-oferta3491293912.sbs
 com-oferta8129391391.sbs
@@ -49755,6 +49798,7 @@ condenseddisgustingconform.com
 condescending-snyder.54-39-209-236.plesk.page
 condescendingaveragerain.com
 condescendingtenant.com
+condidibar.store
 condimentdisillusionnosebleed.com
 condispelfear.com
 conditionchange.com
@@ -52799,6 +52843,7 @@ cqvdcacatbv.com
 cqvdcacatcabv.com
 cqvdcatbv.com
 cqvxrmwcwyvad.site
+cqxfhwmednxod.online
 cqyhd.com
 cqyqh.com
 cqzddfxybkwcw.online
@@ -52898,6 +52943,7 @@ craftandkeeper.eu
 craftandplank.com
 craftdcecor.shop
 craftedfolk.com
+craftedjournal.com
 craftedwithfuture.digital
 craftessays.com
 crafthenry.com
@@ -55227,6 +55273,7 @@ cybersec-openai.xyz
 cybersecurity.contractors
 cybersecurity.mba
 cybersecuritybank.com
+cybershokex.pro
 cybersound.netau.net
 cyberspace-ar5.pages.dev
 cybersport.site
@@ -55367,6 +55414,7 @@ cytadelafundanis.net
 cytadelaskarbur-pl.com
 cytadelaskarbur.net
 cytheriata40.top
+cytorytolap.lovable.app
 cytotoxicitiesvaqqsty.info
 cytzzn.com
 cyu.ferienhaus-schleifenbach.de
@@ -58342,6 +58390,7 @@ dcdlnxglgfmpl.online
 dcdn.adnxs.com
 dcdryer.com
 dcengg.org
+dcennnmyxxefo.site
 dcerypvyrkeyk.space
 dcf10787-fe85-469d-849d-6166a0ca8801.petexcel.de
 dcf83c75.heftrucksbelgie.eu
@@ -61612,6 +61661,7 @@ discordvip.createsocialcard.top
 discordx.net
 discordxsteam-partner.github.io
 discorg.gg
+discoriesp.store
 discorl.com
 discorrd.com
 discorrd.ru
@@ -62192,11 +62242,16 @@ dk-dostarczamy24inpost.cyou
 dk-ekstrabladet.vp.videoplaza.tv
 dk-fk0160gc.sbs
 dk-fk1839gc.sbs
+dk-fk1945gc.sbs
 dk-fk2389gc.sbs
+dk-fk4236gc.sbs
 dk-fk60127gc.sbs
+dk-fk6284gc.sbs
 dk-fk7348gc.sbs
+dk-fk7845gc.sbs
 dk-fk8342gc.sbs
 dk-fk8453gc.sbs
+dk-fk9211gc.sbs
 dk-fk9237gc.sbs
 dk-fk9412gc.sbs
 dk-fornysundhed.com
@@ -69254,6 +69309,7 @@ emeginternational.com
 emekw.com
 emelectric.org
 emeliegypteg.shop
+emendlosca.store
 emenlause1987.blogspot.be
 emenlause1987.blogspot.com
 ementseconom.org
@@ -69948,59 +70004,3 @@ ensis.eng.br
 ensiswealth.com
 ensiva.shop
 ensmwonhtzpdh.space
-ensorcelerrd.info
-enstart-ledgeapp.wixstudio.com
-enstat.xbext.com
-ensueaged.com
-ensuite-trexor.square.site
-ensurequiverlong.com
-ensuresmall.icu
-ent-membershiponboarding.online
-ent1.12584.cn
-ent555.com
-entailreprintfurnished.com
-entangledwriting.com
-entangleversatile.com
-entasystem.online
-entatic.co
-entdocs.net
-entek.fr
-enter-auth-see-siwwshuu.github.io
-enter-rabby-io-uss.wasmer.app
-enter.markepape.com
-entercash.ru
-entercasino.com
-enterdrama.com
-enteringgranary.com
-enteringlacquergiant.com
-entermedia.pl
-enterprisealso.com
-enterprisedumpling.com
-enterprisemediagroup.112.2o7.net
-enterprisenewsmedia.122.2o7.net
-entertainedoccasional.com
-entertainedpremieresettled.com
-entertainenslave.com
-entertainingheedless.com
-entertainmentup.com
-entertainrankreprimand.com
-entertainskin.com
-enterthename13.bbsindex.com
-enterthesearch.com
-entgresthaveld.top
-enthalpiezzs.info
-enthefeetofthea.org
-enthrnnalling.info
-enthronediscovering.com
-enthusiastic-age.base44.app
-enthusiasticground.com
-enthusiasticinsanity.com
-enthusiasticraspberrydecoy.com
-entia.site
-enticecreep.com
-entire-positive.com
-entitlements.jwplayer.com
-entitlements.kochava.com
-entitygaming.in
-entjgcr.com
-entmoldkavestrik.top
