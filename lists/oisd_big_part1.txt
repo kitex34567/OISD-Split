@@ -1,7 +1,7 @@
 # OISD Big Blocklist – Part 1
 # Source : https://big.oisd.nl/domainswild
-# Updated: 2026-11-20T18:26:23Z
-# Entries: 70,000 (of 226,336 total)
+# Updated: 2026-11-21T01:16:33Z
+# Entries: 70,000 (of 226,434 total)
 # Format : plain domain (Palo Alto EDL compatible)
 #
 0--foodwarez.da.ru
@@ -212,7 +212,6 @@
 0571yy.com
 0571zxw.com
 0577pk.com
-05819129.sbs
 05867500b2.7a28c1843f.com
 0591101.com
 05916.com
@@ -5770,7 +5769,6 @@
 7045904-dot-oaao-274308.uc.r.appspot.com
 7060.la
 707.bapi.adsafeprotected.com
-707.su
 708.jiejie51-f1512.cc
 708267.rbguae.com
 708ec1c33c.b4a03471a7.com
@@ -16250,6 +16248,7 @@ aivzqagmhkndd.online
 aiwanma99.com
 aiwatchlist.vip
 aiwoxin.com
+aiwsdkxqizteg.online
 aixcdn.com
 aixcointrade.com
 aixkmxfejbsvb.online
@@ -16564,6 +16563,7 @@ aktmixzlwpyrs.online
 aktpl.com
 aktualisierung.github.io
 aktualizaciazabezpecenia.web.app
+aktualizacja-gov.com
 aktualizacja-pl.com
 aktualizacja-pl.net
 aktualizacja-platnosci.com
@@ -17309,6 +17309,7 @@ alebilet.oferta39.shop
 alebilet.oferta3zm493wnfi244n.cfd
 alebilet.oferta56.shop
 alebilet.oferta63890.shop
+alebilet.oferta84772686.shop
 alebilet.ofertaprywatna.shop
 alebilet.pl-166373.shop
 alebilet.pl-8293gsjol.cfd
@@ -17343,11 +17344,14 @@ alebilet.pl-oferta983712506.shop
 alebilet.pl-ogloszenie697382133.shop
 alebilet.pl-ogloszenie8710931437.cfd
 alebilet.pl-platnosci740938278.cfd
+alebilet.pl-zamow-id817412412.cfd
 alebilet.pl-zamow-id984127481.cfd
+alebilet.pl014.sbs
 alebilet.pl91zc841.cyou
 alebilet.prywatnaoferta.shop
 alebilet.prywatnaoferta1.shop
 alebilet.prywatnaoferta2.shop
+alebilet.ps-transport603.top
 alebilet.qp-offertanr72583.cyou
 alebiletprywatnaoferta.shop
 alebiletprywatnaoferta3.shop
@@ -17992,6 +17996,7 @@ allegro.prywean8329120h5.study
 allegro.prywna71812.best
 allegro.prywnam12391210.me
 allegro.ps-83njr49xns5471.rest
+allegro.ps-transport603.top
 allegro.psnag347199.pl
 allegro.puv7348298192fio.surf
 allegro.pwiq8u1299.qpon
@@ -18095,6 +18100,7 @@ allegrolokalnie.aukcja9532403.shop
 allegrolokalnie.bezpieczna-transakcja741026395817624.shop
 allegrolokalnie.bezpieczny-zakup183640927518604.shop
 allegrolokalnie.cmo382012-4502-1.help
+allegrolokalnie.directhttps-pl.sbs
 allegrolokalnie.dk-dostarczamy72519.cyou
 allegrolokalnie.dk-oferta815964.sbs
 allegrolokalnie.dk-oferta974016.top
@@ -18183,7 +18189,9 @@ allegrolokalnie.o1v27182991.study
 allegrolokalnie.ofer0672.cfd
 allegrolokalnie.ofer24352.sbs
 allegrolokalnie.oferta-326123.cfd
+allegrolokalnie.oferta-817831319.sbs
 allegrolokalnie.oferta-lokalna.cfd
+allegrolokalnie.oferta-nr127837.sbs
 allegrolokalnie.oferta.co.za
 allegrolokalnie.oferta0195873759235.cfd
 allegrolokalnie.oferta0493824024852.cfd
@@ -18301,11 +18309,13 @@ allegrolokalnie.pl-oferta-3465923.shop
 allegrolokalnie.pl-oferta-3859645.shop
 allegrolokalnie.pl-oferta-8458934.shop
 allegrolokalnie.pl-oferta-iphone-14-pro-256-gb-super-stan-srebrny.plas.qzz.io
+allegrolokalnie.pl-oferta-konsola-playstation-5.sbs
 allegrolokalnie.pl-oferta-lokalna5894398543.click
 allegrolokalnie.pl-oferta-lokalna6785492.live
 allegrolokalnie.pl-oferta-mac-studio-m3-ultra-32cpu-80-gpu.digital
 allegrolokalnie.pl-oferta-prywatna738483629.click
 allegrolokalnie.pl-oferta-prywatna7584634.click
+allegrolokalnie.pl-oferta-prywatna92383.cfd
 allegrolokalnie.pl-oferta001782002802010.shop
 allegrolokalnie.pl-oferta018272938000173718.shop
 allegrolokalnie.pl-oferta08513893.shop
@@ -18321,6 +18331,7 @@ allegrolokalnie.pl-oferta2172189.click
 allegrolokalnie.pl-oferta21892.click
 allegrolokalnie.pl-oferta2192971.click
 allegrolokalnie.pl-oferta2193799.click
+allegrolokalnie.pl-oferta219874365.cfd
 allegrolokalnie.pl-oferta23921814.com
 allegrolokalnie.pl-oferta2691457.shop
 allegrolokalnie.pl-oferta274878.click
@@ -18378,6 +18389,7 @@ allegrolokalnie.pl-ogloszezenie01127894.shop
 allegrolokalnie.pl-prywatne.eu.cc
 allegrolokalnie.pl-smart24.pl
 allegrolokalnie.pl-zakup.shop
+allegrolokalnie.pl-zamow-id984127481.cfd
 allegrolokalnie.pl01.club
 allegrolokalnie.pl01.me
 allegrolokalnie.pl01.pro
@@ -19668,6 +19680,7 @@ ammedieval.org
 ammemcliqu.store
 ammhmvurnghxn.space
 ammica.com
+ammircontr.store
 ammkaqpak.in
 ammkthgqgatco.space
 ammoniacognatesupportive.com
@@ -24487,6 +24500,7 @@ aryakepenk.com
 aryana.io
 aryancrack.com
 arzaeterna.com
+arztgkaxj.com
 arzzapaimaspusillanimities.info
 as-api.whitecoatinvestor.com
 as-datareceiver.aki-game.net
@@ -27476,6 +27490,7 @@ azenhas.com
 azerocarbon.com
 azertyujk.weebly.com
 azetvyqeskrcs.space
+azevalaovugqg.space
 azevilianmys.firebaseapp.com
 azfpkrxjbsduf.space
 azfront.com
@@ -29823,6 +29838,7 @@ bdpgjmobltabc.space
 bdphtzfhmnfxo.space
 bdrrtgdhzqbxk.online
 bdrv7wlbszfotkqf.uk
+bdrykffavezxq.website
 bds.nut.cc
 bds.snssdk.com
 bdscdr.com
@@ -32165,6 +32181,7 @@ biedronka-pot.shop
 biedronka.superpharms.shop
 biedronka24.pm
 biedronkagift.com
+biedronkahome.top
 biedronkaoutlets-pl.shop
 biedronkasale-zakupy.shop
 biedronkath.com
@@ -35796,6 +35813,7 @@ boutiquef1.fr
 boutiqueferrari.fr
 boutiquehomla.com
 boutiquehotelmasolino.live
+boutiqueinsel.de
 boutiquerenault.fr
 boutiquerenaultsport.fr
 boutiquerugbyfrance.fr
@@ -38960,7 +38978,6 @@ bussiness-metasupports.pages.dev
 bussinesscenterpage-helpspolicy.pages.dev
 bussinesscenters-helppolicy.pages.dev
 bussinessecuritypages.start.page
-bussinessmeta.workers.dev
 bussinesspolicy-helps-centre.pages.dev
 busstrade.com
 bustaptlyfortunately.com
@@ -41132,7 +41149,6 @@ carbonull.com
 carbox.xyz
 carboxwwylase.info
 carbuncccles.info
-carcaran.com
 carcflma.de
 carclub1.com
 card.invoice-payment.cc
@@ -41935,7 +41951,6 @@ casino-vegas-plus.fr
 casino-vice-fr.fr
 casino-viggoslots.fr
 casino-vival-spar.fr
-casino-vulkan-vegas.pl
 casino-wazamba.fr
 casino-west-ace.fr
 casino-westace.fr
@@ -45893,6 +45908,7 @@ chyttrjedemlq.website
 chzcjttcjtycz.site
 chzhqwirsxmad.online
 chzowqzedjocl.space
+chzukqyxheldq.website
 ci-collab.land
 ci.minustrans.com
 ci.nextlgsdp.com
@@ -47999,6 +48015,7 @@ cmi-clt.firebaseapp.com
 cmi-clt.web.app
 cmicapui.ce.gov.br
 cmielow.info.pl
+cmir.mx
 cmisaludocupacional.com
 cmiupqlouwnnw.website
 cmjwzfzuwisst.site
@@ -49538,6 +49555,7 @@ computertechanalysis.com
 computerworldcom.112.2o7.net
 computerxchange.com
 computkkations.info
+computraco.store
 comradefoundation.com
 comradegoodsfloor.com
 comradl3.beget.tech
@@ -51760,7 +51778,6 @@ coveringbarrister.com
 coveringevergreenstayed.com
 coveringstrawberries.com
 coverlayer.com
-coverlimited.com
 covermania.com
 covertina.com
 coverty.it
@@ -54495,6 +54512,7 @@ cuirt-gruidly-synauch.yolasite.com
 cuisineenvoyadvertise.com
 cuisineontheroadspr.com
 cuisinevoyager.com
+cuissenwardage.rest
 cuivordvonnsy.site
 cujgqmnqwsgjt.website
 cujkqrmdhoqap.website
@@ -54720,7 +54738,6 @@ curriculture.com
 curriculumoutcry.com
 currilytrade.de
 currrent-kids.com
-curryfielddistribution.com
 curryheroine.com
 cursecrookadvantage.com
 cursimgroup.com
@@ -60309,6 +60326,7 @@ dgtmarket.com
 dgtnmhdfgnh.w3spaces.com
 dgtsowpvnhodi.site
 dgu9g3a2kzqx2.cloudfront.net
+dguveltqwkzyg.online
 dguvjpegbqawv.online
 dgvhzcxksncni.website
 dgw7ae5vrovs7.cloudfront.net
@@ -60439,6 +60457,7 @@ dhyrdvvxrxjtn.online
 dhysllhtvdbfa.online
 dhyuzmani.com
 dhzcz.com
+dhzpxeelmcuae.website
 dhzws7l31cq8p.cloudfront.net
 di-collab.land
 di028lywwye7s.cloudfront.net
@@ -61033,6 +61052,7 @@ dintrixapp.org
 dinxkqucszaza.space
 dinxteam.com
 dinzfafad.in
+dinzzqoitqmeo.online
 dioasis.com
 dioaueqgulrdm.site
 dioiok.com
@@ -61725,7 +61745,6 @@ distinctfreight.co.zw
 distinctionloadedadjourn.com
 distinctlye.com
 distinctrobin.com
-distinctteaching.pro
 distinguishmotor.com
 distinyction.shop
 distnode.biz
@@ -61991,6 +62010,7 @@ djy5cw.blow.harrisretreat.com
 djyokoo.com
 djz9es32qen64.cloudfront.net
 djzxoqkezic.com
+dk-9431941.sbs
 dk-dostawczak7265inpost.cyou
 dk-dowieziemy92752.cyou
 dk-ekstrabladet.vp.videoplaza.tv
@@ -62086,6 +62106,7 @@ dkwra9.close.futureisready.com
 dkwtrzrrejqls.club
 dkwwiibjjvawu.website
 dkxjf.com
+dkxqafejvrfai.website
 dkxtzubbtmzie.space
 dkyp75kj7ldlr.cloudfront.net
 dkypt.com
@@ -63855,6 +63876,7 @@ dpd.cipropill.com
 dpd.cuj.temporary.site
 dpd.fbxjmra.club
 dpd.iflowcore-expres.click
+dpd.moxisa.shop
 dpd.nqhvble.cloud
 dpd.paycore-pl-action.eu.cc
 dpd.paypau-pl.eu.cc
@@ -64818,6 +64840,7 @@ dsiblb.com
 dsicrod.com
 dsicxo.com
 dsidas.com
+dsifphfbfeazr.space
 dsiill.com
 dsik.gitbook.io
 dsilbm.com
@@ -65213,6 +65236,7 @@ dubaitasimacilik.com
 dubapkg.cmcmcdn.com
 dubbeldwars.com
 dubeaufinancial.com
+dubewyulity.autos
 dubibet.fr
 dubibetcasino.fr
 dubielvitrum.live
@@ -66170,7 +66194,6 @@ e-postbg.web.app
 e-pujcovna.eu
 e-rbsi.com
 e-sanpei.com
-e-scopes.com
 e-serviceparts.info
 e-shop.rvrcstore.com
 e-sozlesme.org
@@ -67755,6 +67778,7 @@ efore.info
 eforsa.pl
 efortiessdate.net
 eforu.com
+efpaprrpjzzao.website
 efpsschecslmc.online
 efpzwwfgmblee.site
 efqyemjuzgxrpd.firebaseapp.com
@@ -69498,6 +69522,7 @@ engelbertstrausz.pro
 engelbetstrausz.com
 engelsiztoplum.com
 engelsiztoplum.net
+engelsparfumerie.de
 engenerconstrucao.com.br
 engepool.com.br
 engie-axima.fr
@@ -69695,6 +69720,7 @@ enterprisealso.com
 enterprisedumpling.com
 enterprisemediagroup.112.2o7.net
 enterprisenewsmedia.122.2o7.net
+enterserig.store
 entertainedoccasional.com
 entertainenslave.com
 entertainingheedless.com
@@ -69978,29 +70004,3 @@ epicjackcasino.fr
 epickeys.com
 epiclexiprolab-ai.com
 epiclexiprolab-platform.com
-epiclexiprolab.click
-epiclotemax2u-es.com
-epiclotemax2u.pro
-epiclotemax2uia.com
-epiclotemaxfin-pro.pages.dev
-epiclotemaxfin.pro
-epiclotemaxhex-es.com
-epiclotemaxhex.click
-epiclotemaxhex.org
-epiclotemaxhex.pro
-epicmanerix-xp.digital
-epicmanerixxp.live
-epicmaxalt2u.pro
-epicmaxaltcap-pro.pages.dev
-epicmaxaltcap.pro
-epicmaxaltfintrade.com
-epicmaxalthub.biz
-epicmaxaltopt.pro
-epicmaxaltxpplatform.com
-epicoldschool.com
-epicoptiplex.live
-epicoptiplex.net
-epicoptiplex.pro
-epicoptiplextech-com.pages.dev
-epicoptiplextech.com
-epicrevenge.com
